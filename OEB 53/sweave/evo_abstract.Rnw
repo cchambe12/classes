@@ -1,0 +1,51 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//papers/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{flushright}
+Catherine Chamberlain
+\end{flushright}
+\begin{center}
+\LARGE\textbf{Abstract}
+\end{center}
+\section*{How has frost tolerance evolved in temperate forest deciduous trees?}
+
+I will write a review paper that investigates the evolution of frost tolerance in deciduous tree species found in temperate forests. Temperate tree species are at risk of freezing and drought events in the spring and must exhibit plastic phenological responses in order to best avoid these risks. Over the winter months, leaf buds in northern regions have evolved to harden and tolerate very low temperatures. This tolerance is possible through various methods including the synthesis of particular proteins and hormones, such as antifreeze proteins and ABA (abscisic acid). However, in the spring, those proteins and hormones will need to diminish in order to allow buds to deharden so that leaf primordia can be exposed and grow. The interplay of dehardening and frost-tolerance has evolved multiple times in many species. I will write a review that assesses the molecular and genetic evolution of temperate tree buds and frost tolerance across native species phylogenies occupying various ecological and climatic niches.
+
+\nocite{*}
+\bibliography{..//papers/FrostBuds.bib}
+\end{document}
