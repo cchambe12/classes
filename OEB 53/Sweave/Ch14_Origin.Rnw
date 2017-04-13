@@ -1,0 +1,62 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{flushright}
+Catherine Chamberlain
+\end{flushright}
+\section*{Response 8: Gould and Lewontin}
+\begin{enumerate}
+\item \textbf {What piece of evidence in this chapter was the strongest support for descent for modification in your opinion? Explain briefly. }
+\\
+\par
+ I think Darwin supports his claim of descent for modification best through his argument of the fossil record. Darwin says that there are various species forms within the fossil record that clearly show slow, graduated changes of a species over time. 
+
+\item\textbf { Is it the same piece of evidence that would be the strongest support for the average Victorian Englishman’s opinion? Why or why not?}
+\\
+\par
+This was largely disputed at the time. The greatest counter argument was the dispute over how old the Earth was at the time. So this argument would not be the strongest for the Victorian Englishman.
+
+\end{enumerate}
+
+
+
+
+
+
+\end{document}
