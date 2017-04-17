@@ -46,6 +46,17 @@ Catherine Chamberlain
 
 I will write a review paper that investigates the evolution of frost tolerance in deciduous tree species found in temperate forests. Temperate tree species are at risk of freezing and drought events in the spring and must exhibit plastic phenological responses in order to best avoid these risks. Over the winter months, leaf buds in northern regions have evolved to harden and tolerate very low temperatures. This tolerance is possible through various methods including the synthesis of particular proteins and hormones, such as antifreeze proteins and ABA (abscisic acid). However, in the spring, those proteins and hormones will need to diminish in order to allow buds to deharden so that leaf primordia can be exposed and grow. The interplay of dehardening and frost-tolerance has evolved multiple times in many species. I will write a review that assesses the molecular and genetic evolution of temperate tree buds and frost tolerance across native species phylogenies occupying various ecological and climatic niches.
 
+\section*{Additional notes}
+
+Endo-dormancy is the period of winter when temperate trees are inhibited from growing regardless of the outdoor environment. Eco-dormancy is the period of time when growth can occur but the external environment is not conducive to growth (e.g. too cold). Temperate trees require a certain number of chilling units in order to leave the endo-dormancy phase. This protects temperate and boreal trees from stochastic warm spells in winter. 
+
+\section*{Howe 2003 - From genotype to phenotype: unraveling the complexities of cold adaptation in forest trees}
+\begin{enumerate}
+\item Cold hardiness and fall phenology is genetically uncorrelated to cold hardiness and spring phenology.
+\end{enumerate}
+
+
+
 \nocite{*}
 \bibliography{..//papers/FrostBuds.bib}
 \end{document}
