@@ -40,7 +40,7 @@
 \begin{flushright}
 Catherine Chamberlain
 \end{flushright}
-\section*{Response 8: Gould and Lewontin}
+\section*{Response 9: Chapter 14}
 \begin{enumerate}
 \item \textbf {What piece of evidence in this chapter was the strongest support for descent for modification in your opinion? Explain briefly. }
 \\
