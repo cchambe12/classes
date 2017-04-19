@@ -1,49 +1,96 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{24}
 \providecommand{\natexlab}[1]{#1}
 
+\bibitem[{Aitken \& Hannerz(2001)}]{Aitken2001}
+Aitken, S.N. \& Hannerz, M. (2001) Genecology and gene resource management
+  strategies for conifer cold hardiness. \emph{Conifer cold hardiness}, pp.
+  23--53, Springer.
+
+\bibitem[{Alberto \emph{et~al.}(2013)Alberto, Aitken, Al{\'\i}a,
+  Gonz{\'a}lez-Mart{\'\i}nez, H{\"a}nninen, Kremer, Lef{\`e}vre, Lenormand,
+  Yeaman, Whetten \& et~al.}]{Alberto2013}
+Alberto, F.J., Aitken, S.N., Al{\'\i}a, R., Gonz{\'a}lez-Mart{\'\i}nez, S.C.,
+  H{\"a}nninen, H., Kremer, A., Lef{\`e}vre, F., Lenormand, T., Yeaman, S.,
+  Whetten, R. \& et~al. (2013) Potential for evolutionary responses to climate
+  change - evidence from tree populations. \emph{Global Change Biology}
+  \textbf{19}, 1645--1661.
+
 \bibitem[{BENEDICT \emph{et~al.}(2006)BENEDICT, SKINNER, MENG, CHANG, BHALERAO,
-  HUNER, FINN, CHEN \& HURRY}]{benedict06}
+  HUNER, FINN, CHEN \& HURRY}]{Benedict2006}
 BENEDICT, C., SKINNER, J.S., MENG, R., CHANG, Y., BHALERAO, R., HUNER, N.P.A.,
   FINN, C.E., CHEN, T.H.H. \& HURRY, V. (2006) The cbf1-dependent low
   temperature signalling pathway, regulon and increase in freeze tolerance are
   conserved in populus spp. \emph{Plant, Cell and Environment} \textbf{29},
   1259--1272.
 
+\bibitem[{Caffarra \& Donnelly(2011)}]{Caffarra2011}
+Caffarra, A. \& Donnelly, A. (2011) {The ecological significance of phenology
+  in four different tree species: Effects of light and temperature on bud
+  burst}. \emph{International Journal of Biometeorology} \textbf{55}, 711--721.
+
 \bibitem[{Cavender-Bares \emph{et~al.}(2015)Cavender-Bares,
-  Gonz{\'a}lez-Rodr{\'\i}guez, Eaton, Hipp, Beulke \& Manos}]{cavender15}
+  Gonz{\'a}lez-Rodr{\'\i}guez, Eaton, Hipp, Beulke \& Manos}]{Cavender2015}
 Cavender-Bares, J., Gonz{\'a}lez-Rodr{\'\i}guez, A., Eaton, D.A.R., Hipp,
   A.A.L., Beulke, A. \& Manos, P.S. (2015) Phylogeny and biogeography of the
   american live oaks (quercussubsectionvirentes): a genomic and population
   genetics approach. \emph{Molecular Ecology} \textbf{24}, 3668--3687.
 
-\bibitem[{Grime(1977)}]{grime77}
+\bibitem[{Chuine \emph{et~al.}(2001)Chuine, Aitken \& Ying}]{Chuine2001}
+Chuine, I., Aitken, S.N. \& Ying, C.C. (2001) Temperature thresholds of shoot
+  elongation in provenances ofpinus contorta. \emph{Canadian Journal of Forest
+  Research} \textbf{31}, 1444--1455.
+
+\bibitem[{Endler(1977)}]{Endler1977}
+Endler, J.A. (1977) \emph{Geographic variation, speciation, and clines}. 10,
+  Princeton University Press.
+
+\bibitem[{Fielder \& Owens(1989)Fielder \& Owens, John}]{Fielder1989}
+Fielder, P. \& Owens, John, N. (1989) A comparative study of shoot and root
+  development of interior and coastal douglas-fir seedlings. \emph{Canadian
+  Journal of Forest Research} \textbf{19}, 539--549.
+
+\bibitem[{Fuchigami \emph{et~al.}(1971)Fuchigami, Evert \&
+  Weiser}]{Fuchigami1971}
+Fuchigami, L., Evert, D. \& Weiser, C. (1971) A translocatable cold hardiness
+  promoter. \emph{Plant Physiology} \textbf{47}, 164--167.
+
+\bibitem[{Grime(1977)}]{Grime1977}
 Grime, J. (1977) Evidence for the existence of three primary strategies in
   plants and its relevance to ecological and evolutionary time. \emph{American
   Society of Naturalists} \textbf{111}, 1169--1194.
 
+\bibitem[{Howe \emph{et~al.}(2000)Howe, Saruul, Davis \& Chen}]{Howe2000}
+Howe, G., Saruul, P., Davis, J. \& Chen, T. (2000) Quantitative genetics of bud
+  phenology, frost damage, and winter survival in an f 2 family of hybrid
+  poplars. \emph{TAG Theoretical and Applied Genetics} \textbf{101}, 632--642.
+
 \bibitem[{Howe \emph{et~al.}(2003)Howe, Aitken, Neale, Jermstad, Wheeler \&
-  Chen}]{howe03}
+  Chen}]{Howe2003}
 Howe, G.T., Aitken, S.N., Neale, D.B., Jermstad, K.D., Wheeler, N.C. \& Chen,
   T.H. (2003) From genotype to phenotype: unraveling the complexities of cold
   adaptation in forest trees. \emph{Canadian Journal of Botany} \textbf{81},
   1247--1266.
 
 \bibitem[{Koehler \emph{et~al.}(2011)Koehler, Center \&
-  Cavender-Bares}]{koehler11}
+  Cavender-Bares}]{Koehler2011}
 Koehler, K., Center, A. \& Cavender-Bares, J. (2011) Evidence for a freezing
   tolerance-growth rate trade-off in the live oaks (quercus series virentes)
   across the tropical-temperate divide. \emph{New Phytologist} \textbf{193},
   730--744.
 
-\bibitem[{Larcher(2005)}]{larcher05}
+\bibitem[{Larcher(2005)}]{Larcher2005}
 Larcher, W. (2005) Climatic constraints drive the evolution of low temperature
   resistance in woody plants. \emph{Journal of Agricultural Meteorology}
   \textbf{61}, 189--202.
 
-\bibitem[{Lechowicz(1984)}]{lechowicz84}
+\bibitem[{Lechowicz(1984)}]{Lechowicz1984}
 Lechowicz, M. (1984) Why do temperate deciduous trees leaf out at different
   times? adaptation and ecology of forest communities. \emph{American Society
   of Naturalists} \textbf{124}, 821--842.
+
+\bibitem[{Morgenstern(2011)}]{Morgenstern2011}
+Morgenstern, M. (2011) \emph{Geographic variation in forest trees: genetic
+  basis and application of knowledge in silviculture}. UBC press.
 
 \bibitem[{Niinemets(2010)}]{niinemets10}
 Niinemets, {\"U}. (2010) Responses of forest trees to single and multiple
@@ -51,18 +98,38 @@ Niinemets, {\"U}. (2010) Responses of forest trees to single and multiple
   stress interactions, tolerance and acclimation. \emph{Forest Ecology and
   Management} \textbf{260}, 1623--1639.
 
-\bibitem[{Niinemets \& Valladares(2006)}]{niinemets06}
+\bibitem[{Niinemets \& Valladares(2006)}]{Niinemets2006}
 Niinemets, {\"U}. \& Valladares, F. (2006) Tolerance to shade, drought, and
   waterlogging of temperate northern hemisphere trees and shrubs.
   \emph{Ecological Monographs} \textbf{76}, 521--547.
 
-\bibitem[{Rodrigo(2000)}]{rodrigo00}
+\bibitem[{Partanen(2004)}]{Partanen2004}
+Partanen, J. (2004) Dependence of photoperiodic response of growth cessation on
+  the stage of development in picea abies and betula pendula seedlings.
+  \emph{Forest Ecology and Management} \textbf{188}, 137--148.
+
+\bibitem[{Rodrigo(2000)}]{Rodrigo2000}
 Rodrigo, J. (2000) Spring frosts in deciduous fruit rees - morphological damage
   and flower hardiness. \emph{Scientia Horticulturae} \textbf{85}, 155--173.
 
-\bibitem[{Svenning(2003)}]{svenning03}
+\bibitem[{Sakai \& Larcher(1987)}]{Sakai1987}
+Sakai, A. \& Larcher, W. (1987) \emph{Frost Survival of Plants}.
+  Springer-Verlag.
+
+\bibitem[{Schermann, N. \& Bastien(1997)}]{Schermann1997}
+Schermann, N., A.W.A.S. \& Bastien, J. (1997) Genetic parameters of stem form
+  traits in a 9-year-old coastal douglas-fir progeny test in washington.
+  \emph{Silvae Genetica} \textbf{46}, 166--170.
+
+\bibitem[{Svenning(2003)}]{Svenning2003}
 Svenning, J.C. (2003) Deterministic plio-pleistocene extinctions in the
   european cool-temperate tree flora. \emph{Ecology Letters} \textbf{6},
   646--653.
+
+\bibitem[{Vihera-aarnio \emph{et~al.}(2006)Vihera-aarnio, Hakkinen \&
+  Junttila}]{Viheraaarnio2006}
+Vihera-aarnio, A., Hakkinen, R. \& Junttila, O. (2006) Critical night length
+  for bud set and its variation in two photoperiodic ecotypes of betula
+  pendula. \emph{Tree Physiology} \textbf{26}, 1013--1018.
 
 \end{thebibliography}
