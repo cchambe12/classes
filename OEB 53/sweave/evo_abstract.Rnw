@@ -19,7 +19,7 @@
 \textheight 21.94cm 
 %\pagestyle{empty} %comment if want page numbers
 \parskip 7.2pt
-\renewcommand{\baselinestretch}{1.5}
+\renewcommand{\baselinestretch}{2}
 \parindent 0pt
 
 \newmdenv[
@@ -40,8 +40,15 @@
 Catherine Chamberlain
 \end{flushright}
 \begin{center}
-\LARGE\textbf{Abstract}
+\LARGE\textbf{The evolution of cold-adapted traits in temperate forest trees}
 \end{center}
+\section*{Introduction}
+
+Most temperate forest tree species have evolved from tropical origins. Across this temporal and spatial evolution, angiosperm tree species have needed to adapt to the climatic shifts that occur at higher latitudes - the most crucial shift being to the cold. Temperatures further north can reach -10$^{\circ}$C to -30$^{\circ}$C \citep{Larcher2005} or even as low as -30$^{\circ}$C to -50$^{\circ}$C \citep{Howe2003}. Tree species at more northern latitudes, in temperate or boreal regions, spend many months exposed to these very low temperatures. In order to avoid xylem embolism, defoliation, or death, trees must go dormant during this risk time. Over the winter months, leaf buds in northern regions have evolved to harden and tolerate these temperatures. This tolerance is possible through various methods including the synthesis of particular proteins and hormones, such as antifreeze proteins and ABA (abscisic acid) \citep{Martin2010}. However, in the spring, those proteins and hormones will need to diminish in order to allow buds to deharden so that leaf primordia can be exposed and grow. Temperate tree species are at risk of freezing and drought events in the spring and must exhibit plastic phenological responses in order to best avoid these risks \citep{Polgar2011}. The interplay of dehardening and frost-tolerance has evolved multiple times in many species in order to optimize growth and minimize risk.
+
+One mode of protection is through the dormancy process. There are two types of dormancy: endo- and eco-dormancy. Endo-dormancy is the period of winter when temperate trees are inhibited from growing regardless of the outdoor environment. Eco-dormancy is the period of time when growth can occur but the external environment is not conducive to growth (e.g. too cold) \citep{Basler2012, Samish1954}. Temperate trees require a certain number of chilling units in order to leave the endo-dormancy phase. This protects temperate and boreal trees from stochastic warm spells in winter. Chilling units differ across species and across habitats, which has evolved as one mode of protection against late spring frosts. Species in regions that are more susceptible to late spring frosts are more likely to have higher chilling requirements to break dormaancy and will likely respond to spring temperature cues more than photoperiod cues for leaf budburst to occur. 
+
+
 \section*{How has frost tolerance evolved in temperate forest deciduous trees?}
 
 I will write a review paper that investigates the evolution of frost tolerance in deciduous tree species found in temperate forests. Temperate tree species are at risk of freezing and drought events in the spring and must exhibit plastic phenological responses in order to best avoid these risks. Over the winter months, leaf buds in northern regions have evolved to harden and tolerate very low temperatures. This tolerance is possible through various methods including the synthesis of particular proteins and hormones, such as antifreeze proteins and ABA (abscisic acid). However, in the spring, those proteins and hormones will need to diminish in order to allow buds to deharden so that leaf primordia can be exposed and grow. The interplay of dehardening and frost-tolerance has evolved multiple times in many species. I will write a review that assesses the molecular and genetic evolution of temperate tree buds and frost tolerance across native species phylogenies occupying various ecological and climatic niches.
@@ -102,7 +109,7 @@ Studies indicate that species growing at more northern latitudes tend to respond
 
 \section*{Larcher 2005 - Climatic constraints drive the evolution of low temperature resistance in woody plants}
 \begin{enumerate}
-\item 
+\item The adaptation to frost resistance evolved in a stepwise progression.
 
 
 
@@ -111,19 +118,18 @@ Studies indicate that species growing at more northern latitudes tend to respond
 
 \section*{Lechowicz 1984 - Why do temperate deciduous trees leaf out at different times? Adaptation and ecology of forest communities}
 \begin{enumerate}
-\item 
-
-
-
+\item Variation in leaf out phenology across temperate forest trees can be attributed to three factors: phlyogenetic effects, historical or epigenetic effects, or adaptive traits. 
+\item Historical effects - trees that dispersed to a new habitat may leaf out based on traits acquired from the provenance location. 
 
 \end{enumerate}
 
 \section*{Alberto 2013 - Potential for evolutionary response to climate change - evidence from tree populations}
 \begin{enumerate}
-\item 
-
-
-
+\item Tree species with smaller ranges and fragmented distributions are more prone to genetic drift. The capacity for dispersal and propogation is crucial for local adaptation and to respond to changes in climate. 
+\item "Forst tree populations harbor considerable genetic variability in many quantitative traits (Cornelius, 1994; Morgenstern1996; Howe2003)." However, trees growing in the wild will generally have lower levels of heritabilities and greater environmental variation (Conner et al., 2003). 
+\item Individuals or species with many loci with small effects will respond to strong selection on cold adapted phenotypes. 
+\item Temperate and boreal trees must by phenotypically plastic in order to respond to the varying climate. With adaptive plasticity, trees will be more able to track with climate change. However, this will result in weaker selective pressures and, ultimately, slower changes in adaptation. Studies have found that plastic responses to large shifts in climate outweigh the decreased selection (Chevin and Lande, 2010; Lande, 2009).
+\item The effects of climate change may be harder for fragmented populations to track, however, if there is sufficient gene flow, such populations should be able to track changes as well as continuous populations. Although, some continuous populations may have greater genetic variation than their fragmented counterparts. 
 
 \end{enumerate}
 
