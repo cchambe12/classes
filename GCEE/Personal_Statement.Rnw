@@ -1,0 +1,63 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{geometry}
+\usepackage{pdflscape}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Personal Statement}
+
+{\textbf {The personal statement should be no more than 500 words describing your interest in, and qualifications for, the program and specifically indicate how it relates to your graduate work.}
+\newline
+
+Humans and the natural environment are inextricably linked. Investment into environmental scientific research and green energy is essential to mitigate the adverse effects that human disturbance and global environmental change have on ecosystems. The way in which the natural world and humans are completely intertwined offers endless opportunities for scientists: the environment is continually evolving, thus providing countless studies to be performed. I relish these opportunities as a researcher. There is no limit to growth and innovation. My career and personal aspirations are to be the best scientist that I can be. I want to expand my understanding of environmental policy, energy efficiency and political issues in order to not only bolster my thesis work but to also supplement my academic toolkit to realize my career goals. I truly believe becoming a member of the Graduate Consortium on Energy and Environment will help me achieve this. 
+
+Over the years, I have fortunately had the opportunity to work alongside conservation management teams at five different reserves in southern Africa and have assisted in various conservation efforts around Dublin, Ireland. In 2015, I earned an M.Sc degree in Biodiversity and Conservation at Trinity College Dublin. For my thesis, I spent two months in Mozambique, investigating the impact of humans on herbaceous species and consequently the effects on herbivores. Many of the issues involved in my master's thesis investigated the interplay between humans and wildlife, which made me realize the importance of incorporating economics, policy, and the public in ecological studies. Currently, I am interested in the effects of climate change on temperate forests and agricultural systems around the world. Specifically, I am studying the effects of late spring freezing events on these systems and how these events could potentially become more intense and widespread as climate change progresses. There is a large economic component that I cannot address appropriately by only using the resources of my lab or even department. I am hoping to gain a better understanding of the influence ecosystem services have in policy and I believe the Consortium on Energy and Environment will help me with that. I want to make a change. I want to work not only with plants and animals, but I also wish to help people. A balance needs to be established between the natural world and the continually advancing human world. I feel so passionately about this and wish so wholly to utilize my time here at Harvard as effectively as possible in order to prepare me for this fight once I graduate. 
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
