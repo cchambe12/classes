@@ -1,0 +1,64 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{geometry}
+\usepackage{pdflscape}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+\usepackage{lineno}
+\linenumbers
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+ 
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\begin{document}
+\title{False Spring Papers}
+\date{\today}
+\maketitle 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Spatial and temporal variability of the frost-free season in Central Europe and its circulation background - Wypych et al 2016}
+
+{\textbf{NOTES:}} 
+\begin{list}
+\item Across Central Europe, using only E-OBS dataset, no phenology data, from 1951-2010
+\item Did evaluate the start of the thermal growing season though
+\end{list}
+
+{\textbf{KEY TERMS:}} 
+\begin{list}
+\item 
+\end{list}
+{\textbf{KEY DEFINITIONS:}}
+\begin{list}
+\item FFS = Frost-Free Season, time between last spring frost until first autumn frost
+\end{list}
+
+
+\end{document}
