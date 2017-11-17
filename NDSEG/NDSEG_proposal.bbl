@@ -18,7 +18,7 @@ Hufkens, K., Friedl, M.~A., Keenan, T.~F., Sonnentag, O., Bailey, A., O'Keefe,
 Knudson, W.
 \newblock The economic impact of the spring's weather on the fruit and
   vegetable sectors.
-\newblock {\em The Strategic Marketing Institute Working Paper}{ \bf  (2012).
+\newblock  (2012).
 
 \bibitem{Ault2013}
 Ault, T.~R., Henebry, G.~M., de~Beurs, K.~M., Schwartz, M.~D., Betancourt,
@@ -67,20 +67,20 @@ Polgar, C., Gallinat, A., and Primack, R.~B.
 
 \bibitem{Inouye2008}
 Inouye, D.~W.
-\newblock Effects of climate chnage on phenology, frost damage, and floral
-  abundance of montane wildflowers.
+\newblock {Effects of climate change on phenology, frost damage, and floral
+  abundance of montane wildflowers}.
 \newblock {\em Ecology}{ \bf 89}(2), 353--362 (2008).
 
 \bibitem{Martin2010}
 Martin, M., Gavazov, K., K{\"{o}}rner, C., Hattenschwiler, S., and Rixen, C.
-\newblock Reduced early growing season freezing resistance in alpine treeline
-  plants under elevated atmospheric co 2.
+\newblock {Reduced early growing season freezing resistance in alpine treeline
+  plants under elevated atmospheric CO 2}.
 \newblock {\em Global Change Biology}{ \bf 16}(3), 1057--1070, Mar  (2010).
 
 \bibitem{Labe2016}
 Labe, Z., Ault, T., and Zurita-Milla, R.
-\newblock Identifying anomalously early spring onsets in the cesm large
-  ensemble project.
+\newblock {Identifying anomalously early spring onsets in the CESM large
+  ensemble project}.
 \newblock {\em Climate Dynamics}{ \bf 48}(11-12), 3949--3966, Aug  (2016).
 
 \bibitem{Polgar2011}
@@ -91,8 +91,8 @@ Polgar, C.~A. and Primack, R.~B.
 
 \bibitem{Basler2014}
 Basler, D. and Korner, C.
-\newblock Photoperiod and temperature responses of bud swelling and bud burst
-  in four temperate forest tree species.
+\newblock {Photoperiod and temperature responses of bud swelling and bud burst
+  in four temperate forest tree species}.
 \newblock {\em Tree Physiology}{ \bf 34}(4), 377--388, Apr  (2014).
 
 \bibitem{Augspurger2009}
@@ -118,8 +118,8 @@ Allstadt, A.~J., Vavrus, S.~J., Heglund, P.~J., Pidgeon, A.~M., Wayne, E., and
 \bibitem{Muffler2016}
 Muffler, L., Beierkuhnlein, C., Aas, G., Jentsch, A., Schweiger, A.~H., Zohner,
   C., and Kreyling, J.
-\newblock Distribution ranges and spring phenology explain late frost
-  sensitivity in 170 woody plants from the northern hemisphere.
+\newblock {Distribution ranges and spring phenology explain late frost
+  sensitivity in 170 woody plants from the Northern Hemisphere}.
 \newblock {\em Global Ecology and Biogeography}{ \bf 25}(9), 1061--1071, May
   (2016).
 
@@ -128,6 +128,7 @@ Xin, Q.
 \newblock {A risk-benefit model to simulate vegetation spring onset in response
   to multi-decadal climate variablity: Theoretical basis and applications from
   the field to the Northern Hemisphere}.
-\newblock {\em Agriculture and Forest Meteorology}{ \bf , 139--163 (2016).
+\newblock {\em Agriculture and Forest Meteorology}{ \bf 228-229}, 139--163
+  (2016).
 
 \end{thebibliography}
