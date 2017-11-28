@@ -103,22 +103,13 @@
 \textbf{Project Overview:}
 \par
 For my dissertation, I will be evaluating the effects of climate change --- specifically late spring freezing events --- on temperate forests. Late spring freezing events that occur after budburst are known as false springs and they are predicted to increased in intensity in certain regions as climate change progresses \citep{Kodra2011, Allstadt2015}
-. It is anticipated that budburst will initiate earlier in the spring, however last freeze dates will not advance at the same rate \citep{Labe2016}
-. This mismatch in timing could result in more intense false spring events for temperate tree species, especially species found in regions more at risk of these events. Individuals exposed to false springe events are at risk of leaf tissue loss, damage to the canopy, or even xylem embolism \citep{Gu2008} and buds are most at risk between budburst and leafout, when frost tolerance is lowest \citep{Lenz2016, Vitasse2014}.
+. It is anticipated that budburst will initiate earlier in the spring, however last freeze dates will not advance at the same rate \citep{Labe2016}. This mismatch in timing could result in more intense false spring events for temperate tree species, especially species found in regions more at risk of these events. Individuals exposed to false springe events are at risk of leaf tissue loss, damage to the canopy, or even xylem embolism \citep{Gu2008} and buds are most at risk between budburst and leafout, when frost tolerance is lowest \citep{Lenz2016, Vitasse2014}.
 
 Temperate plants have evolved to minimize false spring damage through a myriad of strategies, with the most effective being avoidance: plants must exhibit flexible spring phenologies in order to maximize growth and minimize frost risk by timing budburst effectively \citep{Polgar2011, Basler2014}. Other species have evolved various methods to enhance protection against false spring events, rather than attempt to avoid spring frosts by initiating budburst later in the season and shortening the growing season. Temperate species utilize various morphological strategies to increase survivability against false springs: some have more serations along the leaf margins in order to increase packability in winter buds, which accelerates the rate of budburst. Other species have more trichomes on juvenile leaves, which decreases the amount of intracellular ice formation and, therefore, minimizing damage risk. However, it is unclear how effective these protective strategies are against false springs. If the mismatch between spring onset and last freeze date amplifies with climate change, then the species that utilize avoidance strategies may be forced to employ less successful protective strategies. 
 
 The main objective of this experiment is to evaluate the interspecific variation in frost tolerance and success of protective strategies among temperate forest individuals. In order to do this, I closely monitored the phenology from budburst to leafout of 45 individuals across three species at the bud level. Once the majority of the buds had bursted on an individual but before the buds reached leafout, I placed the sapling in a growth chamber at -3$^{\circ}$C for 24 hours to induce a false spring event. I then observed the individual until every bud leafed out or died. Since frost tolerance is lowest between budburst and leafout, the primary focus of this study is the rate of leafout, which we will call the duration of vegetative risk, and how false spring events affect this rate. I will also assess the percentage of buds that reached full leafout. My hypothesis is that the duration of vegetative risk will increase after a freeze event and the percent budburst will be lower for individuals exposed to a false spring.
 
 In order to assess the duration of vegetative risk, I used rstan and rstanarm to construct a one level hierarchal model in a bayesian format. I will refer to the duration of vegetative risk as `dvr' when using it in a model framework.
-\begin{equation} \label{eq:1}
-dvr_i = \alpha_{ind[i]} + \beta_{tx_{ind[i]}} + \beta_{sp_{ind[i]}} + \sigma_{ind[i]}
-\end{equation}
-
-The equation I used in rstanarm is the same as the rstan model I built but instead it uses the stan_glmer function rather than stan syntax. 
-\begin{equation} \label{eq:2}
-dvr \thicksim \text{tx} + \text{sp} + (1 \mid ind) 
-\end{equation}
 
 To test both models, I began by simulating fake data. My fake data simulation can be found in my `freezingexperiment' repo on github (cchambe12/freezingexperiment/analyses/scripts/FakeBuds_Generate.R) and it provides notes and details on the construction. I used this fake data for both the rstanarm model and the rstan model. 
 
@@ -132,17 +123,13 @@ For my subsetted data, I have approximately 650 observations across three specie
 \par
 Originally, I was hoping to look at the effects of freezing on each bud and assess two levels of hierachy: the species level and then the individual level. However, after presenting in front of the class, there was a lot of concern about the bud numbering system. Many classmates suggested I measure the distance of each bud from the terminal bud and use that as another predictor value. I am hoping to somehow look at the varying effects of the freezing temperatures on each bud in relation to budburst time. For example, if an axial bud had initiated budburst before going in the growth chamber but the terminal bud did not, then I would expect different effect sizes of the freezing treatment between these two buds. However, if I am looking at treatment as a predictor than this would be pseudoreplicating. Should I focus on each bud as a unique case and use the freezing date as an indicator for freezing treatement at the bud level? But then I would not include whole individual effects. For now, I think the best way is to do two simpler models asking each of these questions and then reevaluating. The simplest model may be to look at percent budburst as the response variable and then have treatment as the predictor.
 
+For the question investigating the probability of leafout success, I will use a beta-binomial distribution model, to provide a distribution for the probability of success, which is random. A beta-binomial distribution model is crucial for this section of my project to provide a better fit to my model and limit overdispersion. 
 
 \textbf{Initial Results:}
 \par
-The linear model (percentBB~tx) suggests that a freezing treatment results in a lower budburst percentage, however, the coefficient standar error, R-Squared value and residual standard deviation indicate low effect sizes. There is an issue of statistical power across this entire experiment. Attached are a couple of figures looking at the total data breakdown, the differences in duration of vegetative risk across bud number, and percent budburst across the two birch species. I plan on investigating the bud dilemma further, looking at different types of models and potentially adding more species, and also integrating these questions into a bayesian framework. 
+The linear model (percentBB \thicksim tx) suggests that a freezing treatment results in a lower budburst percentage, however, the coefficient standar error, R-Squared value and residual standard deviation indicate low effect sizes. There is an issue of statistical power across this entire experiment. Attached are a couple of figures looking at the total data breakdown, the differences in duration of vegetative risk across bud number, and percent budburst across the two birch species. I plan on investigating the bud dilemma further, looking at different types of models and potentially adding more species, and also integrating these questions into a bayesian framework. 
 
-\textbf{Feedback Evaluation:}
-\par
-Feedback was helpful, hard to provide feedback on a topic you only learn in 7 minutes! That said I still rank all of my feedback-ers pretty high.
-(E) - 4 
-(F) - 5 
-(G) - 4
+
 
 
 \newpage
