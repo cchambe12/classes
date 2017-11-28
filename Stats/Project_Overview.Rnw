@@ -21,10 +21,10 @@
 \textheight 21.94cm 
 %\pagestyle{empty} %comment if want page numbers
 \parskip 7.2pt
-\renewcommand{\baselinestretch}{1.5}
+\renewcommand{\baselinestretch}{2}
 \parindent 0pt
 \usepackage{lineno}
-\linenumbers
+%\linenumbers
 
 \newmdenv[
   topline=true,
@@ -46,7 +46,7 @@ library(lubridate)
 @
 
 \begin{document}
-\title{Project Overview: The effects of false spring events on sapling buds}
+\title{The effects of false spring events on sapling buds}
 \author{Catherine Chamberlain}
 \date{\today}
 \maketitle 
@@ -58,115 +58,88 @@ library(lubridate)
 \renewcommand{\labelitemi}{$-$}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\textbf{Project Overview:}
+\textbf{Introduction to False Spring:}
 \par
 For my dissertation, I will be evaluating the effects of climate change --- specifically late spring freezing events --- on temperate forests. Late spring freezing events that occur after budburst are known as false springs and they are predicted to increased in intensity in certain regions as climate change progresses \citep{Kodra2011, Allstadt2015}
 . It is anticipated that budburst will initiate earlier in the spring, however last freeze dates will not advance at the same rate \citep{Labe2016}. This mismatch in timing could result in more intense false spring events for temperate tree species, especially species found in regions more at risk of these events. Individuals exposed to false springe events are at risk of leaf tissue loss, damage to the canopy, or even xylem embolism \citep{Gu2008} and buds are most at risk between budburst and leafout, when frost tolerance is lowest \citep{Lenz2016, Vitasse2014}.
 
-Temperate plants have evolved to minimize false spring damage through a myriad of strategies, with the most effective being avoidance: plants must exhibit flexible spring phenologies in order to maximize growth and minimize frost risk by timing budburst effectively \citep{Polgar2011, Basler2014}. Other species have evolved various methods to enhance protection against false spring events, rather than attempt to avoid spring frosts by initiating budburst later in the season and shortening the growing season. Temperate species utilize various morphological strategies to increase survivability against false springs: some have more serations along the leaf margins in order to increase packability in winter buds, which accelerates the rate of budburst. Other species have more trichomes on juvenile leaves, which decreases the amount of intracellular ice formation and, therefore, minimizing damage risk. However, it is unclear how effective these protective strategies are against false springs. If the mismatch between spring onset and last freeze date amplifies with climate change, then the species that utilize avoidance strategies may be forced to employ less successful protective strategies. 
+Temperate plants have evolved to minimize false spring damage through a myriad of strategies, with the most effective being avoidance: plants must exhibit flexible spring phenologies in order to maximize growth and minimize frost risk by timing budburst effectively \citep{Polgar2011, Basler2014}. Other species have evolved various methods to enhance protection against false spring events, rather than attempt to avoid spring frosts by initiating budburst later in the season and subsequently shortening the growing season. Temperate species utilize such protective strategies via various morphological strategies to increase survivability against false springs: some have more serations along the leaf margins in order to increase packability in winter buds, which accelerates the rate of budburst. Other species have more trichomes on juvenile leaves, which decreases the amount of intracellular ice formation and, therefore, minimizing damage risk. However, it is unclear how effective these protective strategies are against false springs. If the mismatch between spring onset and last freeze date amplifies with climate change, then the species that utilize avoidance strategies may be forced to employ less successful protective strategies. 
 
-The main objective of this experiment is to evaluate the interspecific variation in frost tolerance and success of protective strategies among temperate forest individuals. In order to do this, I closely monitored the phenology from budburst to leafout of 45 individuals across three species at the bud level. Once the majority of the buds had bursted on an individual but before the buds reached leafout, I placed the sapling in a growth chamber at -3$^{\circ}$C for 24 hours to induce a false spring event. I then observed the individual until every bud leafed out or died. Since frost tolerance is lowest between budburst and leafout, the primary focus of this study is the rate of leafout, which we will call the duration of vegetative risk, and how false spring events affect this rate. I will also assess the percentage of buds that reached full leafout. My hypothesis is that the duration of vegetative risk will increase after a freeze event and the percent budburst will be lower for individuals exposed to a false spring.
+The main objective of this experiment is to evaluate the interspecific variation in frost tolerance and success of protective strategies among temperate forest individuals. In order to do this, I closely monitored the phenology from budburst to leafout of 29 individuals across two species (\textit{Betula papyrifera} and \textit{B. populifolia}) at the bud level. Once the majority of the buds had bursted on an individual, but before the buds reached leafout, I placed the sapling in a growth chamber at -3$^{\circ}$C for 24 hours to induce a false spring event. I then observed the individual until every bud leafed out or died. Since frost tolerance is lowest between budburst and leafout, the primary focus of this study is the rate of leafout, which we will call the duration of vegetative risk, and how false spring events affect this rate. I will also assess the percentage of buds that reached full leafout. My hypothesis is that the duration of vegetative risk will increase after a freeze event and the percent leafout will be lower for individuals exposed to a false spring.
 
+\textbf{Models and Output:}
+\par
 In order to assess the duration of vegetative risk, I used rstan and rstanarm to construct a one level hierarchal model in a bayesian format. I will refer to the duration of vegetative risk as `dvr' when using it in a model framework.
 \begin{equation} \label{eq:1}
-dvr_i = \alpha_{ind_(i)} + \beta_{tx_{ind_(i)}} + \beta_{sp_{ind_(i)}} + \sigma_{ind_(i)}
+dvr_i = \alpha_{ind_(i)} + \beta_{tx_{ind_{(i)}}} + \beta_{sp_{ind_{(i)}}} + \sigma_{ind_{(i)}}
 \end{equation}
 
-The equation I used in rstanarm is the same as the rstan model I built but instead it uses the stan_glmer() function rather than stan syntax. 
+The equation I used in rstanarm is the same as the rstan model I built but instead it uses the stan\_glmer() function rather than stan syntax. 
 \begin{equation} \label{eq:2}
-dvr \thicksim \text{tx} + \text{sp} + (1 \mid ind) 
+dvr \sim tx + sp + (1|ind) 
 \end{equation}
 
-To test both models, I began by simulating fake data. My fake data simulation can be found in my `freezingexperiment' repo on github (cchambe12/freezingexperiment/analyses/scripts/FakeBuds_Generate.R) and it provides notes and details on the construction. I used this fake data for both the rstanarm model and the rstan model. 
+To test both models, I began by simulating fake data. My fake data simulation can be found in my `freezingexperiment' repo on github (cchambe12/freezingexperiment/analyses/scripts/FakeBuds\_Generate.R) and it provides notes and details on the construction. I used this fake data for both the rstanarm model and the rstan model. I am currently in the process of creating fake data through apply funcitons rather than loops but have been unsuccessful thus far. 
 
-\textbf{Overall Project Aim:}
+The stan syntax and model can be found in the same repo through a similar github path: ..//scripts/buds\_sp\_pred\_poola.stan with the executed stan code in ..//scripts/buds\_stan\_code.R. My model is built on un-iformative priors as Andrew suggests, however, for the first many iterations, I thought my priors were influencing the errors I received. Once I increased warmup, number of iterations, and number of chains, the number of divergent transitions diminished significantly and my $\hat{R}$ values moved closer to 1. I used my fake data to solve these issues and then I performed posterior predictive checks before using the real data. 
+
+All of the cleaning for my real data for both models can be found in the same github repo in ..//scripts/buds\_analysis.R. When I began using my real data, I realized the importance of correctly classifying each parameter that was included in the model, for example, I need to use as.numeric(as.factor) for my `species' variable. Once all parameters were correctly classified, my model ran smoothly and I found the rstan model and rstanarm models to produce the same output. As anticipated, the false spring treatment had a greater affect than species and the model suggests a false spring can increase the duration of vegetative risk time. The model also suggests that \textit{B. populifolia} tends to have longer durations of vegetative risk than \textit{B. papyrifera} (Figure \ref{fig:dvreffect}). To check my work, I ran a series of posterior predictive checks (Figure \ref{fig:dvrppc}). 
+
+For the question investigating the probability of leafout success and percent leafout (`percLO' in model context), I used a beta-binomial distribution model to provide a distribution for the probability of success, which is random for each bud. A beta-binomial distribution model is crucial for this section of my project to provide a better fit to my model and limit overdispersion. In order to first address the question, I constructed a model using the rstanarm function stan\_betareg() with link=`logit' and link.phi=`log'. 
+\begin{equation}\label{eq:3}
+percLO \sim tx + sp
+\end{equation}
+The model ran without any divergent transitions and the posterior predictive checks were consistent with the model output. I then used my real data and again found the treatment to have a bigger effect than species and false spring events tend to diminish the number of buds that reach full leafout on an individual. I again ran posterior predictive checks to confirm the results. After this was completed, I attempted to build a rstan model using a beta-binomial model, which can be found in the same github repo ..//scripts/perc\_sp\_pred\_beta.stan. The model runs with fake data and the real data output is consistent with the rstanarm output in regards to treatment effect size versus species effect size, however, I am unable to double check the model using posterior predictive checks due to I believe syntax errors. While using the shinystan application under the PPChecks tab, the y\_hat replications of the model is unavailable. I think I need to add a few lines of code to see this properly. I also struggled to make it a beta-binomial model and recevied many errors when integrating the binomial distribution so the model is currently a beta distribution model. 
+
+\textbf{Conclusions on Initial Results:}
 \par
-The overall objective for this project is to build a functioning model for my future experiment plans. My ultimate goal is to have 8-12 species included in the model and to somehow add another level of hierarchy at the bud level. The full experimental model I wish to build would have the duration of vegetative risk as the response variable with treatment, range limits, and wood anatomy as predictors, as well as number of leaf serrations along the leaf margins and number of trichomes to include protect regimes in the model. However, for this semester project, I only have two useable species and no information on wood anatomy. I will look at just treatment and species as predictors, ($\beta_{tx}$) and ($\beta_{sp}$) for now and duration of vegetative risk (y) as the response variable (Equation \ref{eq:1}). 
+The duration of vegetative risk model (Equation \ref{eq:1}) suggests that false spring events increase the number of days between budburst and leafout, which could potentially expose weaker phenophases to multiple freezing events in one season. However, the sample size and number of species used in this experiment are both low and must be increased in order to establish such claims. The same issues apply to the percent leafout model (Equation \ref{eq:3}), which indicates that false spring events decrease the number of buds that reach full leafout per individual. The duration of vegetative risk model indicates that \textit{B. papyrifera} typically progresses to full leaf expansion more quickly than \textit{B. populifolia}, whereas the percent leafout model indicates that \textit{B. populifolia} has more percent leafout than \textit{B. papyrifera}. This could imply that \textit{B. populifolia} buds that have experienced a false spring event will take longer to reach leaf out but they are more likely to reach full leafout than \textit{B. papyrifera}. The next step will require a combined model that evaluates this relationship.  
 
-For my subsetted data, I have approximately 650 observations across three species. Each species has 7-8 individuals per treatment group and each individual has 3-38 buds. One species, \textit{Sambucus racemosa}, was infested by many pests after the phenology was assessed, however, the pest damage may have affected the duration of vegetative risk. For this reason, \textit{S. racemosa} may be removed from the study. If \textit{S. racemosa} is removed, there are 560 observations. 
-
-\textbf{Current Issues and Response to Feedback:}
+\textbf{Future Project Aims:}
 \par
-Originally, I was hoping to look at the effects of freezing on each bud and assess two levels of hierachy: the species level and then the individual level. However, after presenting in front of the class, there was a lot of concern about the bud numbering system. Many classmates suggested I measure the distance of each bud from the terminal bud and use that as another predictor value. I am hoping to somehow look at the varying effects of the freezing temperatures on each bud in relation to budburst time. For example, if an axial bud had initiated budburst before going in the growth chamber but the terminal bud did not, then I would expect different effect sizes of the freezing treatment between these two buds. However, if I am looking at treatment as a predictor than this would be pseudoreplicating. Should I focus on each bud as a unique case and use the freezing date as an indicator for freezing treatement at the bud level? But then I would not include whole individual effects. For now, I think the best way is to do two simpler models asking each of these questions and then reevaluating. The simplest model may be to look at percent budburst as the response variable and then have treatment as the predictor.
+The overall objective for this project is to build a functioning model for my future experiment plans. My ultimate goal is to have 8-12 species included in the model and to somehow add another level of hierarchy at the bud level. The full experimental model I wish to build would have the duration of vegetative risk as the response variable with treatment, range limits, and wood anatomy as predictors, as well as number of leaf serrations along the leaf margins and number of trichomes to include protective regimes in the model, which will be based on Equation \ref{eq:1}. I also intend to use the same parameter inputs and just as many species for the percent leafout model, Equation \ref{eq:3}. The final project will be useful in evaluating the effectiveness of protective strategies across species that inhabit regions at risk of false spring events. 
 
-For the question investigating the probability of leafout success, I will use a beta-binomial distribution model, to provide a distribution for the probability of success, which is random. A beta-binomial distribution model is crucial for this section of my project to provide a better fit to my model and limit overdispersion. 
-
-\textbf{Initial Results:}
-\par
-The linear model (percentBB \thicksim tx) suggests that a freezing treatment results in a lower budburst percentage, however, the coefficient standar error, R-Squared value and residual standard deviation indicate low effect sizes. There is an issue of statistical power across this entire experiment. Attached are a couple of figures looking at the total data breakdown, the differences in duration of vegetative risk across bud number, and percent budburst across the two birch species. I plan on investigating the bud dilemma further, looking at different types of models and potentially adding more species, and also integrating these questions into a bayesian framework. 
-
-
-
-
-\newpage
-\textbf\Large{Tables and Figures:}
-\begin{center}
-\captionof{table}{Data Breakdown for Study.} \label{tab:data} 
-\begin{tabular}{|c | c | c | c |}
-\hline
-\textbf{Species} & \textbf{Individuals} & \textbf{Buds} & \textbf{Traits} \\
-\hline
-BETPAP & 14  & 9-27 & DVR, SLA, Chlorophyll, Percent BB \\
-\hline
-BETPOP & 15 & 8-38 & DVR, SLA, Chlorophyll, Percent BB \\
-\hline
-SAMRAC & 16 & 3-7 & DVR, Percent BB \\
-\hline
-VIBCAS & 26 & NA & DVR, SLA, Chlorophyll \\
-\hline
-ACEPEN & 15 & NA & DVR, SLA, Chlorophyll \\
-\hline
-PRUPEN & 12 & NA & DVR, SLA, Chlorophyll \\
-\hline
-\end{tabular}
-\end{center}
-
-<<label=dvrbet, results="asis", echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Duration of Vegetative Risk by bud number across the two betula species. As bud number increases, the further away from the terminal bud. The treatment effect on BETPAP appears to be much greater than on BETPOP from a first glance.", fig.pos="H">>=
-birch<-read.csv("..//Stats/birches_buddata.csv",header=TRUE,sep=",")
-
-bpap<-ggplot(birch, aes(x=bud, y=dvr, color=tx)) + geom_point() + geom_smooth(method="lm") + facet_wrap(~species)
-plot(bpap)
-
-@
-
-<<label=percbet, results="asis", echo=FALSE, warning=FALSE, message=FALSE, fig.cap="A boxplot looking at the percent budburst of individuals across treatment for each birch species", fig.pos="H">>=
-birch<-read.csv("..//Stats/birches_buddata.csv",header=TRUE,sep=",")
-
-burst<-birch[!is.na(birch$dvr),]
-burst<-distinct(burst, ID,individ)
-burst<-as.data.frame(table(burst$individ))
-burst<-burst%>%rename(individ=Var1)%>%rename(burst=Freq)
-burst$individ<-as.character(burst$individ)
-
-total<-birch
-total<-distinct(total, ID,individ)
-total<-as.data.frame(table(total$individ))
-total<-total%>%rename(individ=Var1)%>%rename(total=Freq)
-total$individ<-as.character(total$individ)
-
-percent<-full_join(total, burst)
-percent$perc.bb<-(percent$burst/percent$total)*100
-percent$species<-substr(percent$individ, 1,6)
-percent$tx<-NA
-percent$tx<-as.character(percent$tx)
-for(i in c(1:nrow(percent))){
-  for(j in c(1:nrow(birch)))
-    if(percent$individ[i]==birch$individ[j])
-      percent$tx[i]<-birch$tx[j]
-}
-
-percent$species<-substr(percent$individ, 1, 6)
-mod<-lm(perc.bb~tx+species, data=percent)
-display(mod)
-
-qplot(species, perc.bb, data = percent, 
-      geom = "boxplot", color=tx) + 
-  xlab("Species")+ylab("Percent Budburst")
-
-
-@
-
-
-\newpage
 \bibliography{..//Stats/SpringFreeze.bib}
+
+\newpage
+\begin{figure} [H] 
+\begin{center}
+\includegraphics{figure/EffectSizes_dvr.pdf}
+\caption{The effect sizes of the two fixed effects (treatment and species) in the duration of vegetative risk model (Equation \ref{eq:1}). The model output suggests the treatment has a bigger effect than species and that false spring events can increase the number of days between budburst and leafout. Species 1 is Betula papyrifera and species 2 is B. populifolia. The model suggests that B. populifolia typically takes longer to reach full leafout than B. papyrifera.} \label{fig:dvreffect}
+\end{center}
+\end{figure}
+
+\newpage
+\begin{figure} [H] 
+\begin{center}
+\includegraphics{figure/PPCheck_DVR.pdf}
+\caption{Posterior predictive checks for the duration of vegetative risk model (Equation \ref{eq:1}).} \label{fig:dvrppc}
+\end{center}
+\end{figure}
+
+\newpage
+\begin{figure} [H] 
+\begin{center}
+\includegraphics{figure/PPC_intervals DVR.pdf}
+\caption{Posterior predictive check intervals for the duration of vegetative risk model (Equation \ref{eq:1}) comparing predicted effects of treatment versus the actual data.} \label{fig:dvrppc}
+\end{center}
+\end{figure}
+
+\newpage
+\begin{figure} [H] 
+\begin{center}
+\includegraphics{figure/Beta_betasRstan.pdf}
+\caption{The effect sizes of the two fixed effects (treatment and species) in the percent leafout model (Equation \ref{eq:3}). The model output suggests the treatment has a bigger effect than species and that false spring events can decrease the number of buds that reach full leafout. Species 1 is Betula papyrifera and species 2 is B. populifolia. The model suggests that B. populifolia typically has more buds that full leafout than B. papyrifera.} \label{fig:dvreffect}
+\end{center}
+\end{figure}
+
+\newpage
+\begin{figure} [H] 
+\begin{center}
+\includegraphics{figure/Beta_ppCheck.pdf}
+\caption{Posterior predictive checks for the percent leafout model (Equation \ref{eq:3}).} \label{fig:dvrppc}
+\end{center}
+\end{figure}
+
+
 \end{document}
