@@ -68,6 +68,14 @@ Temperate plants have evolved to minimize false spring damage through a myriad o
 The main objective of this experiment is to evaluate the interspecific variation in frost tolerance and success of protective strategies among temperate forest individuals. In order to do this, I closely monitored the phenology from budburst to leafout of 45 individuals across three species at the bud level. Once the majority of the buds had bursted on an individual but before the buds reached leafout, I placed the sapling in a growth chamber at -3$^{\circ}$C for 24 hours to induce a false spring event. I then observed the individual until every bud leafed out or died. Since frost tolerance is lowest between budburst and leafout, the primary focus of this study is the rate of leafout, which we will call the duration of vegetative risk, and how false spring events affect this rate. I will also assess the percentage of buds that reached full leafout. My hypothesis is that the duration of vegetative risk will increase after a freeze event and the percent budburst will be lower for individuals exposed to a false spring.
 
 In order to assess the duration of vegetative risk, I used rstan and rstanarm to construct a one level hierarchal model in a bayesian format. I will refer to the duration of vegetative risk as `dvr' when using it in a model framework.
+\begin{equation} \label{eq:1}
+dvr_i = \alpha_{ind_(i)} + \beta_{tx_{ind_(i)}} + \beta_{sp_{ind_(i)}} + \sigma_{ind_(i)}
+\end{equation}
+
+The equation I used in rstanarm is the same as the rstan model I built but instead it uses the stan_glmer() function rather than stan syntax. 
+\begin{equation} \label{eq:2}
+dvr \thicksim \text{tx} + \text{sp} + (1 \mid ind) 
+\end{equation}
 
 To test both models, I began by simulating fake data. My fake data simulation can be found in my `freezingexperiment' repo on github (cchambe12/freezingexperiment/analyses/scripts/FakeBuds_Generate.R) and it provides notes and details on the construction. I used this fake data for both the rstanarm model and the rstan model. 
 
