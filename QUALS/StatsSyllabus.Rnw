@@ -1,0 +1,239 @@
+\documentclass[11pt]{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage[small]{caption}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{wrapfig}
+\usepackage{subfig}
+\usepackage{setspace}
+\usepackage{sectsty}
+\allsectionsfont{\normalsize}
+\usepackage{titlesec}
+\usepackage{mdframed}
+\usepackage[numbers]{natbib}
+\bibliographystyle{..//refs/styles/nature.bst}
+\usepackage{geometry}
+\usepackage{fancyhdr}   
+\pagestyle{fancy}  
+\renewcommand{\headrulewidth}{1.5pt}  
+\fancyhead[R]{C. Chamberlain}
+\fancyhead[C]{Biostatistics}
+\makeatletter
+\let\ps@plain\ps@fancy 
+\makeatother
+\setlength{\captionmargin}{25pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{0pt}
+\topmargin -1.1cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 1.5pt
+\renewcommand{\baselinestretch}{1.0}
+\parindent 0pt
+
+
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+\begin{document}
+ 
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+\setkeys{Gin}{width=0.8\textwidth}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\LARGE{Introduction to Biostatistics and R}}
+\end{center}
+
+\medskip
+\textbf{Course Objectives:}
+The goal of this course is for students to develop a basic foundation in biostatisics and data analysis in observational and experimental studies. The ultimate intent is to provide students with statistical techniques and understanding that will permit them to learn more advanced statistical tools and application. At the end of this course, students will be expected to understand how to organize and clean their data and analyze and graphically present their results in R.  The course is geared towards undergraduates in evolutionary biology and ecology and it will meet three times per week: twice for lectures and once in the computer lab to learn R. 
+
+\bigskip
+\textbf{Resources:}
+\begin{itemize}
+\item Whitlock, M.C \& Schulter, D. {\textit{The Analysis of Biologicial Data, 2nd edition}}. 2015. Roberts and Company Publishers, Inc., Greenwood Village, CO. (W\&S)
+
+\item Gelman, A. \& Hill, J. {\textit{Data Analysis Using Regression and Multilevel/Hierarchical Models}}. 2007. Cambridge University Press, New York, NY. (AH) (\textbf{There are many copies available at the library.})
+
+\item {\textit{Optional:}} James, G., Witten, D., Hastie, T., \& Tibshirani, R. {\textit{An Introduction to Statistical Learning with Applications in R}}. 2013. Springer Science+Business Media, New York, NY. (JWHT) 
+\end{itemize}
+
+\textbf{Additional Reading:}
+This course relies mainly on the textbooks but for some lectures, additional primary literature or online videos will be available for students to read or watch if they are interested. These optional reading and video assignments will be denoted by an asterisk (*). 
+
+\textbf{Computer Lab Sessions:}
+Each week, we will meet in the computer labs for an hour to learn how to use the statistical software R. The aim is to provide students with a firm foundation in the basic R packages, data cleaning, analysis and presenting their data. Students will need to first download R (https://cran.r-project.org/) and RStudio (https://www.rstudio.com/products/rstudio/download/) and then install the package Swirl. We will cover how to do these things in the first computer lab session.\\
+
+{\Large{\textbf{SCHEDULE}}}
+
+{\textbf{WEEK 1: Introduction to Statistics}\\
+\textbf{Meeting 1:} What is statistics? \\
+{\-\hspace{1em}{W\&S: 1-17 (\textit{Statistics and samples})}} \\
+{\-\hspace{1em}{*W\&S: 23-24 (\textit{Biology and the history of statistics})}} \\
+\textbf{Meeting 2:} Displaying and Describing Data \\
+\-\hspace{1em}{W\&S: 26-52 (\textit{Displaying data})} \\
+\-\hspace{1em}{W\&S: 65-85 (\textit{Describing data})} \\
+\textbf{Lab 1:} Introduction to R\\
+\-\hspace{1em}{*JWHT: 42-51 (\textit{2.3 Lab: Introduction to R})}\\
+\-\hspace{1em}{Swirl: R Programming - Basic Building Blocks \& Workspace and Files} \\
+
+
+{\textbf{WEEK 2: Uncertainty and Probability}\\
+\textbf{Meeting 3:} Uncertainty and Hypotheses \\
+\-\hspace{1em}{W\&S: 95-107 (\textit{Estimating with uncertainty})} \\
+\-\hspace{1em}{Standard deviation vs. standard error} \\
+\-\hspace{2em}{(https://www.r-bloggers.com/standard-deviation-vs-standard-error/)} \\
+\textbf{Meeting 4:} Probability \\
+\-\hspace{1em}{W\&S: 117-138 (\textit{Probability})} \\
+\-\hspace{1em}{*W\&S: 115-116 (\textit{Pseudoreplication})} \\
+\textbf{Lab 2:} Building and Cleaning Data  \\
+\-\hspace{1em}{Swirl: R Programming - `Sequences of Numbers' and `Vectors'.} \\
+\-\hspace{2em}{Install the `dplyr' and `tidyr' packages before class.} \\
+
+{\textbf{WEEK 3: Hypotheses and Proportions}\\
+\textbf{Meeting 5:} Hypothesis Testing \\
+\-\hspace{1em}{W\&S: 150-168 (\textit{Hypothesis testing})} \\
+\-\hspace{1em}{Hypothesis Testing (P-Value approach) (https://onlinecourses.science.psu.edu/statprogram/node/138)} \\
+\textbf{Meeting 6:} Proportions and Frequencies \\
+\-\hspace{1em}{W\&S: 179-193 (\textit{Analyzing proportions})} \\
+\-\hspace{1em}{*W\&S: 201-202 (\textit{Correlation does not require causation})} \\
+\textbf{Lab 3:} Working with missing values and subsetting  \\
+\-\hspace{1em}{Swirl: R Programming - `Missing Values' and `Subsetting Vectors'} \\
+
+{\textbf{WEEK 4: Distributions and Inference }\\
+\textbf{Meeting 7:} Normal Distributions \\
+\-\hspace{1em}{W\&S: 273-293 (\textit{The normal distribution})} \\
+\-\hspace{1em}{*AH: 13-26} (\textit{Concepts and methods from basic probability and statistics}) \\
+\textbf{Meeting 8: } T-Tests and Inference \\
+\-\hspace{1em}{W\&S: 303-318 (\textit{Inference for a normal population})} \\
+\-\hspace{1em}{W\&S: 301-302 (\textit{Controls in medical studies})} \\
+\textbf{Lab 4:} Matrices and Functions  \\
+\-\hspace{1em}{Swirl: R Programming - `Matrices and Data Frames' and `Functions'} \\
+
+{\textbf{WEEK 5: Choosing a Test and Handling Assumptions}\\
+\textbf{Meeting 9:} Mean Comparison \\
+\-\hspace{1em}{W\&S: 327-353 (\textit{Comparing two means})} \\
+\-\hspace{1em}{W\&S: 366-367} (\textit{Which test should I use?}) \\
+\textbf{Meeting 10: } Handling Assumptions \\
+\-\hspace{1em}{W\&S: 369-400 (\textit{Handling violations of assumptions})} \\
+\-\hspace{1em}{Type I and II Errors and Significance Levels} \\
+\-\hspace{2em}{(https://www.ma.utexas.edu/users/mks/statmistakes/errortypes.html)} \\
+\textbf{Lab 5:} Using t-tests in R  \\
+\-\hspace{1em}{YouTube: `One-Sided Test or Two-Sided Test?' (https://www.youtube.com/watch?v=VP1bhopNP74)} \\
+\-\hspace{1em}{Load the `Iris' dataset in R before class (come early to class if you need help with this)} \\
+
+{\textbf{WEEK 6: Designing Experiments}\\
+\textbf{Meeting 11:} Sample Size and Effect Size \\
+\-\hspace{1em}{W\&S: 423-450 (\textit{Designing experiments})} \\
+\-\hspace{1em}{Lemoine, N.P., Hoffman, A., Felton, A.J., Baur, L., Chaves, F., Gray, J., Yu, Q., \& Smith, M.D. (2016).} \\
+\-\hspace{2em}{Underappreciated problems of low replication in ecological field studies. {\textit{Ecology, 97(10,)}} 2554-2561.}\\
+\textbf{Meeting 12:} Experimental Design and Power Calculations \\
+\-\hspace{1em}{AH: 437-454} (\textit{Sample size and power calculations}) \\
+\-\hspace{1em}{Noordzij, M., Tripepi, G., Dekker, F.W., Zoccali, C., Tanck, M.W., \& Jager, K.J. (2010).} \\
+\-\hspace{2em}{Sample size calculations: basic principles and common pitfalls. {\textit{Nephrology Dialysis Transplant, 25,}}}\\
+\-\hspace{2em}{1388-1393. } \\
+\textbf{Lab 6:} Module in Effect vs. Sample Size and Power Calculations \\
+\-\hspace{1em}{Download the script from the course website `EffectvsSample.R'} \\
+
+{\textbf{WEEK 7: Understanding ANOVAs}\\
+\textbf{Meeting 13: } One-way ANOVAs \\
+\-\hspace{1em}{W\&S: 459-471 (\textit{The analysis of variance}) \& (\textit{Assumptions and alternatives})} \\
+\-\hspace{1em}{AH: 487-490} (\textit{Analysis of variance: Classical analysis of variance}) \\
+\textbf{Meeting 14: } Two-way ANOVAs \\
+\-\hspace{1em}{W\&S: 471-486 (\textit{Comparing means of more than two groups}) Part II \\
+\-\hspace{1em}{W\&S: 500-501 (\textit{Experimental and statistical mistakes}) \\
+\textbf{Lab 7:} Intro to ANOVAs in R  \\
+\-\hspace{1em}{YouTube: `How to Calculate Anova Using R'} \\
+\-\hspace{2em}{(https://www.youtube.com/watch?v=fT2No3Io72g)} \\
+\-\hspace{1em}{Install the `car' package - we will use the `Anova' function rather than `aov')} \\
+
+{\textbf{WEEK 8: Linear Regression Part I}\\
+\textbf{Meeting 15:} Intro to Linear Regression \\
+\-\hspace{1em}{W\&S: 539-557 (\textit{Regression}) \\
+\-\hspace{1em}{*JWHT: 59-70 (\textit{Simple Linear Regression})} \\
+\textbf{Meeting 16: } Interactions and Collinearity \\
+\-\hspace{1em}{AH: 34-36 (\textit{3.3 Interactions})} \\
+\-\hspace{1em}{JWHT: 99-102 (\textit{Collinearity}) \\
+\textbf{Lab 8:} Intro to Linear Regression in R  \\
+\-\hspace{1em}{Download the `dogs' dataset on the course website.)} \\
+
+{\textbf{WEEK 9: Linear Regression Part II}} \\
+\textbf{Meeting 17: } Transformations and Assumptions \\
+\-\hspace{1em}{W\&S: 557-562 (\textit{Assumptions of regression} \& \textit{Transformations})} \\
+\-\hspace{1em}{AH: 37-47 (\textit{Statistical Inference} \& \textit{Graphical displays of data and fitted model}) \\
+\textbf{Meeting 18: } Interpreting Results \\
+\-\hspace{1em}{AH: 53-74 (\textit{Linear regression: before and after fitting the model})} \\
+\-\hspace{1em}{Understanding regression models and regression coefficients} \\
+\-\hspace{2em}{(http://andrewgelman.com/2013/01/05/understanding-regression-models-and-regression-coefficients/) \\
+\textbf{Lab 9:} Linear Regression in R: Interpreting results  \\
+\-\hspace{1em}{Install the `arm' package for `display' function to interpret results)} \\
+
+{\textbf{WEEK 10: Logistic Regression Part I}\\
+\textbf{Meeting 19:} Intro to Logistic Regression \\
+\-\hspace{1em}{W\&S: 563-575 (\textit{Nonlinear regression}) \& (\textit{Logistic regression})} \\
+\-\hspace{1em}{AH: 79-85 (\textit{Logistic Regression})} \\
+\textbf{Meeting 20: } Building a Model \\
+\-\hspace{1em}{W\&S: 605-625 (\textit{Multiple explanatory variables}) \\
+\-\hspace{1em}{*AH: 85-104 (\textit{Logistic Regression})} \\
+\textbf{Lab 10:} Apply functions in R \\
+\-\hspace{1em}{Swirl: R Programming - `lapply and sapply' and `vapply and tapply'} \\
+
+{\textbf{WEEK 11: Logistic Regression Part II}} \\
+\textbf{Meeting 21: } Generalized linear models \\
+\-\hspace{1em}{AH: 109-124 (\textit{Generalized linear models})} \\
+\-\hspace{1em}{W\&S: 593-596 (\textit{Using species as data points}) \\
+\textbf{Meeting 22: } Model Selection \\
+\-\hspace{1em}{AH: 524-526 (\textit{Model comparison and deviance}) \\
+\-\hspace{1em}{JWHT: 175-181 (\textit{Resampling methods}) \\
+\-\hspace{1em}{*W\&S: 635-46 (\textit{Computer-intensive methods}) \\
+\textbf{Lab 11} GLM Model building and interpretation of results \\
+\-\hspace{1em}{We will again use the `dogs' dataset, which can be downloaded from the course website.)} \\
+
+{\textbf{WEEK 12: Brief Intro to Meta-analysis and Multilevel Models}} \\
+\textbf{Meeting 23: } Power of Meta-analysis \\
+\-\hspace{1em}{W\&S: 681-697 (\textit{Meta-analysis combining information from multiple studies}) \\
+\-\hspace{1em}{MacLean, S.A \& Beissinger, S.R. (2017).Species' traits as predictors of range shifts under contemporary} \\
+\-\hspace{2em}{climate change: A review and meta-analysis. {\textit{Global Change Biology, 23,}} 4094-4105.} \\
+\-\hspace{1em}{Korner, C. (2017). When meta-analysis fails: A case about stomata.} \\ \-\hspace{2em}{{\textit{Global Change Biology, 23(7),}} 2533-2534.} \\
+\textbf{Meeting 24: } Intro to Multilevel Models \\
+\-\hspace{1em}{AH: 237-248 (\textit{Multilevel structures}) \\
+\-\hspace{1em}{AH: 251-262 (\textit{Multilevel linear models: the basics}) \\
+\textbf{Lab 12} Cleaning large dataframes and multilevel model notation \\
+\-\hspace{1em}{Download the `ospree' dataframe from the course website and make sure you read through} \\
+\-\hspace{2em}{AH: 259-262 again before lab.)} \\
+
+
+{\textbf{Grading Rubric: }}
+\begin{center}
+\begin{tabular}{|c | c |}
+\hline
+\textbf{Type} & \textbf{Percent of Grade} \\
+\hline
+Participation & 10 \\
+\hline 
+Lab Problem Sets & 20 \\
+\hline
+Midterm & 30 \\
+\hline
+Final Exam and Project & 40 \\
+\hline
+\end{tabular}
+\end{center}
+
+
+\end{document}
