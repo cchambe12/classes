@@ -16,9 +16,9 @@ Hufkens, K., Friedl, M.~A., Keenan, T.~F., Sonnentag, O., Bailey, A., O'Keefe,
 
 \bibitem{Knudson2012}
 Knudson, W.
-\newblock The economic impact of the spring's weather on the fruit and
-  vegetable sectors.
-\newblock  (2012).
+\newblock {The Economic Impact of the Spring's Weather on the Fruit and
+  Vegetable Sectors}.
+\newblock {\em The Strategic Marketing Institute Working Paper}{ \bf 1} (2012).
 
 \bibitem{Ault2013}
 Ault, T.~R., Henebry, G.~M., de~Beurs, K.~M., Schwartz, M.~D., Betancourt,
@@ -67,8 +67,8 @@ Polgar, C.~A. and Primack, R.~B.
 
 \bibitem{Basler2014}
 Basler, D. and Korner, C.
-\newblock {Photoperiod and temperature responses of bud swelling and bud burst
-  in four temperate forest tree species}.
+\newblock Photoperiod and temperature responses of bud swelling and bud burst
+  in four temperate forest tree species.
 \newblock {\em Tree Physiology}{ \bf 34}(4), 377--388, Apr  (2014).
 
 \bibitem{Augspurger2013}
@@ -88,17 +88,89 @@ Allstadt, A.~J., Vavrus, S.~J., Heglund, P.~J., Pidgeon, A.~M., Wayne, E., and
 \bibitem{Muffler2016}
 Muffler, L., Beierkuhnlein, C., Aas, G., Jentsch, A., Schweiger, A.~H., Zohner,
   C., and Kreyling, J.
-\newblock {Distribution ranges and spring phenology explain late frost
-  sensitivity in 170 woody plants from the Northern Hemisphere}.
+\newblock Distribution ranges and spring phenology explain late frost
+  sensitivity in 170 woody plants from the northern hemisphere.
 \newblock {\em Global Ecology and Biogeography}{ \bf 25}(9), 1061--1071, May
   (2016).
 
 \bibitem{Xin2016}
 Xin, Q.
 \newblock {A risk-benefit model to simulate vegetation spring onset in response
-  to multi-decadal climate variablity: Theoretical basis and applications from
+  to multi-decadal climate variability: Theoretical basis and applications from
   the field to the Northern Hemisphere}.
-\newblock {\em Agriculture and Forest Meteorology}{ \bf 228-229}, 139--163
-  (2016).
+\newblock {\em Agriculture and Forest Meteorology}{ \bf 228}, 139--163 (2016).
+
+\bibitem{Zhu2000}
+Zhu, X., Cox, R., and Arp, P.
+\newblock {Effects of xylem cavitation and freezing injury on dieback of yellow
+  birch (\textit{Betula alleghaniensis}) in relation to a simulated winter
+  thaw}.
+\newblock {\em Tree Physiology}{ \bf 20}, 541--547 (2000).
+
+\bibitem{Lambers2008}
+Lambers, H., Chapin~III, F., and Pons, T.
+\newblock {\em {Plant Physiological Ecology}}.
+\newblock Springer Science+Business Media, LLC, 2nd edition,  (2008).
+
+\bibitem{Binder1996}
+Binder, W. and Fielder, P.
+\newblock {Chlorophyll fluorescence as an indicator of frost hardiness in white
+  spruce seedlings from different latitudes}.
+\newblock {\em New Forests}{ \bf 11}, 233--253 (1996).
+
+\bibitem{Ehlert2008}
+Ehlert, B. and Hincha, D.~K.
+\newblock {Chlorophyll fluorescence imaging accurately quantifies freezing
+  damage and cold acclimation responses in Arabidopsis leaves}.
+\newblock {\em Plant Methods}{ \bf 4}(1), 12 (2008).
+
+\bibitem{Lenz2013}
+Lenz, A., Hoch, G., Vitasse, Y., and K{\"{o}}rner, C.
+\newblock {European deciduous trees exhibit similar safety margins against
+  damage by spring freeze events along elevational gradients}.
+\newblock {\em New Phytologist}{ \bf 200}(4), 1166--1175 (2013).
+
+\bibitem{Lenz2016}
+Lenz, A., Hoch, G., K{\"{o}}rner, C., and Vitasse, Y.
+\newblock {Convergence of leaf-out towards minimum risk of freezing damage in
+  temperate trees}.
+\newblock {\em Functional Ecology}{ \bf 30}, 1--11 (2016).
+
+\bibitem{Caradonna2016}
+Caradonna, P.~J. and Bain, J.~A.
+\newblock {Frost sensitivity of leaves and flowers of subalpine plants is
+  related to tissue type and phenology}.
+\newblock {\em Journal of Ecology}{ \bf 104}(1), 55--64 (2016).
+
+\bibitem{Augspurger2009}
+Augspurger, C.~K.
+\newblock {Spring 2007 warmth and frost: Phenology, damage and refoliation in a
+  temperate deciduous forest}.
+\newblock {\em Functional Ecology}{ \bf 23}(6), 1031--1039 (2009).
+
+\bibitem{Hannenin1991}
+H{\"{a}}nnenin, H.
+\newblock Does climatic warming increase the risk of frost damage in northern
+  trees?
+\newblock {\em Plant, Cell and Environment}{ \bf 14}, 449--454 (1991).
+
+\bibitem{Scheifinger2003}
+Scheifinger, H., Menzel, A., Koch, E., and Peter, C.
+\newblock Trends of spring time frost events and phenological dates in central
+  europe.
+\newblock {\em Theoretical and Applied Climatology}{ \bf 74}(1-2), 41--51, Jan
+  (2003).
+
+\bibitem{Kramer1994}
+Kramer, K.
+\newblock {A modelling analysis of the effects of climatic warming on the
+  probability of spring frost damage to tree species in the Netherlands and
+  Germany}.
+\newblock {\em Plant, Cell and Environment}{ \bf 17}, 367--377 (1994).
+
+\bibitem{Schwartz1993}
+Schwartz, M.~D.
+\newblock Assessing the onset of spring: A climatological perspective.
+\newblock {\em Physical Geography}{ \bf 14(6)}, 536--550 (1993).
 
 \end{thebibliography}

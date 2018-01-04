@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  18 DEC 2017 14:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  4 JAN 2018 14:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -290,6 +290,17 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen133
 \Gm@dimlist=\toks20
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip51
+\f@ncyO@elh=\skip52
+\f@ncyO@erh=\skip53
+\f@ncyO@olh=\skip54
+\f@ncyO@orh=\skip55
+\f@ncyO@elf=\skip56
+\f@ncyO@erf=\skip57
+\f@ncyO@olf=\skip58
+\f@ncyO@orf=\skip59
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
@@ -353,12 +364,12 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \l_tmpb_dim=\dimen137
 \g_tmpa_dim=\dimen138
 \g_tmpb_dim=\dimen139
-\c_zero_skip=\skip51
-\c_max_skip=\skip52
-\l_tmpa_skip=\skip53
-\l_tmpb_skip=\skip54
-\g_tmpa_skip=\skip55
-\g_tmpb_skip=\skip56
+\c_zero_skip=\skip60
+\c_max_skip=\skip61
+\l_tmpa_skip=\skip62
+\l_tmpb_skip=\skip63
+\g_tmpa_skip=\skip64
+\g_tmpb_skip=\skip65
 \c_zero_muskip=\muskip10
 \c_max_muskip=\muskip11
 \l_tmpa_muskip=\muskip12
@@ -474,47 +485,47 @@ Package zref Info: New property: abspage on input line 62.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-\mdf@templength=\skip57
+\mdf@templength=\skip66
 \c@mdf@globalstyle@cnt=\count135
-\mdf@skipabove@length=\skip58
-\mdf@skipbelow@length=\skip59
-\mdf@leftmargin@length=\skip60
-\mdf@rightmargin@length=\skip61
-\mdf@innerleftmargin@length=\skip62
-\mdf@innerrightmargin@length=\skip63
-\mdf@innertopmargin@length=\skip64
-\mdf@innerbottommargin@length=\skip65
-\mdf@splittopskip@length=\skip66
-\mdf@splitbottomskip@length=\skip67
-\mdf@outermargin@length=\skip68
-\mdf@innermargin@length=\skip69
-\mdf@linewidth@length=\skip70
-\mdf@innerlinewidth@length=\skip71
-\mdf@middlelinewidth@length=\skip72
-\mdf@outerlinewidth@length=\skip73
-\mdf@roundcorner@length=\skip74
-\mdf@footenotedistance@length=\skip75
-\mdf@userdefinedwidth@length=\skip76
-\mdf@needspace@length=\skip77
-\mdf@frametitleaboveskip@length=\skip78
-\mdf@frametitlebelowskip@length=\skip79
-\mdf@frametitlerulewidth@length=\skip80
-\mdf@frametitleleftmargin@length=\skip81
-\mdf@frametitlerightmargin@length=\skip82
-\mdf@shadowsize@length=\skip83
-\mdf@extratopheight@length=\skip84
-\mdf@subtitleabovelinewidth@length=\skip85
-\mdf@subtitlebelowlinewidth@length=\skip86
-\mdf@subtitleaboveskip@length=\skip87
-\mdf@subtitlebelowskip@length=\skip88
-\mdf@subtitleinneraboveskip@length=\skip89
-\mdf@subtitleinnerbelowskip@length=\skip90
-\mdf@subsubtitleabovelinewidth@length=\skip91
-\mdf@subsubtitlebelowlinewidth@length=\skip92
-\mdf@subsubtitleaboveskip@length=\skip93
-\mdf@subsubtitlebelowskip@length=\skip94
-\mdf@subsubtitleinneraboveskip@length=\skip95
-\mdf@subsubtitleinnerbelowskip@length=\skip96
+\mdf@skipabove@length=\skip67
+\mdf@skipbelow@length=\skip68
+\mdf@leftmargin@length=\skip69
+\mdf@rightmargin@length=\skip70
+\mdf@innerleftmargin@length=\skip71
+\mdf@innerrightmargin@length=\skip72
+\mdf@innertopmargin@length=\skip73
+\mdf@innerbottommargin@length=\skip74
+\mdf@splittopskip@length=\skip75
+\mdf@splitbottomskip@length=\skip76
+\mdf@outermargin@length=\skip77
+\mdf@innermargin@length=\skip78
+\mdf@linewidth@length=\skip79
+\mdf@innerlinewidth@length=\skip80
+\mdf@middlelinewidth@length=\skip81
+\mdf@outerlinewidth@length=\skip82
+\mdf@roundcorner@length=\skip83
+\mdf@footenotedistance@length=\skip84
+\mdf@userdefinedwidth@length=\skip85
+\mdf@needspace@length=\skip86
+\mdf@frametitleaboveskip@length=\skip87
+\mdf@frametitlebelowskip@length=\skip88
+\mdf@frametitlerulewidth@length=\skip89
+\mdf@frametitleleftmargin@length=\skip90
+\mdf@frametitlerightmargin@length=\skip91
+\mdf@shadowsize@length=\skip92
+\mdf@extratopheight@length=\skip93
+\mdf@subtitleabovelinewidth@length=\skip94
+\mdf@subtitlebelowlinewidth@length=\skip95
+\mdf@subtitleaboveskip@length=\skip96
+\mdf@subtitlebelowskip@length=\skip97
+\mdf@subtitleinneraboveskip@length=\skip98
+\mdf@subtitleinnerbelowskip@length=\skip99
+\mdf@subsubtitleabovelinewidth@length=\skip100
+\mdf@subsubtitlebelowlinewidth@length=\skip101
+\mdf@subsubtitleaboveskip@length=\skip102
+\mdf@subsubtitlebelowskip@length=\skip103
+\mdf@subsubtitleinneraboveskip@length=\skip104
+\mdf@subsubtitleinnerbelowskip@length=\skip105
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
@@ -524,33 +535,33 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \mdf@splitbox@one=\box48
 \mdf@splitbox@two=\box49
 \mdf@splitbox@save=\box50
-\mdfsplitboxwidth=\skip97
-\mdfsplitboxtotalwidth=\skip98
-\mdfsplitboxheight=\skip99
-\mdfsplitboxdepth=\skip100
-\mdfsplitboxtotalheight=\skip101
-\mdfframetitleboxwidth=\skip102
-\mdfframetitleboxtotalwidth=\skip103
-\mdfframetitleboxheight=\skip104
-\mdfframetitleboxdepth=\skip105
-\mdfframetitleboxtotalheight=\skip106
-\mdffootnoteboxwidth=\skip107
-\mdffootnoteboxtotalwidth=\skip108
-\mdffootnoteboxheight=\skip109
-\mdffootnoteboxdepth=\skip110
-\mdffootnoteboxtotalheight=\skip111
-\mdftotallinewidth=\skip112
-\mdfboundingboxwidth=\skip113
-\mdfboundingboxtotalwidth=\skip114
-\mdfboundingboxheight=\skip115
-\mdfboundingboxdepth=\skip116
-\mdfboundingboxtotalheight=\skip117
-\mdf@freevspace@length=\skip118
-\mdf@horizontalwidthofbox@length=\skip119
-\mdf@verticalmarginwhole@length=\skip120
-\mdf@horizontalspaceofbox=\skip121
-\mdfsubtitleheight=\skip122
-\mdfsubsubtitleheight=\skip123
+\mdfsplitboxwidth=\skip106
+\mdfsplitboxtotalwidth=\skip107
+\mdfsplitboxheight=\skip108
+\mdfsplitboxdepth=\skip109
+\mdfsplitboxtotalheight=\skip110
+\mdfframetitleboxwidth=\skip111
+\mdfframetitleboxtotalwidth=\skip112
+\mdfframetitleboxheight=\skip113
+\mdfframetitleboxdepth=\skip114
+\mdfframetitleboxtotalheight=\skip115
+\mdffootnoteboxwidth=\skip116
+\mdffootnoteboxtotalwidth=\skip117
+\mdffootnoteboxheight=\skip118
+\mdffootnoteboxdepth=\skip119
+\mdffootnoteboxtotalheight=\skip120
+\mdftotallinewidth=\skip121
+\mdfboundingboxwidth=\skip122
+\mdfboundingboxtotalwidth=\skip123
+\mdfboundingboxheight=\skip124
+\mdfboundingboxdepth=\skip125
+\mdfboundingboxtotalheight=\skip126
+\mdf@freevspace@length=\skip127
+\mdf@horizontalwidthofbox@length=\skip128
+\mdf@verticalmarginwhole@length=\skip129
+\mdf@horizontalspaceofbox=\skip130
+\mdfsubtitleheight=\skip131
+\mdfsubsubtitleheight=\skip132
 \c@mdfcountframes=\count136
 
 ****** mdframed patching \endmdf@trivlist
@@ -575,8 +586,8 @@ Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip124
-\bibsep=\skip125
+\bibhang=\skip133
+\bibsep=\skip134
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count141
 )
@@ -602,31 +613,28 @@ LaTeX Info: Redefining \\ on input line 3056.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-(./Quals_proposal.aux
-
-LaTeX Warning: Label `tab:model' multiply defined.
-
-)
+(./Quals_proposal.aux)
 \openout1 = `Quals_proposal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 87.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 91.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    ... okay on input line 91.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -675,9 +683,9 @@ Package caption Info: End \AtBeginDocument code.
 * \paperheight=794.96999pt
 * \textwidth=472.03111pt
 * \textheight=624.25352pt
-* \oddsidemargin=-1.13791pt
-* \evensidemargin=-1.13791pt
-* \topmargin=-42.67912pt
+* \oddsidemargin=-2.27626pt
+* \evensidemargin=-2.27626pt
+* \topmargin=-31.2982pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -696,59 +704,111 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box53
-LaTeX Font Info:    Try loading font information for T1+aess on input line 100.
+LaTeX Font Info:    Try loading font information for T1+aess on input line 104.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ae/t1aess.fd
 File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 )
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+
+ []
+
 <leaf.jpg, id=1, 5781.6pt x 3854.4pt>
 File: leaf.jpg Graphic file (type jpg)
  <use leaf.jpg>
-Package pdftex.def Info: leaf.jpg used on input line 110.
+Package pdftex.def Info: leaf.jpg used on input line 117.
 (pdftex.def)             Requested size: 113.81102pt x 75.86919pt.
 
 <budscales.jpg, id=2, 5781.6pt x 3854.4pt>
 File: budscales.jpg Graphic file (type jpg)
  <use budscales.jpg>
-Package pdftex.def Info: budscales.jpg used on input line 112.
+Package pdftex.def Info: budscales.jpg used on input line 119.
 (pdftex.def)             Requested size: 113.81102pt x 75.86919pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 116.
+(Font)              <12> on input line 123.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 116.
+(Font)              <8> on input line 123.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 116.
- [1
+(Font)              <6> on input line 123.
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./leaf.
-jpg> <./budscales.jpg>]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-[2] [3] (./Quals_proposal.bbl [4]) [5] (./Quals_proposal.aux)
+[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-LaTeX Warning: There were multiply-defined labels.
+ <./leaf.jpg> <./budscales.jpg>] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
 
- ) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
+
+ []
+
+[3] <DVR_buds.pdf, id=21, 844.15375pt x 597.23125pt>
+File: DVR_buds.pdf Graphic file (type pdf)
+ <use DVR_buds.pdf>
+Package pdftex.def Info: DVR_buds.pdf used on input line 201.
+(pdftex.def)             Requested size: 256.0748pt x 181.17561pt.
+
+[4] <chloro_effects.pdf, id=25, 844.15375pt x 597.23125pt>
+File: chloro_effects.pdf Graphic file (type pdf)
+
+<use chloro_effects.pdf>
+Package pdftex.def Info: chloro_effects.pdf used on input line 208.
+(pdftex.def)             Requested size: 256.0748pt x 181.17561pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+
+ []
+
+[5 <./DVR_buds.pdf> <./chloro_effects.pdf>] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 266--269
+
+ []
+
+<FS_Diff.pdf, id=44, 845.1575pt x 597.23125pt>
+File: FS_Diff.pdf Graphic file (type pdf)
+ <use FS_Diff.pdf>
+Package pdftex.def Info: FS_Diff.pdf used on input line 275.
+(pdftex.def)             Requested size: 341.43306pt x 241.27586pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 276.
+ [7]
+Underfull \hbox (badness 10000) in paragraph at lines 281--291
+
+ []
+
+[8 <./FS_Diff.pdf>] (./Quals_proposal.bbl [9]) [10] (./Quals_proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 13449 strings out of 493014
- 243510 string characters out of 6133351
- 291463 words of memory out of 5000000
- 16818 multiletter control sequences out of 15000+600000
- 29272 words of font info for 58 fonts, out of 8000000 for 9000
+ 13644 strings out of 493014
+ 246013 string characters out of 6133351
+ 293656 words of memory out of 5000000
+ 17001 multiletter control sequences out of 15000+600000
+ 32418 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,9n,42p,10431b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
-b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Quals_proposal.pdf (5 pages, 8839010 bytes).
+ 40i,11n,43p,10431b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+</u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Quals_proposal.pdf (10 pages, 11333682 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 98 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
