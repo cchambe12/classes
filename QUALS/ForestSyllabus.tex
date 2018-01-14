@@ -1,0 +1,264 @@
+\documentclass[11pt]{article}\usepackage[]{graphicx}\usepackage[]{color}
+%% maxwidth is the original width if it is less than linewidth
+%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+\let\hlipl\hlkwb
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage[small]{caption}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{wrapfig}
+\usepackage{subfig}
+\usepackage{setspace}
+\usepackage{sectsty}
+\allsectionsfont{\normalsize}
+\usepackage{titlesec}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage{geometry}
+\usepackage{fancyhdr}   
+\pagestyle{fancy}  
+\renewcommand{\headrulewidth}{1.5pt}  
+\fancyhead[R]{C. Chamberlain}
+\fancyhead[C]{Forest Ecology}
+\makeatletter
+\let\ps@plain\ps@fancy 
+\makeatother
+\setlength{\captionmargin}{25pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{0pt}
+\topmargin -1.1cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 1.5pt
+\renewcommand{\baselinestretch}{1.0}
+\parindent 0pt
+
+
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+  ]{siderules}
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+\setkeys{Gin}{width=0.8\textwidth}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\textbf{\LARGE{Conservation Biology}}
+\end{center}
+
+\medskip
+\textbf{Course Objectives:}
+The goal of this course is for students to develop a basic understanding in ecology with an emphasis on forest structure and management. In this course, we will cover topics such as ecosystem dynamics, abiotic and biotic factors, trophic cascades, human impact and climate change, and population dynamics. We will meet every Monday and Wednesday from 11:30a - 1:00p.
+
+\bigskip
+\textbf{Resources:}
+\begin{itemize}
+\item Gotelli, N.J. {\textit{A Primer of Ecology}}. 2008. Sinauer Associates, Inc., Sunderland, MA (ECO)
+
+\item Chapin III, F.S., Matson, P.A., and Vitousek, P.M. {\textit{Principles of Terrestrial Ecosystem Ecology}}. 2011. Springer Science+Business Media, New York, NY. (CMV) (\textbf{There are many copies available at the library.})
+\end{itemize}
+
+\textbf{Additional Reading:}
+Additional primary literature articles will be available for students on the website and are listed in the `\textit{Reading}' column of the schedule below. Full citations are also listed. \\
+
+\textbf{Field/Lab Sessions:}
+Each week, students will have a lab session for two hours to learn basic ecology fieldwork and labwork. The aim is to provide students with a firm foundation in preparing for fieldwork, basic tool use, and greenhouse and growth chamber use. Students will need to first complete the lab safety module before the first lab session in order to participate. The module can be found on the course website. \\
+
+\newpage
+\textbf{Schedule:}
+\begin{center}
+\begin{tabular}{|c | c | c |}
+\hline
+\textbf{Class} & \textbf{Topic} & \textbf{Reading} \\
+\hline
+\hline
+\textbf{M:} 10 Sept & Intro to Forest Ecology & \textbf{CMV: 3-21} \& \cite{Gilliam2007} \\
+\hline 
+\textbf{W:} 12 Sept & Forest Management & \textbf{CMV: 423-446} \& \cite{Johnson2001} \\
+\hline
+\textbf{F:} 14 Sept & \textbf{Lab 1:} Preparing for the field & \\
+\hline
+\hline
+\textbf{M:} 17 Sept & Thermal \& Water Relations & \textbf{CMV: 93-121} \& \cite{Arii2002} \\
+\hline
+\textbf{W:} 19 Sept & Soils Properties & \textbf{CMV: 63-89} \& \cite{Prentice1992} \\
+\hline
+\textbf{F:} 21 Sept & \textbf{Lab 2:} Plant Presses & \\
+\hline
+\hline
+\textbf{M:} 24 Sept & Canopy structure \& Light & \cite{Farrior2016} \& \cite{Chen2014} \\
+\hline
+\textbf{W:} 26 Sept & Succession \& Recruitment & \textbf{ECO: 179-201} \\
+ & & \& \textbf{CMV: 351-365} \\
+\hline
+\textbf{F:} 28 Sept & \textbf{Lab 3:} Dichotomous Key - trees & \\
+\hline
+\hline
+\textbf{M:} 1 Oct & Trophic Dynamics & \textbf{CMV: 297-319} \& \cite{Moore2004} \\
+\hline
+\textbf{W:} 3 Oct & Disturbances & \textbf{CMV: 339-350} \& \cite{Gu2008} \\
+ & & \& \cite{Bailey2002} \\
+\hline
+\textbf{F:} 5 Oct & \textbf{Lab 4:} Dichotomous Key - grass & \\
+\hline
+\hline
+\textbf{M:} 8 Oct & Nutrient Cycling & \textbf{CMV: 229-256} \& \cite{Sardans2016} \\
+\hline
+\textbf{W:} 10 Oct & Carbon Cycles & \textbf{CMV: 123-155} \& \cite{Grassi2017} \\
+\hline
+\textbf{F:} 12 Oct & \textbf{Lab 5:} Field Surveys & \\
+\hline
+\hline
+\textbf{M:} 15 Oct & Dispersal \& Seed Predation & \cite{Clark1999} \& \cite{Smith1987} \\
+\hline
+\textbf{W:} 17 Oct & Reproduction \& Growth & \cite{Primack1987} \& \cite{Aizen1994} \\
+\hline
+\textbf{F:} 19 Oct & \textbf{Lab 6:} Seed Collection & \\
+\hline
+\hline
+\textbf{M:} 22 Oct & Phenology & \cite{Basler2014} \& \cite{Chuine2010} \\
+\hline
+\textbf{W:} 24 Oct & Fire Ecology & \cite{Whitlock2003} \& \cite{Larson2012} \\
+\hline
+\textbf{F:} 26 Oct & \textbf{Lab 7:} Succession & \\
+\hline
+\hline
+\textbf{M:} 29 Oct & Strategies \& Adaptations & \cite{Poorter2006} \& \cite{Lindner2010} \\
+\hline
+\textbf{W:} 31 Oct & Invasive Species & \cite{MacDougall2005} \\
+ & & \& \cite{Stachowicz2002} \\
+\hline
+\textbf{F:} 2 Nov & \textbf{Lab 8:} Growth Facilities & \\
+\hline
+\hline
+\textbf{M:} 5 Nov & Trees at Extremes  & \cite{Klaassen2016} \& \cite{Niemela1996} \\
+\hline
+\textbf{W:} 7 Nov & Climate Change Impacts & \textbf{CMV: 23-59 \& 401-421} \\
+ & & \& \cite{Walther2002} \\
+\hline
+\textbf{F:} 9 Nov & \textbf{Lab 9:} Phenology & \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|c | c | c |}
+\hline
+\textbf{Class} & \textbf{Topic} & \textbf{Reading} \\
+\hline
+\textbf{M:} 12 Nov & Competition \& Herbivory  & \textbf{ECO: 99-123} \\
+ & & \& \cite{Ettinger2017} \\
+\hline
+\textbf{W:} 14 Nov & Facilitation \& Mutualisms & \cite{Booth2010} \\
+ & & \& \cite{Jander2016} \\
+\hline
+\textbf{F:} 16 Nov & \textbf{Lab 10:} SLA \& DBH & \\
+\hline
+\hline
+\textbf{M \& W:} 19-23 Nov & Thanksgiving Break!  &  \\
+\hline
+\hline
+\textbf{M:} 26 Nov & Landscape Ecology  & \textbf{CMV: 369-396} \& \cite{Roxburgh2004} \\
+\hline
+\textbf{W:} 28 Nov & Patch Dynamics \& Edge Effects & \textbf{ECO: 155-176} \\
+ & & \& \cite{Forman1981} \\
+\hline
+\textbf{F:} 30 Nov & \textbf{Lab 11:} GPS Mapping & \\
+\hline
+\hline
+\textbf{M:} 3 Dec & Diversity \& Population Dynamics  & \textbf{ECO: 203-223} \\
+ & & \& \textbf{CMV: 321-335} \\
+\hline
+\textbf{W:} 5 Dec & Human Impact \& Regeneration & \cite{Honnay2005} \\
+ & & \& \cite{McGill2006} \\
+ & & \& \cite{Dupouey2002} \\
+\hline
+\textbf{F:} 7 Dec & \textbf{Lab 12:} Edge Effects & \\
+\hline
+\end{tabular}
+\end{center}
+
+\par
+{\textbf{Grading Rubric: }}
+\begin{center}
+\begin{tabular}{|c | c |}
+\hline
+\textbf{Type} & \textbf{Percent of Grade} \\
+\hline
+Participation \& Discussion & 15 \\
+\hline
+Lab Sessions & 15 \\
+\hline
+Midterm & 30 \\
+\hline
+Final Exam and Project & 40 \\
+\hline
+\end{tabular}
+\end{center}
+
+\newpage
+\bibliography{..//QUALS/refs/ecology/ecosyllabus.bib}
+\end{document}
