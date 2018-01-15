@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 JAN 2018 07:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 JAN 2018 10:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -740,48 +740,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <./leaf.jpg> <./budscales.jpg>] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 154--156
+Underfull \hbox (badness 10000) in paragraph at lines 158--161
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
-
- []
-
-[3] <DVR_buds.pdf, id=21, 303.1325pt x 274.02374pt>
+[3] <DVR_buds.pdf, id=21, 289.08pt x 216.81pt>
 File: DVR_buds.pdf Graphic file (type pdf)
  <use DVR_buds.pdf>
 Package pdftex.def Info: DVR_buds.pdf used on input line 202.
-(pdftex.def)             Requested size: 256.0748pt x 231.4871pt.
+(pdftex.def)             Requested size: 256.0748pt x 192.06706pt.
  [4]
-<chloro_effects.pdf, id=25, 303.1325pt x 274.02374pt>
+<chloro_effects.pdf, id=25, 289.08pt x 216.81pt>
 File: chloro_effects.pdf Graphic file (type pdf)
  <use chloro_effects.pdf>
 Package pdftex.def Info: chloro_effects.pdf used on input line 209.
-(pdftex.def)             Requested size: 256.0748pt x 231.4871pt.
+(pdftex.def)             Requested size: 256.0748pt x 192.06706pt.
 
-[5 <./DVR_buds.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 215--218
 
  []
 
-[6 <./chloro_effects.pdf>] [7]
+[5 <./DVR_buds.pdf> <./chloro_effects.pdf>] [6] [7]
 Underfull \hbox (badness 10000) in paragraph at lines 271--274
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
-
- []
-
-<FS_Diff.pdf, id=48, 845.1575pt x 597.23125pt>
+<FS_Diff.pdf, id=50, 845.1575pt x 597.23125pt>
 File: FS_Diff.pdf Graphic file (type pdf)
  <use FS_Diff.pdf>
 Package pdftex.def Info: FS_Diff.pdf used on input line 281.
@@ -793,39 +777,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--297
 
  []
 
-[9 <./FS_Diff.pdf>] (./Quals_proposal.bbl [10] [11]
-! Missing } inserted.
-<inserted text> 
-                }
-l.263 \end{thebibliography}
-                           
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-) [12] (./Quals_proposal.aux) ) 
+[9 <./FS_Diff.pdf>] (./Quals_proposal.bbl [10] [11]) [12] (./Quals_proposal.aux
+) ) 
 Here is how much of TeX's memory you used:
- 13686 strings out of 493014
- 246829 string characters out of 6133351
- 294880 words of memory out of 5000000
- 17043 multiletter control sequences out of 15000+600000
+ 13689 strings out of 493014
+ 246886 string characters out of 6133351
+ 294896 words of memory out of 5000000
+ 17046 multiletter control sequences out of 15000+600000
  32418 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,11n,43p,10431b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmss8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmti12.pfb>
-Output written on Quals_proposal.pdf (12 pages, 11347572 bytes).
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Quals_proposal.pdf (12 pages, 11357724 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 106 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
