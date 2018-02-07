@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 JAN 2018 10:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 FEB 2018 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -744,36 +744,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--161
 
  []
 
-[3] <DVR_buds.pdf, id=21, 289.08pt x 216.81pt>
-File: DVR_buds.pdf Graphic file (type pdf)
- <use DVR_buds.pdf>
-Package pdftex.def Info: DVR_buds.pdf used on input line 202.
-(pdftex.def)             Requested size: 256.0748pt x 192.06706pt.
- [4]
-<chloro_effects.pdf, id=25, 289.08pt x 216.81pt>
-File: chloro_effects.pdf Graphic file (type pdf)
- <use chloro_effects.pdf>
-Package pdftex.def Info: chloro_effects.pdf used on input line 209.
-(pdftex.def)             Requested size: 256.0748pt x 192.06706pt.
+[3] <DVR&Perc_smfig.pdf, id=21, 505.89pt x 252.945pt>
+File: DVR&Perc_smfig.pdf Graphic file (type pdf)
+ <use DVR&Perc_smfig.pdf>
+Package pdftex.def Info: DVR&Perc_smfig.pdf used on input line 201.
+(pdftex.def)             Requested size: 398.33858pt x 199.17207pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--218
+[4] <traits_smfig.pdf, id=25, 505.89pt x 252.945pt>
+File: traits_smfig.pdf Graphic file (type pdf)
+ <use traits_smfig.pdf>
+Package pdftex.def Info: traits_smfig.pdf used on input line 206.
+(pdftex.def)             Requested size: 398.33858pt x 199.17207pt.
 
- []
-
-[5 <./DVR_buds.pdf> <./chloro_effects.pdf>] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 271--274
+Underfull \hbox (badness 10000) in paragraph at lines 211--214
 
  []
 
-<FS_Diff.pdf, id=50, 845.1575pt x 597.23125pt>
+[5 <./DVR&Perc_smfig.pdf> <./traits_smfig.pdf>] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 267--270
+
+ []
+
+<FS_Diff.pdf, id=55, 845.1575pt x 597.23125pt>
 File: FS_Diff.pdf Graphic file (type pdf)
  <use FS_Diff.pdf>
-Package pdftex.def Info: FS_Diff.pdf used on input line 281.
+Package pdftex.def Info: FS_Diff.pdf used on input line 277.
 (pdftex.def)             Requested size: 341.43306pt x 241.27586pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 282.
+(Font)              <10.95> on input line 278.
  [8]
-Underfull \hbox (badness 10000) in paragraph at lines 287--297
+Underfull \hbox (badness 10000) in paragraph at lines 283--293
 
  []
 
@@ -781,7 +781,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--297
 ) ) 
 Here is how much of TeX's memory you used:
  13689 strings out of 493014
- 246886 string characters out of 6133351
+ 246906 string characters out of 6133351
  294896 words of memory out of 5000000
  17046 multiletter control sequences out of 15000+600000
  32418 words of font info for 64 fonts, out of 8000000 for 9000
@@ -794,10 +794,10 @@ fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr
 /local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Quals_proposal.pdf (12 pages, 11357724 bytes).
+Output written on Quals_proposal.pdf (12 pages, 11374502 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

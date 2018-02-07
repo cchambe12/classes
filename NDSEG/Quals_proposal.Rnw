@@ -14,8 +14,8 @@
 \fancyhead[L]{Project Proposal}
 \usepackage{setspace}
 \usepackage{mdframed}
-\usepackage[numbers]{natbib}
-\bibliographystyle{..//refs/styles/nature.bst}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
 \setlength{\captionmargin}{30pt}
 \setlength{\abovecaptionskip}{0pt}
 \setlength{\belowcaptionskip}{10pt}
@@ -28,7 +28,7 @@
 \parskip 7.2pt
 \renewcommand{\baselinestretch}{1.0}
 \parindent 0pt
-\usepackage{lineno}
+%\usepackage{lineno}
 \linenumbers
 
 \newmdenv[
@@ -107,7 +107,7 @@ There have been many studies that have investigated the effects of false spring 
 
 \textbf{\large{Chapter One:} Species Differences}\\
 \\
-Plants growing in temperate environments time their growth each spring to follow rising temperatures and increasing light and soil resource availability. While tracking spring resource availability, temperate plants are at risk of false spring events. Plants thus must exhibit flexible spring phenologies in order to minimize freezing risk. Freezing temperatures following a warm spell could result in plant damage or even death \citep{Ludlum1968, Mock2007}. Intracellular ice formation from false spring events often results in severe leaf and stem damage. Ice formation can also occur indirectly (i.e. extracellularly), which results in freezing dehydration and mimics extreme drought conditions \citep{Pearce2001, Beck2004, Hofmann2015}. Both forms of ice formation can cause defoliation and, ultimately, crown dieback \citep{Gu2008}. Once buds exit the dormancy phase, they are less freeze tolerant and resistance to bud ice formation is greatly reduced \citep{Taschler2004, Lenz2013, Vitasse2014a}. Some plants utilize protective strategies in order to reduce the risk of intracellular freezing \citep{Sakai1987} early in the spring. \textit{ The purpose of this chapter is to understand if some species are more tolerant of spring freezing and if some protective strategies are more effective than others.}
+Plants growing in temperate environments time their growth each spring to follow rising temperatures and increasing light and soil resource availability. While tracking spring resource availability, temperate plants are at risk of false spring events. Plants thus must exhibit flexible spring phenologies in order to minimize freezing risk. Freezing temperatures following a warm spell could result in plant damage or even death \citep{Ludlum1968, Mock2007}. Extracellular ice formation from false spring events often results in freezing dehydration and mimics extreme drought conditions \citep{Pearce2001, Beck2004, Hofmann2015}. Ice formation can also occur directly (i.e. intracellularly), which results in cell death and, subsequently, severe leaf and stem damage. Both forms of ice formation can cause defoliation and, ultimately, crown dieback \citep{Gu2008}. Once buds exit the dormancy phase, they are less freeze tolerant and resistance to bud ice formation is greatly reduced until full leaf expansion and the formation of the secondary cell wall, when frost tolerance increases again slightly \citep{Taschler2004, Lenz2013, Vitasse2014a}. Some plants utilize protective strategies in order to reduce the risk of intracellular freezing \citep{Sakai1987} early in the spring. \textit{ The purpose of this chapter is to understand if some species are more tolerant of spring freezing and if some protective strategies are more effective than others.}
 
 I will investigate the species-level differences in  protective strategies and evaluate interspecific variation in false spring damage. I will collect seeds of 10-12 native tree and shrub species for 16-24 individuals per species from the Harvard Forest field station and grow individuals from seed in a controlled greenhouse environment for one year. I will monitor the spring phenology of each bud on each individual from budburst to leafout. Half of the individuals for each species will act as a control group through the growing season while the other half will be exposed to a false spring event. Once 60-100\% the individual's buds are between budburst and leafout, I will put that individual in a growth chamber overnight at -3$^{\circ}$C for several hours to mimic a realistic false spring event. I will continue to monitor the bud phenology of the individuals through the end of the growing season and track other physiological traits (e.g. xylem embolism \citep{Zhu2000,Lambers2008} and chlorophyll fluorescence \citep{Binder1996,Ehlert2008} ) to assess the level of damage sustained from the events.  I will also quantify traits that have been identified as being important for frost tolerance (i.e. leaf serrations and number of trichomes) and see if these characteristics benefit an individual under false spring conditions.
 
@@ -148,17 +148,13 @@ I will investigate the species-level differences in  protective strategies and e
 In a preliminary study performed last spring, I found that the rate of budburst decreased for both {\textit{Betula papyrifera}} and {\textit{Betula populifolia}} when exposed to false spring conditions (Figure \ref{fig:dvr}). With longer rates of budburst, less tolerant phenophases could be exposed to multiple false spring events in one season. Individuals exposed to a false spring event also had lower leaf chlorophyll concentrations, implying lower photosynthetic capacities in these individuals (Figure \ref{fig:chloro}). This study is important for understanding interspecific variation in false spring tolerance, which will ultimately help the model better predict the effects of false springs and, thus, species distributions. 
 
 {\begin{figure}[H]
-  -\begin{center}
-  -\includegraphics[width=9cm]{DVR_buds.pdf} 
+  -\includegraphics[width=14cm]{DVR&Perc_smfig.pdf} 
   -\caption{A graphic of the parameter effects of false spring events on the rate of budburst. False spring events lengthen the rate of budburst by 6.8 days but the combined effect of treatment and species lengthens the rate by 5.2 days.}\label{fig:dvr}
-  -\end{center}
   -\end{figure}}
 
 {\begin{figure} [H]
-  -\begin{center}
-  -\includegraphics[width=9cm]{chloro_effects.pdf}
+  -\includegraphics[width=14cm]{traits_smfig.pdf}
   -\caption{The parameter effects of false spring events on leaf chlorophyll concentration. The combined effect of species and treatment decrease the chlorophyll concentration of leaves by 2.1, thus potentially reducing the photosynthetic capacity of leaves exposed to false spring events.}\label{fig:chloro}
-  -\end{center}
   -\end{figure}}
   
 

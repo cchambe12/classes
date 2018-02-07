@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 FEB 2018 19:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 FEB 2018 08:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -703,19 +703,34 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 120.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 120.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 120.
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--127
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 124.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 124.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 124.
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
 
  []
 
@@ -728,12 +743,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Overfull \hbox (28.52884pt too wide) in paragraph at lines 134--206
+Overfull \hbox (28.52884pt too wide) in paragraph at lines 138--210
  [] 
  []
 
 
-Overfull \hbox (30.78537pt too wide) in paragraph at lines 209--243
+Overfull \hbox (30.78537pt too wide) in paragraph at lines 213--247
  [] 
  []
 
@@ -753,7 +768,7 @@ xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
 e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ForestSyllabus.pdf (6 pages, 101854 bytes).
+Output written on ForestSyllabus.pdf (6 pages, 101877 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
