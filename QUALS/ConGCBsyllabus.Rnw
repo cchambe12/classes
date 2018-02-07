@@ -60,8 +60,13 @@
 \end{center}
 
 \medskip
-\textbf{Course Objectives:}
-The goal of this course is for students to develop a basic understanding in conservation biology with an emphasis on global change biology. In this course, we will cover topics such as biodiversity, ecosystem services, habitat fragmentation, human-wildlife interactions, anthropogenic climate change, and how to communicate climate change and conservation to the public. It is said that humans are currently experiencing an environmental crisis; that we have initiated a new geological era -- the Holocene; that we are in the midst of a sixth extinction. The aim of this course is to train students on proper conservation techniques and understandings. We will meet every Monday and Wednesday from 11:30a - 1:00p.
+\textbf{Course Objectives:}\\
+The goal of this course is for students to develop a basic understanding in conservation biology with an emphasis on global change biology. In this course, we will cover topics such as biodiversity, ecosystem services, habitat fragmentation, human-wildlife interactions, anthropogenic climate change, and how to communicate climate change and conservation to the public. It is said that humans are currently experiencing an environmental crisis, that we have initiated a new geological era -- the Holocene and that we are in the midst of a sixth extinction. The aim of this course is to train students on proper conservation techniques and understandings. \\
+
+
+In addition to being familiar with major conservation biology concepts, I expect students to be able to write up a conservation regime program for one endangered speicies that could be implemented by either a zoo, non-profit organization, or governmental agency. I also expect students to master various communication skills, whether it is to stakeholders, management, or the public and to feel comfortable assessing and designing program regimes for habitats or populations. \\
+
+We will meet every Monday and Wednesday from 11:30a - 1:00p.
 
 \bigskip
 \textbf{Resources:}
