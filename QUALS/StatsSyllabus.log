@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  3 JAN 2018 16:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  12 FEB 2018 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -703,30 +703,35 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 119.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 119.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 119.
 
-Overfull \hbox (0.54207pt too wide) in paragraph at lines 129--131
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 123.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 123.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 123.
+
+Overfull \hbox (0.54207pt too wide) in paragraph at lines 133--135
 \T1/aer/m/n/10.95 (https://cran.r-project.org/) and RStu-dio (https://www.rstud
 io.com/products/rstudio/download/)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--144
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--157
+Underfull \hbox (badness 10000) in paragraph at lines 138--148
 
  []
 
@@ -739,99 +744,104 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Overfull \hbox (25.62839pt too wide) in paragraph at lines 158--167
+Underfull \hbox (badness 10000) in paragraph at lines 150--161
+
+ []
+
+
+Overfull \hbox (25.62839pt too wide) in paragraph at lines 162--171
 \T1/aer/m/n/10.95 - Hy-poth-e-sis Test-ing (P-Value ap-proach) (https://onlinec
 ourses.science.psu.edu/statprogram/node/138) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--167
+Underfull \hbox (badness 10000) in paragraph at lines 162--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--177
+Underfull \hbox (badness 10000) in paragraph at lines 172--181
 
  []
 
 
-Overfull \hbox (24.69324pt too wide) in paragraph at lines 178--189
+Overfull \hbox (24.69324pt too wide) in paragraph at lines 182--193
 \T1/aer/m/n/10.95 - YouTube: `One-Sided Test or Two-Sided Test?' (https://www.y
 outube.com/watch?v=VP1bhopNP74) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--189
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--202
+Underfull \hbox (badness 10000) in paragraph at lines 182--193
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 203--214
+Underfull \hbox (badness 10000) in paragraph at lines 194--206
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--224
+Underfull \hbox (badness 10000) in paragraph at lines 207--218
 
  []
 
 
-Overfull \hbox (37.94804pt too wide) in paragraph at lines 225--235
+Underfull \hbox (badness 10000) in paragraph at lines 219--228
+
+ []
+
+
+Overfull \hbox (37.94804pt too wide) in paragraph at lines 229--239
 \T1/aer/m/n/10.95 - (http://andrewgelman.com/2013/01/05/understanding-regressio
 n-models-and-regression-coefficients/) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--235
+Underfull \hbox (badness 10000) in paragraph at lines 229--239
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 236--245
+Underfull \hbox (badness 10000) in paragraph at lines 240--249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--256
+Underfull \hbox (badness 10000) in paragraph at lines 250--260
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--269
+Underfull \hbox (badness 10000) in paragraph at lines 261--273
 
  []
 
-[4] (./StatsSyllabus.aux) )
+[4] [5] (./StatsSyllabus.aux) )
 (\end occurred inside a group at level 23)
 
-### simple group (level 23) entered at line 265 ({)
-### simple group (level 22) entered at line 264 ({)
-### simple group (level 21) entered at line 259 ({)
-### simple group (level 20) entered at line 253 ({)
-### simple group (level 19) entered at line 252 ({)
-### simple group (level 18) entered at line 251 ({)
-### simple group (level 17) entered at line 249 ({)
-### simple group (level 16) entered at line 241 ({)
-### simple group (level 15) entered at line 236 ({)
-### simple group (level 14) entered at line 232 ({)
-### simple group (level 13) entered at line 228 ({)
-### simple group (level 12) entered at line 221 ({)
-### simple group (level 11) entered at line 217 ({)
-### simple group (level 10) entered at line 215 ({)
-### simple group (level 9) entered at line 209 ({)
-### simple group (level 8) entered at line 208 ({)
-### simple group (level 7) entered at line 203 ({)
-### simple group (level 6) entered at line 190 ({)
-### simple group (level 5) entered at line 178 ({)
-### simple group (level 4) entered at line 168 ({)
-### simple group (level 3) entered at line 158 ({)
-### simple group (level 2) entered at line 146 ({)
-### simple group (level 1) entered at line 134 ({)
+### simple group (level 23) entered at line 269 ({)
+### simple group (level 22) entered at line 268 ({)
+### simple group (level 21) entered at line 263 ({)
+### simple group (level 20) entered at line 257 ({)
+### simple group (level 19) entered at line 256 ({)
+### simple group (level 18) entered at line 255 ({)
+### simple group (level 17) entered at line 253 ({)
+### simple group (level 16) entered at line 245 ({)
+### simple group (level 15) entered at line 240 ({)
+### simple group (level 14) entered at line 236 ({)
+### simple group (level 13) entered at line 232 ({)
+### simple group (level 12) entered at line 225 ({)
+### simple group (level 11) entered at line 221 ({)
+### simple group (level 10) entered at line 219 ({)
+### simple group (level 9) entered at line 213 ({)
+### simple group (level 8) entered at line 212 ({)
+### simple group (level 7) entered at line 207 ({)
+### simple group (level 6) entered at line 194 ({)
+### simple group (level 5) entered at line 182 ({)
+### simple group (level 4) entered at line 172 ({)
+### simple group (level 3) entered at line 162 ({)
+### simple group (level 2) entered at line 150 ({)
+### simple group (level 1) entered at line 138 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  13619 strings out of 493014
@@ -840,17 +850,17 @@ Here is how much of TeX's memory you used:
  16999 multiletter control sequences out of 15000+600000
  24248 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,12n,43p,10430b,564s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,11n,43p,10430b,564s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti10.pfb>
-Output written on StatsSyllabus.pdf (4 pages, 94777 bytes).
+Output written on StatsSyllabus.pdf (5 pages, 95533 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

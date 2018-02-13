@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 FEB 2018 15:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  12 FEB 2018 18:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -591,24 +591,6 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count141
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lineno/lineno.sty
-Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count142
-\output=\toks21
-\linenoprevgraf=\count143
-\linenumbersep=\dimen165
-\linenumberwidth=\dimen166
-\c@linenumber=\count144
-\c@pagewiselinenumber=\count145
-\c@LN@truepage=\count146
-\c@internallinenumber=\count147
-\c@internallinenumbers=\count148
-\quotelinenumbersep=\dimen167
-\bframerule=\dimen168
-\bframesep=\dimen169
-\bframebox=\box51
-LaTeX Info: Redefining \\ on input line 3056.
-)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
@@ -616,39 +598,39 @@ tim
 (./Quals_proposal.aux)
 \openout1 = `Quals_proposal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 91.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 89.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    ... okay on input line 89.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count149
-\scratchdimen=\dimen170
-\scratchbox=\box52
-\nofMPsegments=\count150
-\nofMParguments=\count151
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count152
-\MPscratchDim=\dimen171
-\MPnumerator=\count153
-\makeMPintoPDFobject=\count154
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count142
+\scratchdimen=\dimen165
+\scratchbox=\box51
+\nofMPsegments=\count143
+\nofMParguments=\count144
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count145
+\MPscratchDim=\dimen166
+\MPnumerator=\count146
+\makeMPintoPDFobject=\count147
+\everyMPtoPDFconversion=\toks22
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -703,33 +685,29 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box53
-LaTeX Font Info:    Try loading font information for T1+aess on input line 104.
+\AtBeginShipoutBox=\box52
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/ae/t1aess.fd
-File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 108--111
+Underfull \hbox (badness 10000) in paragraph at lines 106--109
 
  []
 
 <leaf.jpg, id=1, 5781.6pt x 3854.4pt>
 File: leaf.jpg Graphic file (type jpg)
  <use leaf.jpg>
-Package pdftex.def Info: leaf.jpg used on input line 116.
+Package pdftex.def Info: leaf.jpg used on input line 114.
 (pdftex.def)             Requested size: 113.81102pt x 75.86919pt.
 
 <budscales.jpg, id=2, 5781.6pt x 3854.4pt>
 File: budscales.jpg Graphic file (type jpg)
  <use budscales.jpg>
-Package pdftex.def Info: budscales.jpg used on input line 118.
+Package pdftex.def Info: budscales.jpg used on input line 116.
 (pdftex.def)             Requested size: 113.81102pt x 75.86919pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 122.
+(Font)              <12> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 122.
+(Font)              <8> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 122.
+(Font)              <6> on input line 120.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -740,64 +718,73 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <./leaf.jpg> <./budscales.jpg>] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 158--161
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
 
  []
 
-[3] <DVR&Perc_smfig.pdf, id=21, 505.89pt x 252.945pt>
-File: DVR&Perc_smfig.pdf Graphic file (type pdf)
- <use DVR&Perc_smfig.pdf>
-Package pdftex.def Info: DVR&Perc_smfig.pdf used on input line 201.
+[3] <DVR&Diff_smfig.pdf, id=20, 505.89pt x 252.945pt>
+File: DVR&Diff_smfig.pdf Graphic file (type pdf)
+ <use DVR&Diff_smfig.pdf>
+Package pdftex.def Info: DVR&Diff_smfig.pdf used on input line 199.
 (pdftex.def)             Requested size: 398.33858pt x 199.17207pt.
 
-[4] <traits_smfig.pdf, id=25, 505.89pt x 252.945pt>
+[4] <traits_smfig.pdf, id=24, 505.89pt x 252.945pt>
 File: traits_smfig.pdf Graphic file (type pdf)
  <use traits_smfig.pdf>
-Package pdftex.def Info: traits_smfig.pdf used on input line 206.
+Package pdftex.def Info: traits_smfig.pdf used on input line 204.
 (pdftex.def)             Requested size: 398.33858pt x 199.17207pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--214
+Underfull \hbox (badness 10000) in paragraph at lines 209--212
 
  []
 
-[5 <./DVR&Perc_smfig.pdf> <./traits_smfig.pdf>] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 267--270
+[5 <./DVR&Diff_smfig.pdf> <./traits_smfig.pdf>] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
 
  []
 
-<FS_Diff.pdf, id=55, 845.1575pt x 597.23125pt>
+<FS_Diff.pdf, id=56, 845.1575pt x 597.23125pt>
 File: FS_Diff.pdf Graphic file (type pdf)
  <use FS_Diff.pdf>
-Package pdftex.def Info: FS_Diff.pdf used on input line 277.
+Package pdftex.def Info: FS_Diff.pdf used on input line 275.
 (pdftex.def)             Requested size: 341.43306pt x 241.27586pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 278.
+(Font)              <10.95> on input line 276.
  [8]
-Underfull \hbox (badness 10000) in paragraph at lines 283--293
+Underfull \hbox (badness 10000) in paragraph at lines 279--282
 
  []
 
-[9 <./FS_Diff.pdf>] (./Quals_proposal.bbl [10] [11]) [12] (./Quals_proposal.aux
-) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--282
+
+ []
+
+[9 <./FS_Diff.pdf>]
+Overfull \hbox (41.58905pt too wide) in paragraph at lines 289--305
+ [][] 
+ []
+
+[10] (./Quals_proposal.bbl [11] [12]) [13] (./Quals_proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 13689 strings out of 493014
- 246906 string characters out of 6133351
- 294896 words of memory out of 5000000
- 17046 multiletter control sequences out of 15000+600000
- 32418 words of font info for 64 fonts, out of 8000000 for 9000
+ 13460 strings out of 493014
+ 243424 string characters out of 6133351
+ 292347 words of memory out of 5000000
+ 16830 multiletter control sequences out of 15000+600000
+ 28285 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,11n,43p,10431b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
-b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Quals_proposal.pdf (12 pages, 11374502 bytes).
+ 40i,12n,43p,10422b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Quals_proposal.pdf (13 pages, 11366684 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
+ 113 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -60,8 +60,12 @@
 \end{center}
 
 \medskip
-\textbf{Course Objectives:}
-The goal of this course is for students to develop a basic foundation in biostatisics and data analysis in observational and experimental studies. The ultimate intent is to provide students with statistical techniques and understanding that will permit them to learn more advanced statistical tools and application. At the end of this course, students will be expected to understand how to organize and clean their data and analyze and graphically present their results in R.  The course is geared towards undergraduates in evolutionary biology and ecology and it will meet three times per week: twice for lectures and once in the computer lab to learn R. 
+\textbf{Course Objectives:}\\
+The goal of this course is for students to develop a basic foundation in biostatisics and data analysis in observational and experimental studies. The ultimate intent is to provide students with statistical techniques and understanding that will permit them to learn more advanced statistical tools and application. At the end of this course, students will be expected to understand how to organize and clean their data and analyze and graphically present their results in R.  The course is geared towards undergraduates in evolutionary biology and ecology and it will meet three times per week: twice for lectures and once in the computer lab to learn R. \\
+
+In addition to being able to display and analyze results, students should have mastered concepts on experimental design, coding in R, choosing a model, and communicating results. Students will work on a semester long project and will be required to submit a paper and present results at the end of the course. \\
+
+Lectures will be held on Mondays and Wednesdays from 11:00a-1:00pm each week. Computer lab sessions will be held on Thursdays from 1:00p-2:30p.
 
 \bigskip
 \textbf{Resources:}
