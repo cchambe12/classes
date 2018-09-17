@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 SEP 2018 15:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 SEP 2018 13:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**SLS12_Lec3.tex
-(./SLS12_Lec3.tex
+**SLS12_Lec4.tex
+(./SLS12_Lec4.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
@@ -712,8 +712,8 @@ Package caption Info: float package is loaded.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-(./SLS12_Lec3.aux)
-\openout1 = `SLS12_Lec3.aux'.
+(./SLS12_Lec4.aux)
+\openout1 = `SLS12_Lec4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
 LaTeX Font Info:    ... okay on input line 82.
@@ -780,7 +780,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] (./SLS12_Lec3.aux) ) 
+[2] [3] (./SLS12_Lec4.aux) ) 
 Here is how much of TeX's memory you used:
  14853 strings out of 493014
  298341 string characters out of 6133351
@@ -795,7 +795,7 @@ ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmti10.pfb>
-Output written on SLS12_Lec3.pdf (3 pages, 72430 bytes).
+Output written on SLS12_Lec4.pdf (3 pages, 68444 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream

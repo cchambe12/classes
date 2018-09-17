@@ -1,0 +1,88 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\section*{Lecture 4: 13 Sept 2018}
+
+\textbf{Janet}
+\begin{itemize}
+\item Early Dynastic period - Shu Egyptian God of air. Divinity create man and woman, day and night. Create good and evil. Origin of earth = comparative anthorpological and relgious perspectives, centered on morality. 
+  \begin{enumerate}
+  \item Mesoamerican Calendar stone: 5 periods of the earth including the beginning of life on Earth. Hierarchy. Humans originated with King.
+  \item Yoruba (Nigeria, Togo, Benin): Earth and Sky being separated and then created
+  \item Kono Creation: begining began with death
+  \item Hebraic origin story
+  \item Christianity not the only creation story: most significant in aspect of this class due to relationship with Darwin and Wallace and the reactions to first proposals of evolution. Backlash due to Christian origin story
+  \end{enumerate}
+\item Noah's Flood
+  \begin{enumerate}
+  \item God not happy with humans after Adam and Eve before the flood. Flood was punishment to people. Shem, Japheth, and Ham (Noah's son) were supposed to be the founders of worlds people and discoverers of diversity. Johann Blumenbach classified humans into 5 races. There was a perfect Caucasian type and the rest diverged from that. Origin of race in society.
+  \end{enumerate}
+\item Age of the Earth
+  \begin{enumerate}
+  \item James Ussher: archbishop in Northern Ireland. Carefully calculated the bible ages and deduced the Creation was Sunday, 23 October 4004 BCE. Suggested Earth was 5-6000 years old. \textit{The first age of the World, from the Creation...}
+  \item 100 years later... Buffon: suggested of thousands and thousands before lifeforms were even created on Earth. Age of Earth issue during the 18th century - not so much during Darwin's and Wallace's time
+  \end{enumerate}
+\item Fossils 
+  \begin{enumerate}
+  \item Wasn't always clear that fossils were extinct organisms. How come God created a perfect universe that had organisms that went extinct?
+  \item Nicolas: experiment to determine if fossils were bits of past organisms. Dissected a great white and examined teeth of shark. Found that teeth were exactly the same as the teeth he was finding in fossils in Denmark. So fossils are from organisms and they're probably weren't alive today - still no `extinction`
+  \item Western worlds started thinking the bible may not be a literal account. Could still keep the story of creation but the earth was much older than the bible indicates. Noah's flood was used as dividing line between human life and when human life began after the flood.
+  \item Thomas Jefferson: very interested in living forms, still no extinction. Are there still mammoths? Undiscovered in N. America? Set out an expedition - Lewis and Clark 1803, look out for Mammoths. Hudson River Valley in NY - great discovery of fossils. Slaves working on the site pointed out that the bones looked like African elephants. So elephant-like organisms - Mammoths?? Not living organisms, too big and no evidence of life. Peale has Mammoth in Natural History Museum
+  \item William Smith: geologist, engineer, needed to excavate through rocks to make railroads. UK strata and he mapped the distribution of rocks on the British Isles. How were they formed? Fire, water, ancient, modern, volcanoes? A lot of curiosity around Earth's creation. 
+  \item Fossils, fieldwork and mapping in early 1800s. 
+  \end{enumerate}
+\item Catastrophism
+  \begin{enumerate}
+  \item George Cuvier: not contemporary with Buffon but with Lamark and the two disagreed. Cuvier thought of himself as the Napoleon of natural sciences. Had an impact on geology. Living organisms were so complicated and interesting, if conditions they lived in changed then they died. If that happened en masse then there was a mass extinction. Only includes animals and plants. Perfectly to environmental conditions and to each other that they could not tolerate shifts in either. Needed a catastrophe for an extinction. Indicates that there were successive periods of Earth in which different types of organisms lived (i.e. Dinos). Epochs (indirectly) introduced. Earth was very old and has a directional history. And at the end of the history there was the flood and then humans were created. Cuvier came up with this idea at the time of the French Revolution at the time of a social revolution. Established the concept of extinction.
+  \end{enumerate}
+\item Uniformitarian ideas
+  \begin{enumerate}
+  \item More correct? Charles Lyell: originator of uniformitarinism, was originally a lawyer. Turned to geology. Evolutionary version of geology. Formation of limestone is old coral reefs, so Lyell proposed that when the reefs are exposed, then turns into limestone. That life is eternal and there is no beginning and no prospect of an end. The land and sea are fluid and in motion and help explain rock formation. 
+  \item There was tension. Between Creationists and the radical and progressive. Tension remains but the people who originally believed in religious framework abandoned the literal truth in bible but still believed in Creationism. Religion and science working together at times and against each other at other times. John Ruskin (a little after Darwin) artist: geologists make it hard to believe in bible. 
+  \end{enumerate}
+\end{itemize}
+  
+  
+  
+  
+  
+  
+  
+
+
+\end{document}
