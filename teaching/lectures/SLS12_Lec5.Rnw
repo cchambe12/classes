@@ -1,0 +1,96 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\section*{Lecture 5: 18 Sept 2018}
+\textbf{Janet}
+\textit\large{Who Was Charles Darwin?}
+\begin{enumerate}
+\item The Darwinian "Revolution"
+  \begin{enumerate}
+  \item Revolution caused great change
+  \end{enumerate}
+\item Social and Intellectual Background
+  \begin{enumerate}
+  \item Grandfathers: Erasmus Darwin (poet and physician) - proposed evolutionary thought in verse - and Josiah Wedgewood (chemist and china factory pioneer) - very famous during industrial revolution. Free-thinkers, wealthy, radical. Robert Waring (dad) and Susannah Wedgewood (mother). Erasmus and Josiah were friends in democratic society. Charles was one of 5 children. Family was very progressive. Grandfathers were both notable. Darwin went to two universities and people knew his last name. Known member of society.
+  \item Unitariasism in faith - less conventional. Did not people in division of Deity into Father, Son and Holy Ghost. They believed in one devine force. Both grandfathers were in the Lunar Society. Interested in progress and abolitionism and political reform. 
+  \item Darwin's mother died when he was 8 years old. He was into plants as a young boy. Very wealthy family. Went to Shrewsbury School Dr. Butlers (bad reputation so he was taken out and sent to Edinburgh University). He did pre-med to start. He attended operations and it was before anesthesia was invented and hated it. Started thinking about natural history instead. 
+  \item Worked with Robert Grant who wa a professor and French trained. He knew Lamark and French evolutionary ideas. 
+  \item Afterwards, Darwin was sent to Cambridge since he couldn't stomach being a doctor and was supposed to become a clergyman per his father's wishes. He ended up studying beetles on the side and had friends also involved in natural history. 
+  \item Read Alexander von Humboldt's personal narrative. 
+  \item At Cambridge University was taught how to do field work by Adam Sedgewick (geologist) in Wales. Learned how to identify. Darwin said he was actually content being a clergyman. 
+  \item Darwin was invited to join the \textit{Beagle} voyage. Captain sent an invitation to professor who thus chose Darwin. 
+  \item Captain - Robert FitzRoy - already went around for one voyage and on second voyage asked for a naturalist who collect animals, plants, stones and could pay for his voyage (1826-1830)
+  \item Darwin's father said no. Darwin wrote down list of what his father said. "You should consider it as a game changing his profession" and "that it would be a useless undertaking". Darwin's uncle persuaded his father otherwise. In the end he said okay and agreed to pay. 5 year trip and he was investing a lot into this undertaking. 
+  \end{enumerate}
+\item The Voyage
+  \begin{enumerate}
+  \item 1831-1836 (second voyage of the \textit{Beagle})
+  \item Caricature discovered 18 months ago. Only image of Darwin on voyage
+  \item Darwin was on land most of that time, exploring. Most of it was in South America (Patagonia - Argentina and Chile)
+  \item Very well documented from his field notes and letters
+  \item Had a big library with scientific textbooks. At FitzRoy's request. One of the books was Lyell's \textit{Principles of Geology} summarised the entirety of geology in three volumes. Darwin was doing work as a geologist and colored maps of South America. 
+  \item He found fossils - parts of \textit{Toxodon platensis} found a giant extinct version of capybera and armadillo and gianth sloth. 
+  \item What made this giant animals go extinct?
+  \item Saw a volcanoe erupt and experienced an earthquake. He proposed a number of theories to explain the origins of coral reefs. Lyell's book = inspiration
+  \end{enumerate}
+\item Natural History
+  \begin{enumerate}
+  \item Lots of collecting. Collecting a South American Rhea `petise' and was told it inhabits another region that more rheas live. Brought ostrich bones back to England from South America
+  \item John Gould 1837 identified Darwin's finches after Beagle returned
+  \item Other people he met on the voyage
+    \begin{enumerate}
+    \item Fuegians: local inhabitants, had fire and canoes. They very rarely cooked food, didn't wear clothes. More `primitive'. Individuals in a state of nature. FitzRoy's Fuegian experiment: things were stolen from the first voyage. FitzRoy took some as hostages, seems that a handful enjoyed the ship and 4 came back to England. He promised to educate them back in England, 3 were educated, Christianized, met Queen Victoria, given clothes and went back with FitzRoy and Darwin and missionary. (unclear how much they agreed to before leaving). Idea was that these 3 individuals would spread Christianity. 
+    \item Hidden anthropology of the voyage was equally unsettling for Darwin. 
+    \item Mission station was failure, 3 Fuegians and missionary were set up for 6 weeks and found that it had been burnt to the ground and everyone had run away. 
+    \end{enumerate}
+  \end{enumerate}
+\item After the Voyage
+  \begin{enumerate}
+  \item Zoology written and went around giving lectures. He met Lyell in person. Became friends with FitzRoy but separated over religious reasons after Darwin published the Origin. He also wrote a lot of geological things during this period. He wrote a chatty narrative of his voyage. FitzRoy also published a series of his voyage.
+  \item Darwin's Transmutation notebooks - his first attempt at visualizing evolutionary change
+  \item Rev. Thomas Malthus essay on the Principle of Population (the power of the population is greater than the subsistence for the man) World full of competition and survival. That the best adapted would be the most able to survive. Natural Selection. 
+  \end{enumerate}
+\end{enumerate}
+
+
+
+
+
+
+
+\end{document}
