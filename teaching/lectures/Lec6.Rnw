@@ -1,0 +1,76 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\section*{Lecture 6: 20 Sept 2018}
+\textbf{Andrew}
+\begin{enumerate}
+\item Galapagos
+  \begin{enumerate}
+  \item Set/chain of islands of increasing age from a single volcano
+  \item Herman Melville: volcano landscape, desolate landscape
+  \item Genetics experiment: mutations occur and changes will occur slowly over time and these once identical islands will form independent populations
+  \end{enumerate}
+\end{enumerate}
+
+\textbf{Janet}
+\begin{enumerate}
+\item What Darwin actually saw
+  \begin{enumerate}
+  \item Eureka moment was not on the galapagos
+  \item The rhea vs the ostrich - known primarily from his notebooks. On character of the fossils and the species present on the galapagos - darwin claims was the origin of his views. 
+  \item Reptiles fill most of the ecological niches, great diversification. As well as birdlife. Ship was there for 5 weeks, intentions to survey the islands for British charts. Wanted fresh water and food supplies for stocking up for travel across the Pacific. Owned by Ecuador at the time. 
+  \item Two kinds of iguana - land and sea (veggie) - Darwin swam after one, killed it and found seaweed in stomach. 
+  \item Different types of penguins (galapagos penguins) and flightless cormorants, red-footed and blue-footed boobies, mockingbirds, and finches. Finches were not a major part of Darwin's life while on the island. Each one adapted to a different kind of foodstuff. He collected them but did not give much attention. 
+  \item Keep the shells and tell where the carapace came from - now can genetically can type where they came from. Each island has genetically distinct carapace types. Tortoises were dinner not data for Darwin. Adaptive radiation in finches and then he wondered if the plants demonstrated the same pattern. Different species as parallel to finches. 
+  \item John Gould: identified birds in London (and distributed all specimens to various experts). John Gould for Linnaen society and museum. 
+  \item Darwin went around asked other sailors what they collected and finches and discovered there was adaptive radiation. 
+  \item <5million year old islands. Finches ~3.5 mya. Slightly big billed vs slightly small billed species to specialize on different foodstuffs resulting in multiple bill types. Phylogeny of birds all derive from single common ancestor that first arrived at the galapagos ~ 3.5mya. Relatively short and intense period of time. 
+  \item Transmutation notebooks: finches are true different species, not variants. He begins a series of notebooks and begins to visualize evolutionary change. 
+  \item Descent with Modification (doesn't really use the term evolution): keeps it largely secret because he recognizes it is a radical idea. 
+  \item Darwin's Mechanism: it's about his view of evolution not today's view. Rents a house in central London and mingles in high society and begins to think he needs a wife. Took a scientific view to whether or not he should get married or not. Married his first cousin Emma Wedgewood. 
+  \end{enumerate}
+\end{enumerate}
+  
+  
+  
+  
+  
+  
+
+
+\end{document}
