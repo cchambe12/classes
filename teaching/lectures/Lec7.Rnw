@@ -1,0 +1,100 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\section*{Lecture 7: 25 Sept 2018}
+\textit{Review Session - 1st Oct on Monday, 3-4:15pm} and extra office hours. Tuesday 2-4pm Science Center 451; Andrew is Wednesday 4-6 Biolabs 1082
+
+\textbf{Janet}
+\begin{enumerate}
+\item Down House: Darwin's home. Starting to fret about transmutation and his notebooks, keeping private. House was purchased in 1842. Big handsome house, moved from London. Very wealthy. Servants, a farm.
+\item Story of dual discovery of evolution
+\item During early years, felt he could start writing in essay form. 1844 structured his thoughts and had references to support his claim. He decided he was becoming increasingly unwell and wrote a letter to prepare for his death. Letter to wife to tell her she must publish the essay if he did die. Darwin understood the significance of his work.
+\item 1844: (same year, 6 months later) anonymous book from Rober Chambers describing ``progressive development'' - included origin of planets, earth, and of humans. Proposed humans arose from apes? Big scandal. Titled \textit{Vestiges}. People were engaged in this thesis. This encouraged Darwin to pull back from going public - stressed to Darwin that he needed more evidence. Between 1844 essay, Darwin experimental and documentary evidence in next 15 years to support his claim. "One might really fancy that from an original paucity of birds in this archipelago, one secies had been taken and modified for different ends..."
+\begin{enumerate}
+  \item Started working on pigeon breeds. Stared an aviary. Tried to get back to original pigeon type. 
+  \item Observations of his children and expressions of human emotion. However, he did not release this information until well after the publication of \textit{Origin}
+  \item Spent 8 years working on barnacles
+  \item Lots of his research was via correspondence. Letters robust sources of information.
+  \item Began sharing information with Lyell and from there decided to write the book. Lyell - advised him to write it up. He understood the pushback that could arise. But he reminded Darwin of the \textit{Vestiges} book and that there were people thinking about this. Advised to write entirety of works - 3 to 4 times more robust than \textit{Vestiges}.
+  \end{enumerate}
+\end{enumerate}
+\begin{enumerate}
+\item\large{Alfred Russel Wallace}: 14 years younger and much poorer than Darwin
+\begin{enumerate}
+  \item Left school at the age of 13 and started working as a surveyor with his brother
+  \item Starts becoming interested in plants while surveying.
+  \item Meets Henry Bates in 1844: interested in beetles, self-educated. Wallace becomes hooked on beetles. Extremely biologically diverse - 350,000 species have been named. Same time as Vestiges - bestseller but was destroyed. People mostly hated it and forced Darwin into finding out more. But for Wallace and Bates, "ingenious hypothesis with some striking facts and analogies" Wallace to Bates 1847. 
+  \item Wallace and Bates decide to do science but without the connections that Darwin has. Become professional collectors and sell collections to museums. And simultaneously think biologically. Unsure of where to go so read Edwards book about the Amazon not aware of the fact that it is largely false.
+  \item 1848: Head off to the Amazon. Bates spent 11 years in South America. Wallace and Bates split. Wallace went North. All alone, no help to lug his stuff. Gets ill multiple times, his brother comes to help him for a bit and ends up getting Yellow Fever and died. Spider monkey, Tucan, and loads more. Years of collections in ship in 1852. 2 weeks into the journey, ship set on fire, the whole thing goes up in flames - all collections are destroyed. Wallace was not rescued. Spent 10 days with crew on two open boats, just barely survived. In journal, he was fired up about being able to see meteors so clearly 4 days into waiting for rescue. Within 18 months he was back on a boat to Southeast Asia. Spent 8 years out there. Starts collecting to make money again. Birds of paradise. Writes about being a poor swimmer. 
+  \item Discovery of evolution came in two steps: descent of modification (common ancestor) and divergence and splits. \textbf{Sarawak (Borneo) Law 1855}. ``Every species has come into exisitence coincident both in space and time with a pre-existing closely allied species''. e.g. Space: of Kangaroo and relatives in Australia. e.g. Time: dinosaur, go to contiguous strata, geneological process. Similar dinos close in time to original dinos. No response to paper! So he writes to Darwin upset, Darwin says, yes some people are interested. So distant encouraging figure. 
+  \item 1858: in Moluccan Islands, has malaria. glimpses idea of Natural Selection. Once he's fit to write manuscript about Natural Selection but afraid to publish directly again so sends it to Charles Darwin instead to ask his advice. 18 June 1858 Darwin receives the letter.
+  \end{enumerate}
+\end{enumerate}
+\begin{enumerate}
+\item Darwin's Response!
+  \begin{enumerate}
+  \item Inside the letter was Wallace's essay on Natural Selection - letter and essay no longer exist. Darwin was shocked and grieved for some time. Lyell warned me this would happen! On that same day, he wrote to Lyell, saying you were right! The ideas were nearly identical in Darwin's eyes in that time. Lyell and Darwin very close friends. He claims "I would far rather burn my book than that" Wallace or another man think that he behaved poorly. Solution: that Darwin and Wallace would publish together, Darwin would publish abstract and Wallace's would be published together in the Linnean Society. Hooker part of this decision. In 1958, \textit{On the tendency of species to form varieties}. No response from the 20-30 people at that meeting. Was the first public announcement of evolution. Darwin was not present at this announcement since his last child was very ill and died 2 days beforehand. Wallace was not there either. He was in the Malaccuns. Wallace wrote too his mother, very excited that they are gratifying him and they helped him publish his work. "Assures and acquaitance with these eminent men on his returen home." Darwin then writes the \textit{Origin} and publishes it within 13 months. 24 November 1859. 
+  \end{enumerate}
+\end{enumerate}
+\begin{enumerate}
+\item Wallace's reaction to publication. He is so excited for Darwin and for the public. "The force of admiration can go no further go!!!" Wallace is now somebody. 
+  \begin{enumerate}
+  \item What happend to Wallace after?
+  \item Lousy with money. Returned from Southeast Asia well off but then lost money and became a professional exam grader. Whereas Darwin was very good at keeping money. Year before Darwin's death, Darwin arranged for a state pension for Wallace. 
+  \item Wallace had disagreements with Darwin:
+    \begin{enumerate}
+    \item Lots of debate and lots of mutual respect
+    \item Agency: Analogy of pigeons and artifical selection, and natural selection is sort of doing the same thing - Wallace hates this. Implies there's a "selector" in natural selection like in artifical selection. Which is the opposite of natural selection. Encouraging people to think there is a divine selector. He prefered the term `Survival of the Fittest.'
+    \item Sexual Selection: Wallace didn't like it - argument against it is that females are sitting on the eggs so they can't be showy or bright colors! 
+    \item Humans: biggest disagreement. Emerged 10 years after the \texit{Origin}. Wallace - believed that we didn't arise from apes and that we were the exception to natural selection. He disavailed religion but became a spiritualist. Believed in mediums and spirits and was duped. Which means that there was something immaterial in humans that still exists in humans after they die. something supernatural. Scientific argument: for 8 years in SE Asia and became completely dependent on local people, he truly believed in uncivilised people. He recognized that their brains were as good as his but why does this guy have this fantastic brain if he can't have the opportunity to do math, play the piano. He argues that his brain is too good for his existence. He claims that they are over-engineered, which can't happen with natural selection. Only deals with the here and now. 
+    \item Wallace keeps doing science but becomes a socialist. All humans should have equal rights! 
+    \item Eclipsed? yes, not famous. Wallace wrote himself out of the story. He wrote one great book on evolution and called it \textit{Darwinism}. 
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+\begin{enumerate}
+\item This lack of fame persisted after their deaths. Darwin was famous and was buried in Westminster Abbey, very extraordinary honor for a scientist. Very big deal.
+\item Wallace's was very low-key. Broadstone, Dorset. 
+\end{enumerate}
+
+
+
+
+
+
+\end{document}
