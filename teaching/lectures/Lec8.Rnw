@@ -1,0 +1,90 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\section*{Lecture 8: 27 Sept 2018}
+\textbf{Janet}
+\begin{enumerate}
+\item Why history in science?
+  \begin{enumerate}
+  \item helps us think about the way science changes over time. That is progresses and is not fixed. Science changes, is flexible and draws upon the thoughts and the societies with which it is generate. Helps us think about the place of science in a modern society. 
+  \item Darwinian Revolution
+   \begin{enumerate}
+   \item Three major moments of scientific achievement: 1. Solar system - earth peripheral; 2. Humans in natural world - peripheral; 3. Freud and the mind and how the mind works.
+   \item All unsettling revelations. Earth, Humans, the Mind. 
+   \item Increasing evidence for darwinism. A number of faith-based structures retreated behind faith and isolated themselves from Darwinism.
+   \item How was Darwinism globalized? Different forms, languages, interpretations, views. Didn't always adopt all of Darwin's points. Pick and choose aspects they wanted to adopt. 
+   \end{enumerate}
+  \item Why Wallace and Darwin happened at the same time?
+    \begin{enumerate}
+    \item Often said: Britain was industrializing nation at the time. Steam engines were first invented. This impact - transport that was faster than a horse - generated a sense of speed. Progress and innovation and change. Excitement. Newspapers, books, periodicals and magazines. Increase in steam-powered factory production. Textiles, newsprint. Production and manufacturers. At tremendous cost - health and child labor. Self-education and public education increased. Mechanics. Clocks and museums arose. Trinity (Diety) faith started to shift and become more diverse. Variety of beliefs. This directly aids Darwin and Wallace, helped dissipate the response. 
+    \item Oliver Twist, workhouses. Colonial conquest. Great Exhibition 1851, greatness and progress of the British Nation. On display in Hyde Park `Crystal Palace' London. Darwin visits and is tremendously impressed. 
+    \end{enumerate}
+  \item Saw Darwinism as part of the industrializing world. Darwin was not the only evolutionists - Chambers, Herbert Spencer, obvi Wallace. Spencer had developmental view of human society. 
+  \item Gray, Huxley (Darwin's bulldog), Lyell (geologist - only 7 yrs older)
+  \item Huxley was a skeptical biologist - he thought he invented the term agnostic. Natural Selection - "How stupid of me not to have thought of that." There may be a God but I can never know. 
+  \item Louis Agassiz (Harvard, museum), Richard Owen, Adam Sedgewick (Darwin's old professor - geology - from Cambridge)
+  \item Adam's response - more pain than pleasure. Parts he laughed at. He thought he was wrong and being mischieveous. 
+  \item Huxley would defend Darwin against the Bishop. Passionate about expressing science without a divine creator
+  \item Owen there was a portion of chimp brain that did not match humans. Used as evidence as different.
+  \item 1864 Medical students at Harvard University: Asa Gray (prof of Botany - for with a caveat) and Louis Agassiz (Natural History and comparative anatomy - against).
+    \begin{enumerate}
+    \item Asa Gray: aided Darwin in publishing American editions of \textit{Origin}. Ended up believing there was some sort of divine interaction with the varieties that emerged and they would be the ones to be naturally selected. "Selector"
+    \item Louis Agassiz: Comparative zoology museum. The most famous naturalist in the US. He believed that every species was a thought in the mind of God. That everything was created exactly right, so uniquely special to the geographic regions. Complex when trying to think about humans. Agassiz - racial theorist. He believed that humans were seperate species. Racist. 
+    \item Agassiz and Gray had opposite points of view. Worked and lived near each other. Argued publically at many meetings. 
+    \end{enumerate}
+  \end{enumerate}
+\item Many ways of interpreting Darwin's theories
+  \begin{enumerate}
+  \item most common response was to put God back in somehow
+  \item Darwin kept Humans out of the story. Lyell did not like the humans integration "I cannot go the whole orang"
+  \item God made organisms able to make themselves. Charles Kingsley - created a few original forms capable of self-development. Darwin actually put a phrase along these lines in \textit{Origin}
+  \item Edward Drinker Cope: yes maybe evolution but let's agree with Lamarck as well. stead progressive development. 
+  \item Religion: is not a simple story. John William Draper and Andrew Dickson White wrote a thesis on science and religion and stated they were completely incompatible. Many people adopted this idea. 
+  \end{enumerate}
+\item Racial Theories and Empire
+  \begin{enumerate}
+  \item History of Race as a Concept: polygenism - Arthur de Gobineau - biological differences between races. Theory of races rising and others declining. He believed the white race was superior. He did not like republicanism. He announced these views in France. Imbedded in American thought - Samuel Morton. Samuel: God created fixed human races had seperate origins and belonged where they lived. He used skulls - phrenologist. Measured the intellectual capacity of different races by using beans. Volume of beans that could fit in skull directly correlated 
+  
+  
+  
+  
+  \end{enumerate}
+\end{enumerate}
+
+
+\end{document}
