@@ -1,0 +1,87 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\section*{Lecture 9: 4 Oct 2018}
+\textbf{Andrew}
+\begin{enumerate}
+\item What supports theory of descent with modification?
+  \begin{enumerate}
+  \item Homology: LUCA (last universal common ancestor) can review what is extant and what each has in common to determine probable traits of LUCA. Shared hardware - forelimb example (vertebrates). Bats are one of three different times that forelimb modified for flight (bats, birds, pterodactyls)
+  \item Deep homology: ~1.2\% of human genome encode proteins, humans super super similar to other organims. 
+    \begin{enumerate}
+    \item Mouse gene in fruit flies - works the same way. Very different eyes, at least a billion years diverged, but the same genetic signal. 
+    \end{enumerate}
+  \item An increase in complexity: start simple and then you build up if theory is true. Fossil record supports this. Single-celled organisms and things are becoming more and more complicated. 
+    \begin{enumerate}
+    \item How to study deep history?
+      \begin{enumerate}
+      \item Fossils: descending grand cayon - going back in time. Reconstruct history of life from fossils. Jawless to jawed fish, to amphibians, reptiles etc
+      \item Building Phylogeny: traveling back in time via common ancestors through more and more distantly related organisms. Same answer and order
+      \end{enumerate}
+    \item Intermediate Forms: evolution of birds from small running dinos. 
+      \begin{enumerate}
+      \item \textit{Australopithecus} Lucy. Bipedal. Great Ape-Human intermediate. Brain of ape brain. Bipedalism came first, big brain evolved more recently. 
+      \end{enumerate}
+    \item Vestiges: traits in organism that are no longer necessary. Flightless cormorants. 
+      \begin{enumerate}
+      \item Vestigal organs: whales don't have hindlimbs except most species still have a little pelvis because whales have descended from four-legged organisms. 
+      \item Human infant grasp reflex
+      \end{enumerate}
+    \item Atavism: ancestral trait that reappears. Example of whale with hindlimbs with bones from 1920 in BC. Human tail. Stephan Jay Gould: Lousy design in nature. Ex. Panda's thumb. 
+    \item Biogeography: find similar species within biogeographic range
+    \item Superfecundity
+      \begin{enumerate}
+      \item Darwin's exmaple of elephant population increase
+      \item And yet, populations stay about the same size - except humans generally.
+      \item Malthusian insight - mortality. Competitors, finate amount of resources. Competition is key component. Heretible. 
+      
+      
+      \end{enumerate}
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+  
+  
+  
+  
+  
+  
+  
+
+
+\end{document}
