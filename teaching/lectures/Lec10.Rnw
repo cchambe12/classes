@@ -1,0 +1,79 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\section*{Lecture 10: 9 Oct 2018}
+\textbf{Andrew}
+\begin{enumerate}
+\item Mendel and Darwin. P Generation (PP x pp), F1 Generation (Pp x Pp), F2 (PP, 2Pp, pp)
+\item Genotype vs Phenotype (non-blending inheritance)
+\item Mendel: physics in Vienna. First paper was in German - Darwin still around - but probably would not have understood it even if he could read German or was aware of it
+  \begin{enumerate}
+  \item Mendelian Characteristics
+    \begin{enumerate}
+    \item Discrete States - BUT Francis Galton argues there's no such thing as discrete states. You see a bell curve of continuous states. Ex. Galton's argument with human height
+    \item RA Fischer: Not determined by just one or two loci but by polygenic inheritance. Not a single locus that contributes to height, for example. Andrew uses ABC example. Height is determined by the number of upper case alleles you have. Can take Mendel and get the bell curve through polygenism.
+    \end{enumerate}
+  \item Family (parents and offspring) to Population: Hardy-Weinberg
+    \begin{enumerate}
+    \item Assumptions:
+      \begin{enumerate}
+      \item Can't have selection - differential mortality by phenotype
+      \item Can't have mutation 
+      \item Can't have migration - needs to be a steady population size
+      \item No sexual selection or assortative mating: blue eyes prefer to mate with blue eyes. Assumes that mating is a random process. 
+      \item Statistical: need a very large population if to be predicted
+      \end{enumerate}
+    \item p + q \= 1
+    \item H-W population level expression of mendelian inheritance. No blending
+    \item Permits translation btw allele and genotype
+    \item ensures genetic variation
+    \item provides evidence of evolutionary action - via departures of H-W
+    \item marriage between Darwin and Mendel: various terms... neo-Darwinism, modern synthesis or the new synthesis. 
+    
+    \end{enumerate}
+  
+  \item Sewall Wright: guinea pig coloration, population geneticist
+  \item Ernst Myer: biological species concept
+  \item Huxley: grandson of Thomas Henry Huxley
+  \end{enumerate}
+  
+  
+\end{enumerate}
+
+
+\end{document}
