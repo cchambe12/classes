@@ -1,0 +1,95 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\section*{Lecture 11: 11 Oct 2018}
+\textbf{Andrew}
+\begin{enumerate}
+\item Evolution's Engine: Population Genetics
+  \begin{enumerate}
+  \item Departures from H-W
+    \begin{enumerate}
+    \item Fitness: allows us to translate genetic variation into evolution
+      \begin{enumerate}
+      \item Mutations: deletrious, advantageous, neutral (selection doesn't care about neutral)
+      \item Negative selection reduces freq of deletrious mutations
+      \item Positive selection increases freq of advantageous ones
+      \end{enumerate}
+    \item Fitness is relative - zebra example
+    \item Darwinian Paradox: Taurus example - random change will mess up the car. Imagine within an organism, therefore mutations mess things up. Lots of checks to make sure mutations aren't introduced. There are about 60 new, random mutations in each person that weren't present in parents
+    \item Stabilizing selection: middle, trimming the ends
+    \item Natural Selection: purifying selection - eliminates mutations that disrupt function. Mutations can accrue, if neutral muts, but if deletrious will be weeded out. 
+    \item Pieces of DNA may be under strong purifying selection whereas most other chunks can be very different (e.g. mouse vs human)
+      \begin{enumerate}
+      \item Fruitfly and mouse eye gene - deep homology
+      \item Nat selection - keeping things the same
+      \end{enumerate}
+    \end{enumerate}
+  \item Positive Mutation: (highly unusual) when a mutation makes things better. beneficial mutations
+    \begin{enumerate}
+    \item Peppered Moth is example of positive selection
+    \item Negative: new mutation that is deleterious is eliminated
+    \item Positive: replace deleterious allele with a positively selected allele
+    \end{enumerate}
+  \item Balancing Selection: maintained
+    \begin{enumerate}
+    \item Sickle-cell anemia
+    \end{enumerate}
+  \item Genetic Drift: the drunkard's walk
+    \begin{enumerate}
+    \item at each point in time there's a random process. All populations are finite in size. Deviations will be smaller with larger populations sizes. The extent of drift depends on population size.
+    \item Extreme case: population crashes and only a few survivors. Ex: Founder event - finches from Ecuador to Galapagos. Random event - allele that was rare all of sudden becomes more prevalent just given drift or stochasticity. \textbf{Genetic Drift is population dependent}.
+    \end{enumerate}
+  \item Non-random Mating: inbreeding
+    \begin{enumerate}
+    \item \textbf{Inbreeding depression}: Increase in homozygosity. Deleterious recessive alleles - if heterozygote then it doesn't matter but as a homozygote it matters
+    
+    \end{enumerate}
+  \item Migration:
+    \begin{enumerate}
+    \item Prevents populations from genetically diverging. Homogenizing the two populations by exchanging material
+    \end{enumerate}
+  
+
+  \end{enumerate}
+
+
+
+
+\end{enumerate}
+
+\end{document}
