@@ -1,0 +1,62 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//refs/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\section*{Lecture 13: 18 Oct 2018}
+\textbf{Andrew}
+\begin{enumerate}
+\item Central Dogma of Molec Bio: flow of information via DNA. Producing proteins through RNA
+\item chromosomes are part nucleic acids and protein
+\item Comparing DNA and RNA:
+  \begin{enumerate}
+  \item DNA: Deoxyribonucleic acid - sugar is deoxyribose
+  \item RNA: Ribonucleic acid - sugar is ribose (extra hydroxide whereas is just H on deoxyribose). Has Uracil instead of Thymine. A and U is the complement. 
+  \item 20 different amino acids and four DNA base pairs to encode 20 different amino acids. 3 bases per amino acid. 4^3 = 64. 
+  \item Marshall Nirenberg: Crick went to this talk and had him give another talk. Discovered that UUU encodes phenolalynine. First of the 64 amino acids. 
+  \item Within 7-8 years all of those permutations were worked out. Not only amino acids are encoded, also encode STOP codons. Looking at RNA code.
+  \item Transcription: messenger RNA. Don't want to copy all the DNA in a cell, just copy a certain segment after the Promoter. RNA polymerase converts DNA to RNA then builds messenger RNA strand. Transcribed DNA to mRNA
+  \item Translation: Turns triplets from mRNA into corresponding amino acid. Transfer RNA with three bases stuck on the end. On the other end is the amino acid associated with it. The anticodon (complementary codon - e.g. UUU and AAA). 
+  \item Natural selection cares about proteins but not about redundancies. Synonymous or silent (neutral) mutations. 
+  
+  
+  
+  \end{enumerate}
+
+
+
+
+\end{document}
