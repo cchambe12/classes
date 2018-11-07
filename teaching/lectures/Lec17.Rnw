@@ -1,0 +1,103 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{mdframed}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+
+\begin{document}
+
+\section*{Lecture 17: 6 Nov 2018}
+\textbf{Andrew}
+The Fossil Record
+\begin{enumerate}
+\item Making Fossils
+  \begin{enumerate}
+  \item Our direct view of the past. Walking downhill is traveling in time
+  \item A world without fossils: the incompleteness of phylogenetic analysis done using solely extant taxa
+  \item The gap between crocodiles and birds is available via the fossil record
+  \item Techtonic plates: either splitting or colliding - dynamic earth
+  \item The Geological Cycle
+    \begin{enumerate}
+    \item Magma cools and forms igneous rocks to metamorphic rocks. All rocks erode which results in sediments, which accumulates and eventually compacts to formed sedimentary rock. In sedimentary rocks is where we find fossils 
+    \end{enumerate}
+  \item The Process of Fossilization
+    \begin{enumerate}
+    \item Erosion and exposes part of rock that could have fossils. Somehow the bones have turned to rock.
+    \item Four modes of fossilization
+      \begin{enumerate}
+      \item Freezing: mammoths - can recover tissue and DNA from that frozen samples
+      \item Amber: mineralized excretion of tree sap. 
+      \item Replacement: fossil sandwiched in rock with slow perculation of water through porous sedimentary rock. It's slowly dissolving away the organic material of the bones. The organic material is replaced with mineral material. Straight organic material, molecule by molecule
+      \item Casts: negative impressions of hard parts. This may be internal (cast) or external (mold)
+      \end{enumerate}
+    \item Exceptional Preservation: Lagerstatten (super preserved fossil deposit)
+      \begin{enumerate}
+      \item Archaeopteryx is a protobird - dino bird
+      \end{enumerate}
+    \end{enumerate}
+  \end{enumerate}
+\item Hard to preserve
+  \begin{enumerate}
+  \item Hard parts only - lose all soft parts (can be the most interesting)
+  \item Taxonomically bias therefore in the fossil record - fluffy things won't show up
+  \item Also ecologically bias - orgs living in sedimentary environments
+  \item Not a random sampling of the tree of life
+  \item Limited anatomical snapshots: missing large parts of the fossil. We just have bones and sometimes not all of them 
+  \item Stratigraphic Incompleteness
+    \begin{enumerate}
+    \item Don't have constant deposition of sedimentary material - i.e. years of droughts and then a year of tsunami which could deposit a meter of sediment which could be laid down over many many years but in this case would be in one day
+    \item Pull of the Present: fossils from a billion years ago can 1) erode away, 2) fall into the ocean. Whereas more recent fossils will be more likely to survive
+    \item Therefore the past can be underrepresented.
+    \end{enumerate}
+  \item How to identify species?
+    \begin{enumerate}
+    \item Go on morphology alone
+    \end{enumerate}
+  \item Dating is difficult too
+    \begin{enumerate}
+    \item Half lifes don't work with fossils because they are in sedimentary rocks.
+    \end{enumerate}
+  \end{enumerate}
+\item Extinction
+  \begin{enumerate}
+  \item Spindle diagram of tetrapods
+  \item Mass Extinction Events: rate of extinction ramps up
+    \begin{enumerate}
+    \item K-T Boundary: dinos. Not the biggest one
+    \item End-Permian is the biggest. 95\% of known species went extinct
+    \item Mass Extinction is a newer idea
+    \item What are the geological column. Clear transition in the rocks. If transition is global then can be one of the boundaries. Oftentimes associated with mass extinction events. 500 mya. 
+    \item No single explanation of mass extinction causes
+    \item K/T Boundary, Iridium Anomaly: Iridium does not normally occur on Earth. Rains down from space at a very slow rate. Around 65 mya there was a massive spike in iridium, why? Bolide. Theory was a prediction there'd be a crater and they finally found it. Kicks up enormous amount of stuff into the jet stream and then the planet is disrupted. Photosynthesis is greatly impacted and therefore the rest of the food chain.
+    \item Huge tsunamis and volcanos at the same time. Might be that two bad things happen at one. K/T Boundary. 
+    \item Mammals and dinosaurs coinhabited for a long time. Elimination of dinos allowed mammals to expand and evolve into bigger creatures.
+    \end{enumerate}
+  \end{enumerate}
+\item Origin of Major Groups
+  \begin{enumerate} Cambrian Explosion
+  \item Microbes for first 3 billion years. Then multicelled life eventually formed. Ediacaran ocean reconstruction
+  \item 542 mya Burgess Shale: explosion of life. 65,000 distinct animals were found in that small area. Uniquely perfect place for fossilization. Even soft bodied creatures were preserved.
+  \item Pikaia: first known cordate (vertebrate phylum), first ancestor
+  \item Tiktaalik: walking fish in Devonian 375 mya. The first tetrapod. First issue is support and gravity becomes harder. Ray fins has really thin bones which is handy for swimming but poor for standing. Lobed finned fish, somewhat weight bearing. Precursors of Tiktaalik
+  
+  
+  
+  \end{enumerate}
+\end{enumerate}
+  
+
+
+\end{document}

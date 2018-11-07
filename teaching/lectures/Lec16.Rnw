@@ -1,0 +1,57 @@
+\documentclass{article}
+
+\begin{document}
+
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{mdframed}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+
+\begin{document}
+
+\section*{Lecture 16: 1 Nov 2018}
+\textbf{Andrew}
+\begin{enumerate}
+\item (Halfway through lecture) Thylacine vs Wolf skulls
+  \begin{enumerate}
+  \item How do we deal with convergence?
+  \item Thylacine have pouches and raise offspring in pouches - conflict in phylogenetic dataset.
+  \item Thylacine: face says put me near dogs, but pouches say with kangaroos
+  \end{enumerate}
+\item Phylogenetic Reconstruction: metric of distance in two things you're interested in. Distance based approach = phenetics.
+  \begin{enumerate}
+  \item Phenetics: based on overall similarity (i.e. distance) start with the two most similar taxa and work outwards. Distance between too, or branch length. Can lead to discourdance (e.g. stingray). Is dependent on rate constancy (or rate heterogeneity) in evolution. Rate of substitution among sites 
+  \item Overtime, genetic divergence is a function of time since isolation. Mutations accumulate separately in each population. 
+  \item The Molecular Clock: time vs number of amino acid changes per site 
+  \item Different genes tick at different rates. Histones are very slow. Depends on intensity of negative selection acting against mutations in the gene. 
+  \item Can use molecular data - because in a more rate constant way. Morphological information can be misleading.
+  \end{enumerate}
+\item How do we do phylogenetic reconstruction without molecular data?
+\item Cladistics:
+  \begin{enumerate}
+  \item Homology: present from a common ancestor, derived from same source. Forelimb example. 
+    \begin{enumerate}
+    \item Derived: changes from common ancestor
+    \item Ancestral: preserved ancestral state
+    \end{enumerate}
+  \item Ancestral character states can be misleading. Can be used on basis of derived character states. 
+  \end{enumerate}
+\item Understanding the importance of microbes at a molecular level: history of life is about microbes. We are a tiny twig on enormously complicated tree of life
+\end{enumerate}
+
+
+\end{document}
