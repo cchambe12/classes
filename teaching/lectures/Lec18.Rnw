@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{mdframed}
+\usepackage[small]{caption}
+\setkeys{Gin}{width=0.8\textwidth}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+
+
+\begin{document}
+
+\section*{Lecture 17: 6 Nov 2018}
+\textbf{Andrew}
+\large{The Big Picture: Evolutionary Innovation}
+
+\begin{enumerate}
+\item Genome Size: the C-value Paradox
+  \begin{enumerate}
+  \item Two complete sets of genetic information - the Genome size paradox
+  \item The C-value Paradox:
+    \begin{enumerate}
+    \item \textit{Homo sapiens} are 3.4 billion base pairs versus a fern that has 160 billion. Does that correlate with complexity
+    \item Must sequence genomes. Only 1.5 \% of chromosome is for protein coding. 34\% are just repeated elements. Probably vestiges of parasitic evolution in genomes. Estimated gene number (from 1.5\%) was assumed to be more complex than everything else but we're the same as a mouse or a rat. 
+    \item Mobile Elements: genomic parasites - pieces of DNA that evolve independently, has the capacity to reproduce itself. Takes over. High proportion are these highly repeated elements
+    \item x parasite: no longer active. Human genome can suppress these repeated elements
+    \end{enumerate}
+  \end{enumerate}
+\item Mechanisms of genome expansion
+  \begin{enumerate}
+  \item Genome doubling
+    \begin{enumerate}
+    \item Genome doubling in plants. even numbers are more prevalent suggests whole genome-doubling in the evolution of plants.
+    \item The fate of duplicated genes: 
+      \begin{enumerate}
+      \item Retain functionL doubling cell's output
+      \item Diverge in function to produce different but related gene
+      \item lose function: pseudogene
+      \end{enumerate}
+    \end{enumerate}
+  \end{enumerate}
+
+
+\end{enumerate}
+\end{document}
