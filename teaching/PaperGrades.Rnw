@@ -1,0 +1,88 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{amssymb} % for math symbols
+\usepackage{amsmath} % for aligning equations
+\usepackage{textcomp}
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//bib/styles/besjournals.bst}
+\usepackage[small]{caption}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+%\usepackage{lineno}
+%\linenumbers
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+%% R Script
+<<label=libraries, echo=FALSE, results="asis", message=FALSE, warning=FALSE>>=
+  options(stringsAsFactors=FALSE)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+@
+
+\begin{document}
+\noindent \textbf{\Large{SAHARA}}
+
+Hi Sahara,
+
+I am very impressed with your overall synthesis of such a dense topic. A lot of this will be similar to what I told you before but overall your content was great, presentation - with the added figures - was excellent, the flow of your summary was focused and linear plus the addition of a conclusion totally amplified the paper. However, it was much longer than required - which we discussed and is totally okay! - but there were a couple of sections that could have been parsed down a bit to improve flow and focus. That said, you demonstrated a wealth of knowledge and understanding over a myriad of topics. Thank you for your hard work, it was a real pleasure to read and also to work with you.
+
+For the above reasons, I will give you 19/20, well done!!
+
+Have a great break!
+Cat
+
+
+\noindent \textbf{\Large{SARAH}}
+
+Hi Sarah,
+
+Great work on your paper! I thought you accurately and comprehensively communitcated a pretty dense topic. Your use of figures was great and the overall presentation was excellent. There were a handful of typos, some species names weren't italicized and you had a couple of run on sentances. Also, I thought you could have added a bit more to your conclusion to make it easier for the reader to get a full summary. Otherwise, I was very impressed and interested throughout, you're a good writer! 
+
+For the above reasons, I'm giving you 18/20, well done!
+
+Thanks for all of your hard work this semester, it was a real pleasure having you in class!
+
+Have a great break,
+Cat
+
+
+\noindent \textbf{\Large{KAY}}
+
+Hi Kay,
+
+You should totally read \textit{State of Wonder} by Ann Patchet! It touches peripherally touches on these theories so if you're into fiction and are looking for a book, I definitely recommend it. Okay, on to more important things... your presentation, sythesis and flow were all excellent. It was very easy to follow and understand. I can tell you put a lot of time into this and you very tactfully and thoughtfully critiqued the literature. I was especially impressed by your summary and interpretation of the study in Tokugawa, Japan. And finally, you concluded the paper so well. I only offer a couple of pieces of advice: species are italicized and the second name is lowercase so instead of Homo Sapiens it should be \textit{Homo sapiens} and adding a figure would have potentially provided more for the reader. That said, I'm giving you a 20/20, you did a superb job! 
+
+Thanks for all of your hard work this semester, it was a real pleasure having you in class!
+
+Have a great break,
+Cat
+
+
+
+
+
+
+
+\end{document}
