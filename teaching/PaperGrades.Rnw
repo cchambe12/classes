@@ -72,7 +72,18 @@ Cat
 
 Hi Kay,
 
-You should totally read \textit{State of Wonder} by Ann Patchet! It touches peripherally touches on these theories so if you're into fiction and are looking for a book, I definitely recommend it. Okay, on to more important things... your presentation, sythesis and flow were all excellent. It was very easy to follow and understand. I can tell you put a lot of time into this and you very tactfully and thoughtfully critiqued the literature. I was especially impressed by your summary and interpretation of the study in Tokugawa, Japan. And finally, you concluded the paper so well. I only offer a couple of pieces of advice: species are italicized and the second name is lowercase so instead of Homo Sapiens it should be \textit{Homo sapiens} and adding a figure would have potentially provided more for the reader. That said, I'm giving you a 20/20, you did a superb job! 
+You should totally read \textit{State of Wonder} by Ann Patchet! It touches peripherally touches on these theories so if you're into fiction and are looking for a book, I definitely recommend it. Okay, on to more important things... your presentation, sythesis and flow were all excellent. It was very easy to follow and understand. I can tell you put a lot of time into this and you very tactfully and thoughtfully critiqued the literature. I was especially impressed by your summary and interpretation of the study in Tokugawa, Japan. And finally, you concluded the paper so well. I only offer a couple of pieces of advice: species are italicized and the second name is lowercase so instead of Homo Sapiens it should be \textit{Homo sapiens} and adding a figure would have potentially provided more for the reader. I'm giving you a 20/20, you did a superb job! 
+
+Thanks for all of your hard work this semester, it was a real pleasure having you in class!
+
+Have a great break,
+Cat
+
+\noindent \textbf{\Large{SUNAINA}}
+
+Hi Sunaina,
+
+Excellent work on your paper! It felt like a well-constructed piece of scientific journalism. You have a nice rhythm and flow with your writing. Overall, I thought you did a great job and completed the assignment well. I have just a couple of small comments: 1) you explain the important of Lucy well and mention the significance of an intermediate form between humans and apes, I thought this could have been a great opportunitiy to link what we've learned from \textit{The Origin} and discuss things from class about human evolution, natural selection, and Darwin's theories and maybe even offer your insight into possible theories of human evolution and 2) this one is very small and probably a little selfish of me, but I would have liked bigger figures! They were really cool images. Overall you did great though so I'm going to give you an 18/20. 
 
 Thanks for all of your hard work this semester, it was a real pleasure having you in class!
 
@@ -80,6 +91,130 @@ Have a great break,
 Cat
 
 
+\noindent \textbf{\Large{TESS}}
+
+Hi Tess,
+
+Great work on your paper! I thought you synthesized the literature well and I really like how you offered your own insight at the end of each section. Overall, you demonstrated your understanding of evolution and the limitations of fossil evidence. I have just a couple of small comments: 1) There were a handful of typos and tense changes (this is something I struggle with too!) and 2) there were moments when I felt the flow meandered slightly and the focus shifted a bit. That said, I thought the presentation of figures was outstanding and the order in which you provided pieces of evidence was great. 
+
+For the above reasons, I'm giving you 18/20, well done!
+
+Thanks for all of your hard work this semester, it was a real pleasure having you in class!
+
+Have a great break,
+Cat
+
+\noindent \textbf{\Large{ELIJAH}}
+
+Hi Elijah,
+
+Great work on your project! I am very impressed by your coding abilities and understanding of quantitative evolution and ecological theories. I thought you did a great job integrating aspects we learned in class into to your simulation. The use of graphs and explanation of the coding was really well done. I just have a couple of comments:
+
+
+
+\noindent \textbf{\Large{SKYLAR}}
+
+Hi Skylar,
+
+I had a lot of fun listening to the podcast! I especially loved the advertisement haha well done. Overall, I thought you did a great job synthesizing both the science and history - and emotion! - from throughout the course. I liked that you put your own ideas into the podcast and digested some of the dense information for the listener. I just have a couple of comments: 1) there was a LOT of tough information that was hard to follow at times, I think a little longer podcast would have allowed you to discuss it for a more public audience and 2) I would have liked to see a little more flow, there were a lot of hard facts that didn't always connect. That said, I thought you did a great job articulating knowledge and demonstrating an understanding on tough topics. Also, you have a great radio voice! 
+
+
+\noindent \textbf{\Large{ANDREW}}
+
+Hi Andrew,
+
+Great work on your paper! I liked the way you structured your essay. I thought it was very comprehensive and flowed nicely. Your use of figures was great and you clearly demonstrated an understanding of knowledge. I just have a couple of comments: 1) there were a lot of interesting facts that you discuss on the paper but at times it felt a little rushed and 2) I would have liked more in the conclusion and for more insight from what you learned. That said, I thought you integrated many key points from our lectures really well and I also learned some cool stuff.
+
+For the above reasons, I'm giving you 17/20, well done!
+
+Thanks for all of your hard work this semester, especially given you took it as Pass/Fail, it was a real pleasure having you in class!
+
+Have a great break,
+Cat
+
+
+\noindent \textbf{\Large{JACK KELLEY}}
+
+Hi Jack,
+
+Great work on your paper! You have a nice writing style, I was captivated (even after reading 7 other papers before yours) and was able to follow along easily - thanks for that! Your question was interesting and can be sensitive, I thought you addressed it tactfully and comprehensively and provided compelling evidence. I just have a couple of minor commments: 1) as a reader, figures and headings are always nice to see! They're helpful with digesting lots of information at once (this is really more a suggestion than detrimental to your grade at all) and 2) there were a handful of typos, there were in-text citations missing years and species are always italicized with the genus name capitalized and the species name lowercase (e.g. \textit{Homo sapiens}). But overall, I was really impressed. You clearly learned a lot and understand it well and summarized it thoroughly.
+
+For the above reasons, I'm giving you 19/20, well done!
+
+Thanks for all of your hard work this semester, it was a real pleasure having you in class!
+
+Have a great break,
+Cat
+
+
+\noindent \textbf{\Large{COOPER}}
+
+Hi Cooper,
+
+Great work on your paper! You have a nice writing style and I thought you demonstrated your understanding of the topic really well. I like how you discussed the \textit{Origin} thoroughly and integrated lecture topics smoothly. I just have a couple of minor commments: 1) when referring to species the genus is always capitalized and the species is lowercase (e.g. \textit{Homo sapiens}) and 2) the flow was great but I would have liked to see a little more of your own thoughts about the topics and maybe explore what these findings suggest in theories of human evolution (e.g. bipedalism before bigger brains in Lucy may support the theory that through bipedalism we were able to use our hands more to build fires which allowed us to digest more with less energy costs, subsequently leading to bigger brains... and why this is important). That said, you completed the assignment very well so I am giving you a 19/20.  
+
+Thanks for all of your hard work this semester, it was a real pleasure having you in class!
+
+Have a great break,
+Cat
+
+
+\noindent \textbf{\Large{HENRY}}
+
+Hi Henry,
+
+Great work on your paper! I loved your question and use of photos. I thought you did a great job using lecture and reading material from throughout the course to supplement your essay. I just have a couple of comments: 1) there were a lot of interesting facts that you discuss on the paper but at times it felt a little rushed, 2) I would have liked more in the conclusion and for more insight from what you learned and 3) the use of headings and more figures that weren't photos may have helped structure the esay a bit more. That said, I thought you integrated many key points from Darwin and offered some of your own insight really well and I also learned some cool stuff.
+
+For the above reasons, I'm giving you 16/20, well done!
+
+Thanks for all of your hard work this semester, it was a real pleasure having you in class!
+
+Have a great break,
+Cat
+
+\noindent \textbf{\Large{KENDALL}}
+
+Hi Kendall,
+
+Great work on your project! I really loved the idea and I thought it was presented in a cool way. The art was great too! I just have a couple of comments: 1) most of your in-text citations were missing years and the structure of your bibliography was a little inconsistent (very minor!), 2) it was not clear who did what portion of the project, I am assuming you each made a figure and then both contributed to the write up? and 3) 
+
+
+\noindent \textbf{\Large{JACK S.}}
+
+Hi Jack,
+
+Great work on your cake! It was a big hit at our department holiday party! I thought you did a great job writing up the artist note and you both choose really cool adaptations to show on the cake. I just have a couple of comments: 
+
+
+\noindent \textbf{\Large{MARCY}}
+
+Hi Marcy,
+
+Great work on your project! I am very impressed by your coding abilities and understanding of quantitative evolution and ecological theories. I thought you did a great job integrating aspects we learned in class into to your simulation and the use of GitHub was a good way to see how much work you put into this project. I just have a couple of comments: 
+
+
+\noindent \textbf{\Large{JULIANA}}
+
+Hi Juliana,
+
+Great work on your project! It is such a cool idea and a great tool to use for teaching. I did find myself wanting a little bit more. I thought you could have added more to the write up and discuss different aspects of why it's important or what these geological periods mean or why they're segemented the way that they are. I also felt you could've written more for each geological period. I liked your use of images though to capture the timeframe! For these reasons, I am giving you a 14/20. 
+
+Thanks for all of your hard work and for a great semester, it was a real pleasure having you in my section!
+
+Have a great break,
+Cat
+
+
+\noindent \textbf{\Large{MADDIE}}
+
+Hi Maddie,
+
+Amazing work on your project! I thought you guys absolutely crushed it. You were so thorough and clearly proved you needed multiple people to work on this project. It is such a cool premise! Well thought out, integrates so many things we learned throughout the course and you admitted to the liberties you had to take to make it a cool game. I laughed a few time while reading the directions. I can't believe you guys made a board and box and everything! I have zero comments, I thought you guys really excelled here. 
+
+Thanks for all of your hard work and for a great semester, it was a real pleasure having you in my section!
+
+Have a great break,
+Cat
 
 
 
