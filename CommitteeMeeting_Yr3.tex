@@ -1,0 +1,212 @@
+\documentclass{article}\usepackage[]{graphicx}\usepackage[]{color}
+%% maxwidth is the original width if it is less than linewidth
+%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+\let\hlipl\hlkwb
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}[12pt]
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{amssymb} % for math symbols
+\usepackage{amsmath} % for aligning equations
+\usepackage{mdframed}
+\usepackage{natbib}
+\bibliographystyle{..//bib/styles/gcb}
+\usepackage[hyphens]{url}
+\usepackage[small]{caption}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{2}
+\parindent 0pt
+\usepackage{lineno}
+%\linenumbers
+\usepackage{setspace}
+\doublespacing
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+\noindent \textbf{\Large{Committee Meeting: Summary of Progress (Year 3)}}
+\section*{Introduction:}
+\begin{enumerate}
+\item  \textbf{Rethinking false spring risk}
+  \begin{enumerate}
+  \item I submitted an Opinion piece to \textit{Global Change Biology} in October 2018 and then resubmitted with revisions to \textit{Global Change Biology} in February 2019. 
+  \item \textbf{Abstract:}
+  
+  \begin{quotation}
+  Temperate plants are at risk of being exposed to late spring freezes. These freeze events---often called false springs---are one of the strongest factors determining temperate plants species range limits and can impose high ecological and economic damage. As climate change may alter the prevalence and severity of false springs, our ability to forecast such events has become more critical, and has led to a growing body of research. Many false spring studies largely simplify the myriad complexities involved in assessing false spring risks and damage. While these studies have helped advance the field and may provide useful estimates at large scales, studies at the individual to community levels must integrate more complexity for accurate predictions of plant damage from late spring freezes. Here we review current metrics of false spring, and how, when and where plants are most at risk of freeze damage. We highlight how life stage, functional group, species differences in morphology and phenology, and regional climatic differences contribute to the damage potential of false springs. More studies aimed at understanding relationships among species tolerance and avoidance strategies, climatic regimes, and the environmental cues that underlie spring phenology would improve predictions at all biological levels. An integrated approach to assessing past and future spring freeze damage would provide novel insights into fundamental plant biology, and offer more robust predictions as climate change progresses, which is essential for mitigating the adverse ecological and economic effects of false springs. 
+  \end{quotation}
+  \end{enumerate}
+\end{enumerate}
+  
+\section*{Chapter 1:}
+\begin{enumerate}
+\item \textbf{Regional effects on false spring risk across Europe in the face of climate change}
+  \begin{enumerate}
+  \item Outline:
+    \begin{enumerate}
+    \item Used PEP725 leafout phenology data across Europe from 1950-2016 and gridded climate data to determine the number of false springs the six study species were exposed to over time. 
+    \item We used various regional effects to determine which were strongest in predicting false spring risk
+      \begin{enumerate}
+      \item Mean Spring Temperature (March 1st-May 30th)
+      \item Distance from the Coast
+      \item Elevation
+      \item North Atlantic Oscillation Index (November-April)
+      \item Climate Change (i.e., before or after 1983)
+      \end{enumerate}
+    \end{enumerate}
+  \item Main Hypotheses:
+    \begin{enumerate}
+    \item Earlier budburst species would experience more false springs, especially after 1983
+    \item There would be different regional effects (i.e. mean spring temperature, NAO index, elevation, distance from the coast) on false spring incidence and those trends would shift when coupled with the effects of climate change
+    \end{enumerate}
+  \item Main Findings:
+    \begin{enumerate}
+    \item Earlier budburst species did not always correspond to greater risk
+    \item Mean spring temperature was the strongest predictor for false spring risk, with distance from the coast also being a strong predictor
+    \item There are more false spring events after 1983
+    \end{enumerate}
+  \item Progress:
+    \begin{enumerate}
+    \item \textbf{The manuscript is in draft form and is currently being edited by coauthors. The plan is to submit the manuscript to \textit{Global Change Biology} in the next few weeks.}
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+
+\section*{Chapter 2:}
+\begin{enumerate}
+\item \textbf{Assessing false spring damage to seedlings coupled with reduced over-winter chilling across species in a temperate forest community}
+  \begin{enumerate}
+  \item Outline:
+    \begin{enumerate}
+    \item Received 480 seedlings across 10 temperate forest species from Cold Stream Farms in November 2018
+    \item Exposed one third to 4 weeks of chilling, one third to 6 weeks, and the last third to 8 weeks of chilling all at 4$^{\circ}$C
+    \item Moved individuals to greenhouse starting 24 December 2018 to expose to spring conditions
+    \item Monitored budburst through full leafout. Exposed half of the individuals to false spring conditions (-3$^{\circ}$C for 3 hours) once 50-100\% of the buds were between budburst and leafout
+    \item Measuring:
+      \begin{enumerate}
+      \item Height after full leafout
+      \item Height again 60 days after full leaf out
+      \item Chlorophyll content 60 days after full leafout
+      \item Phenology: Colored leaves and leaf drop
+      \item Above and below ground biomass once full dormancy is reached
+      \end{enumerate}
+    \end{enumerate}
+  \item Main Hypotheses:
+    \begin{enumerate}
+    \item Later budburst individuals exposed to false springs will have reduced chlorophyll content and growth
+    \item Individuals with reduced chilling - which is expected with climate change - will be less tolerant of false springs (i.e., will have reduced growth and chlorophyll content)
+    \end{enumerate}
+  \item Main Findings:
+    \begin{enumerate}
+    \item False springs lengthen the time between budburst and leafout by around 3 days
+    \item 6 weeks of chilling shorten the time between budburst and leafout around 3 days
+    \item 8 weeks of chilling shorten the time between budburst and leafout around 7 days
+    \end{enumerate}
+  \item Progress:
+    \begin{enumerate}
+    \item Most of the individuals have reached full leafout and I have begun measuring 60 day measurements for around 3 species from the 4 weeks of chilling cohort. 
+    \item The experiment should be completely finished by October/November
+    \item I have started a literature review and have written up most of the methods
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+  
+\section*{Chapter 3:}
+\begin{enumerate}
+\item \textbf{Assessing budburst and leafout phenology using observations from Harvard Forest, the Arnold Arboretum and a common garden}
+  \begin{enumerate}
+  \item Outline:
+    \begin{enumerate}
+    \item Use on-the-ground observations from Dr. John O'Keefe, citizen scientists at the Arboretum and graduate and undergraduate students at the common garden
+    \item I set up hobo loggers in October 2018 at regular intervals along Dr. John O'Keefe's path and the Tree Spotters path to disentangle microclimatic effects
+    \item Measuring:
+      \begin{enumerate}
+      \item Photoperiod at budburst and leafout for each individual
+      \item Forcing and chilling requirements for budburst and leafout for each individual
+      \item Provenance effects
+      \end{enumerate}
+    \end{enumerate}
+  \item Main Hypotheses:
+    \begin{enumerate}
+    \item Individuals from the more urban environment (i.e., the Arnold Arboretum) will have faster rates of budburst
+    \item Individuals from higher latitude provenance locations will initiate budburst earlier in the season than individuals from lower latitudes. 
+    \end{enumerate}
+  \item Progress:
+    \begin{enumerate}
+    \item We have phenology data for Harvard Forest and the Arboretum from 2016-2018 and common garden observations from 2018. This spring we will have microclimatic temperature data alongside the phenology observations for each location.
+    \item I have written scripts to measure forcing, chilling and photoperiod for each individual for budburst and leafout and have started a literature analysis, with the primary aim to have these available for the Arboretum/Harvard Forest to use once we leave. 
+    \end{enumerate}
+  \end{enumerate}
+\end{enumerate}
+
+\section*{Additional Projects:}
+\begin{itemize}
+\item Have worked on a meta-analysis project with the lab since starting the PhD, which will result in at least 3 manuscripts. We are just beginning to write up the manuscripts. 
+\item A coordinator for the Arnold Arboretum - Tree Spotters program. I have helped with numerous trainings and events. I also give regular presentations, Tree Mobs and make figures and analyze data for various fundraising/advertising events. 
+\item Have offered various courses/lectures at the Arnold Arboretum for both members and non-members with my husband.
+\item Am a volunteer at the Nature Conservancy (since November 2018). I am working on training a machine learning tool to identify camera trap photos and put the information in a digestible, standardized format to be used by various TNC sectors and other local nonprofits. The aim is to have presentable information available to show the Department of Transportation.
+\end{itemize}
+
+\end{document}
