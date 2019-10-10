@@ -65,23 +65,24 @@ total.allhist
 
 
 #### Let's start with total 
-tot.mod.rand <- brm(total ~ season + (season|incr), data=df )
-tot.mod.rand
+sug.mod.rand <- brm(sugar ~ season + (season|incr), data=df )
+sug.mod.rand
 
 
 
-## Below is plotting stuff
-##########################################################################
+######################################################################
 #### Now for mu plots based of bb_analysis/models_stan_plotting.R ###
+######################################################################
+
 figpath <- "~/Desktop"
-figpathmore <- "total_brms" ### change based on model
+figpathmore <- "sugar_brms" ### change based on model
 
 source("~/Documents/git/classes/Stats/exp_muplot_brms.R")
 cols <- adjustcolor("indianred3", alpha.f = 0.3) 
-my.pal <- rep(brewer.pal(n = 10, name = "Paired"), 5)
+my.pal <- rep(brewer.pal(n = 8, name = "Dark2"), 5)
 
 alphahere = 0.4
-xlab <- "Model estimate of change total concentration"
+xlab <- "Model estimate of change in sugar concentration"
 
 incr <- unique(df$incr)
 
@@ -100,6 +101,7 @@ for(i in 1:length(incr)){
   new.names[i]<-paste("intercept", "[", i, "]", sep="")
 }
 intercept$parameter<-new.names
+
 summer <- coef(modelhere, prob=c(0.25, 0.75))$incr[, c(1, 3:4), 2] %>%
   as.data.frame() %>%
   round(digits = 2) %>% 
@@ -113,6 +115,7 @@ for(i in 1:length(incr)){
 }
 summer$parameter<-new.names
 mod.ranef <- full_join(intercept, summer)
+
 fall <- coef(modelhere, prob=c(0.25, 0.75))$incr[, c(1, 3:4), 3] %>%
   as.data.frame() %>%
   round(digits = 2) %>% 
@@ -126,6 +129,7 @@ for(i in 1:length(incr)){
 }
 fall$parameter<-new.names
 mod.ranef<-full_join(mod.ranef, fall)
+
 winter <- coef(modelhere, prob=c(0.25, 0.75))$incr[, c(1, 3:4), 4] %>%
   as.data.frame() %>%
   round(digits = 2) %>% 
@@ -140,8 +144,17 @@ for(i in 1:length(incr)){
 winter$parameter<-new.names
 mod.ranef <- full_join(mod.ranef, winter)
 
+ints <- c("intercept[1]", "intercept[2]", "intercept[3]", "intercept[4]", "intercept[5]")
+mod.ranef$int.mean <- rep(mod.ranef$mean[(mod.ranef$parameter%in%ints)])
+mod.ranef$int.25 <- rep(mod.ranef$`25%`[mod.ranef$parameter%in%ints])
+mod.ranef$int.75 <- rep(mod.ranef$`75%`[mod.ranef$parameter%in%ints])
+
+mod.ranef$mean <- ifelse(!(mod.ranef$parameter%in%ints), mod.ranef$mean + mod.ranef$int.mean, mod.ranef$mean)
+mod.ranef$`25%` <- ifelse(!(mod.ranef$parameter%in%ints), mod.ranef$`25%` + mod.ranef$int.25, mod.ranef$`25%`)
+mod.ranef$`75%` <- ifelse(!(mod.ranef$parameter%in%ints), mod.ranef$`75%` + mod.ranef$int.75, mod.ranef$`75%`)
+
 modoutput <- tidy(modelhere, prob=c(0.5))
-#quartz()
-muplotfx(modelhere, "", 8, 8, c(0,4), c(-8, 50) , 52, 3.5)
-#muplotfx(modelhere, "", 8, 8, c(0,5), c(-0.15, 0.15) , 0.16, 3.5)
+
+muplotfx(modelhere, "", 8, 8, c(0,4), c(-5, 60) , 62, 3.5)
+
 
