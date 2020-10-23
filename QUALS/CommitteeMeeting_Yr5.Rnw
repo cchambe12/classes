@@ -22,7 +22,7 @@
 \usepackage{fancyhdr}   
 \pagestyle{fancy}  
 \renewcommand{\headrulewidth}{1.5pt}   
-\fancyhead[L]{Committee Meeting: Year 3}    
+\fancyhead[L]{Committee Meeting: Year 5}    
 \fancyhead[R]{Catherine Chamberlain}     
 \renewcommand{\footrulewidth}{0.5pt}
 \makeatletter
@@ -64,11 +64,11 @@
   \begin{enumerate}
   \item \textbf{I submitted an Research Article to \textit{New Phytologist} and it was accepted on 22 July 2020. }
   \item \textbf{Summary:}
+  \begin{quotation}
   (1) Temperate forests are shaped by late spring freezes after budburst---false springs---which may shift with climate change. Research to date has generated conflicting results, potentially because few studies focus on the multiple underlying drivers of false spring risk.  \\
-(2) Here, we assessed the effects of mean spring temperature, distance from the coast, elevation and the North Atlantic Oscillation (NAO) using PEP725 leafout data for six tree species across \Sexpr{numsites} sites in Europe, to determine which were the strongest predictors of false spring risk and how these predictors shifted with climate change. \\
+(2) Here, we assessed the effects of mean spring temperature, distance from the coast, elevation and the North Atlantic Oscillation (NAO) using PEP725 leafout data for six tree species across 11648 sites in Europe, to determine which were the strongest predictors of false spring risk and how these predictors shifted with climate change. \\
 (3) All predictors influenced false spring risk before recent warming, but their effects have shifted in both magnitude and direction with warming. These shifts have potentially magnified the variation in false spring risk among species with an increase in risk for early-leafout species (i.e., \textit{Aesculus hippocastanum}, \textit{Alnus glutinosa}, \textit{Betula pendula}) versus a decline or no change in risk among late-leafout species (i.e., \textit{Fagus sylvatica}, \textit{Fraxinus excelsior}, \textit{Quercus robur}). \\
 (4) Our results show how climate change has reshaped the drivers of false spring risk, complicating forecasts of future false springs, and potentially reshaping plant community dynamics given uneven shifts in risk across species. \\
-  \begin{quotation}
    
   \end{quotation}
   \end{enumerate}
@@ -80,13 +80,14 @@
   \begin{enumerate}
   \item \textbf{I submitted an Research Article to \textit{Journal of Ecology} on 5 October 2020. }
   \item \textbf{Abstract:}
+  \begin{quotation}
   \begin{enumerate}
 \item  With warming temperatures, spring phenology (i.e., budburst and leafout) is advancing. Late spring freezes, however, may not advance at the same rate, leading to an increase in freezes that occur after trees initiate budburst---known as false springs---with continued warming. Through shifts in false springs, climate change may reshape forest plant communities, impacting the species and ecosystem services those communities support. Predicting false spring effects requires understanding both how warming shifts spring phenology and how false springs impact plant performance. While generally spring warming advances budburst, increasing research suggests warming winters may delay budburst through reduced chilling, which may also cause plants to leaf out slower or incompletely, decreasing spring freeze tolerance and potentially lead to higher damage from false spring events. 
 \item Here, we assessed the effects of over-winter chilling (generally associated with warming winters) and false spring events on sapling phenology, growth and tissue traits, across eight temperate tree and shrub species in a lab experiment. 
 \item We found that false springs slowed subsequent budburst and leafout---extending the period of greatest risk for freeze damage---and increased damage to the shoot apical meristem, decreased leaf toughness and leaf thickness. Longer chilling accelerated budburst and leafout, even under false spring conditions. Thus chilling compensated for the adverse effects of false springs on phenology. Despite the effects of false springs and chilling on phenology, we did not see any major re-ordering in the sequence of species leafout. Our results suggest climate change will reshape forest communities not through temporal reassembly, but rather through impacts on growth and leaf traits from the coupled effects of false springs with decreases in over-winter chilling under future climate change. 
 
 \item \textbf{Synthesis:} With climate change and warming temperatures, over-winter chilling is anticipated to decrease and false springs are predicted to increase in certain regions. We found that false springs and reduced chilling both impact sapling phenology, growth and tissue traits across eight common forest tree species. This suggests that the combination of increased false springs and warmer winters could be especially detrimental to forest communities, ultimately affecting important processes such as carbon storage and nutrient cycling.
-  \begin{quotation}
+\end{enumerate}
    
   \end{quotation}
   \end{enumerate}
@@ -135,15 +136,18 @@
 \item Ecological Society of America, August 2020: \textit{New Tools for Analyzing and Sharing Wildlife Camera Images: Machine Learning and Online Databases to Minimize Time and Maximize Impact}
 \item European Geosciences Union, May 2020: \textit{Climate change reshapes the major drivers of false spring risk across European trees}
 \item Extreme Climate Symposium, February 2020: \textit{Climate change reshapes the major drivers of false spring risk across European trees}
+\end{itemize}
 
 \section*{Additional Publications:}
 \begin{itemize}
-\item Co-author Publication: Furze M. E., Huggett B. A., Chamberlain C. J., Wieringa M. M., Aubrecht D. M., Carbon, M.S., Walker J. C., Xu X., Czimczik C. I. & Richardson A. D. \textbf{2020}. Seasonal fluctuation of nonstructural carbohydrates reveals the metabolic availability of stemwood reserves in temperate trees with contrasting wood anatomy. \textit{Tree Physiology}.
-\item Co-author Publication: Ettinger A. K., Chamberlain C. J., Morales-Castilla I., Buonaiuto D. M., Flynn D. F. B., Savas T., Samaha J. A. & Wolkovich E. M. \textbf{2020}. Chilling dominates spring phenological responses to warming. \textit{Nature Climate Change}.
-\item Co-author Publication in review at \textit{New Phytologist}: Ettinger A. K., Buonaiuto D.M., Chamberlain C. J., Morales-Castilla I. & Wolkovich E.M. (in review). Spatial and temporal shifts in photoperiod with climate change.
-\item Co-author Publication in preview at \textit{PLOS Biology}: Wolkovich E. M., Auerbach J. L., Chamberlain C. J., Buonauito D. M., Ettinger A. K. & Gelman A. (in review). A simple explanation for declining temperature sensitivity with warming.
+\item Co-author Publication: Furze M. E., Huggett B. A., Chamberlain C. J., Wieringa M. M., Aubrecht D. M., Carbon, M.S., Walker J. C., Xu X., Czimczik C. I. \& Richardson A. D. \textbf{2020}. Seasonal fluctuation of nonstructural carbohydrates reveals the metabolic availability of stemwood reserves in temperate trees with contrasting wood anatomy. \textit{Tree Physiology}.
+\item Co-author Publication: Ettinger A. K., Chamberlain C. J., Morales-Castilla I., Buonaiuto D. M., Flynn D. F. B., Savas T., Samaha J. A. \& Wolkovich E. M. \textbf{2020}. Chilling dominates spring phenological responses to warming. \textit{Nature Climate Change}.
+\item Co-author Publication in review at \textit{New Phytologist}: Ettinger A. K., Buonaiuto D.M., Chamberlain C. J., Morales-Castilla I. \& Wolkovich E.M. (in review). Spatial and temporal shifts in photoperiod with climate change.
+\item Co-author Publication in review at \textit{PLOS Biology}: Wolkovich E. M., Auerbach J. L., Chamberlain C. J., Buonauito D. M., Ettinger A. K. \& Gelman A. (in review). A simple explanation for declining temperature sensitivity with warming.
+\end{itemize}
  
 \section*{Additional Projects:}
+\begin{itemize}
 \item I taught two 3-hour lectures for the Summer School class \textit{International Environmental Governance, Policy, and Social Justice} in July 2020.
 \item I worked as a freelance consultant for The Nature Conservancy for the summer of 2020 to help draft a landowner document for family forest land owners to learn about the Family Forest Carbon Program affiliated with the American Forest Foundation.
 \item I have been a coordinator for the Arnold Arboretum - Tree Spotters program since May 2016. I have helped with numerous trainings and events. I also give regular presentations, Tree Mobs and make figures and analyze data for various fundraising/advertising events. 
@@ -162,7 +166,7 @@
 
 \textbf{Teaching}
 \begin{itemize}
-\item SLS 12: Understanding Darwinism with Janet Browne and Andrew Berry (Fall 2018 & Fall 2019)
+\item SLS 12: Understanding Darwinism with Janet Browne and Andrew Berry (Fall 2018 \& Fall 2019)
 \item OEB 52: Biology of Plants with Missy and Elena (Spring 2019)
 \item Introduction to Organismic and Evolutionary Biology with Casey Roehrig (Summery 2020)
 \item OEB 399 (Fall 2020)
