@@ -187,7 +187,7 @@ Temperate forest plants, therefore, experience elevated risk of frost damage dur
 
 \begin{figure} [H] 
  \begin{center}
- \includegraphics[width=12cm, height=10cm]{..//figures/temperaturethreshold_color.pdf} 
+ \includegraphics[width=12cm, height=10cm]{figures/temperaturethreshold_color.pdf} 
  \caption{A comparison of damaging spring freezing temperature thresholds across ecological and agronomic studies. Each study is listed on the vertical axis along with the taxonomic group of focus. Next to the species name is the freezing definition used within that study (e.g., 100\% is 100\% whole plant lethality). Each point is the best estimate recorded for the temperature threshold with standard deviation if indicated in the study.}\label{fig:temp} 
  \end{center}
  \end{figure}
