@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 APR 2021 15:35
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 APR 2021 18:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1176,52 +1176,730 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
  [15] [16]
 File: figures/regionalrisk_sites_color.pdf Graphic file (type QTm)
 
-<use  "figures/regionalrisk_sites_color.pdf" > [17] [18] [19] [20] [21]
+<use  "figures/regionalrisk_sites_color.pdf" > [17] [18] [19] [20]
+Overfull \hbox (14.08044pt too wide) in paragraph at lines 341--341
+[]\T1/aer/bx/n/17.28 Climate change re-shapes the drivers of false spring
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--359
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 360--363
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--382
+
+ []
+
+[22]
+
+Package natbib Warning: Citation `Wolkovich2012' on page 23 undefined on input 
+line 387.
+
+
+Package natbib Warning: Citation `Chen2005' on page 23 undefined on input line 
+387.
+
+
+Package natbib Warning: Citation `Liu2006' on page 23 undefined on input line 3
+87.
+
+
+Package natbib Warning: Citation `Kukal2018' on page 23 undefined on input line
+ 387.
+
+
+Package natbib Warning: Citation `Labe2016' on page 23 undefined on input line 
+387.
+
+
+Package natbib Warning: Citation `Wypych2016a' on page 23 undefined on input li
+ne 387.
+
+
+Package natbib Warning: Citation `Sgubin2018' on page 23 undefined on input lin
+e 387.
+
+
+Package natbib Warning: Citation `Fu2014' on page 23 undefined on input line 38
+7.
+
+
+Package natbib Warning: Citation `Vitasse2018' on page 23 undefined on input li
+ne 387.
+
+
+Package natbib Warning: Citation `Hannenin1991' on page 23 undefined on input l
+ine 387.
+
+
+Package natbib Warning: Citation `Labe2016' on page 23 undefined on input line 
+387.
+
+
+Package natbib Warning: Citation `Scheifinger2003' on page 23 undefined on inpu
+t line 387.
+
+
+Package natbib Warning: Citation `Kramer1994' on page 23 undefined on input lin
+e 387.
+
+[23]
+
+Package natbib Warning: Citation `Wolkovich2012' on page 24 undefined on input 
+line 391.
+
+
+Package natbib Warning: Citation `Zohner2020' on page 24 undefined on input lin
+e 391.
+
+
+Package natbib Warning: Citation `Ma2018' on page 24 undefined on input line 39
+3.
+
+
+Package natbib Warning: Citation `Vitasse2018' on page 24 undefined on input li
+ne 393.
+
+
+Package natbib Warning: Citation `Wypych2016a' on page 24 undefined on input li
+ne 393.
+
+
+Package natbib Warning: Citation `Ma2018' on page 24 undefined on input line 39
+3.
+
+[24]
+
+Package natbib Warning: Citation `Cook2016' on page 25 undefined on input line 
+395.
+
+
+Package natbib Warning: Citation `Gauzere2019' on page 25 undefined on input li
+ne 395.
+
+
+Package natbib Warning: Citation `Giorgi1997' on page 25 undefined on input lin
+e 395.
+
+
+Package natbib Warning: Citation `Rangwala2012' on page 25 undefined on input l
+ine 395.
+
+
+Package natbib Warning: Citation `Pepin2015' on page 25 undefined on input line
+ 395.
+
+
+Package natbib Warning: Citation `Vitasse2018' on page 25 undefined on input li
+ne 395.
+
+
+Package natbib Warning: Citation `Wypych2016a' on page 25 undefined on input li
+ne 395.
+
+
+Package natbib Warning: Citation `Ma2018' on page 25 undefined on input line 39
+5.
+
+
+Package natbib Warning: Citation `Chmielewski2001' on page 25 undefined on inpu
+t line 395.
+
+[25]
+
+Package natbib Warning: Citation `Templ2018' on page 26 undefined on input line
+ 401.
+
+
+LaTeX Warning: Reference `fig:bbmap' on page 26 undefined on input line 401.
+
+
+Package natbib Warning: Citation `Meier2001' on page 26 undefined on input line
+ 401.
+
+
+Overfull \hbox (38.49567pt too wide) in paragraph at lines 401--402
+\T1/aer/m/n/10.95 We ob-tained phe-no-log-i-cal data from the Pan Eu-ro-pean Ph
+e-nol-ogy net-work (PEP725, www.pep725.eu),
+ []
+
+
+Package natbib Warning: Citation `Donnelly2017' on page 26 undefined on input l
+ine 403.
+
+
+Package natbib Warning: Citation `NPN2019' on page 26 undefined on input line 4
+03.
+
+[26]
+
+Package natbib Warning: Citation `Buerki2010' on page 27 undefined on input lin
+e 405.
+
+
+Package natbib Warning: Citation `Wang2016' on page 27 undefined on input line 
+405.
+
+
+Package natbib Warning: Citation `Hipp2017' on page 27 undefined on input line 
+405.
+
+
+Package natbib Warning: Citation `Cornes2018' on page 27 undefined on input lin
+e 408.
+
+
+Package natbib Warning: Citation `Zohner2020' on page 27 undefined on input lin
+e 408.
+
+
+Package natbib Warning: Citation `Korner2016' on page 27 undefined on input lin
+e 408.
+
+
+Package natbib Warning: Citation `NAOdata' on page 27 undefined on input line 4
+08.
+
+
+Package natbib Warning: Citation `Stocker2013' on page 27 undefined on input li
+ne 408.
+
+
+Package natbib Warning: Citation `Kharouba2018' on page 27 undefined on input l
+ine 408.
+
+[27]
+
+Package natbib Warning: Citation `Gelman2006' on page 28 undefined on input lin
+e 420.
+
+
+Package natbib Warning: Citation `diniz2012selection' on page 28 undefined on i
+nput line 420.
+
+
+Package natbib Warning: Citation `Baumen2017' on page 28 undefined on input lin
+e 420.
+
+
+Package natbib Warning: Citation `griffith2006spatial' on page 28 undefined on 
+input line 420.
+
+
+Package natbib Warning: Citation `morales2012imprint' on page 28 undefined on i
+nput line 420.
+
+[28]
+
+Package natbib Warning: Citation `brms' on page 29 undefined on input line 422.
+
+
+
+Package natbib Warning: Citation `R' on page 29 undefined on input line 422.
+
+
+Overfull \hbox (31.05774pt too wide) in paragraph at lines 431--431
+[] 
+ []
+
+[29]
+
+Package natbib Warning: Citation `Gelman2006' on page 30 undefined on input lin
+e 435.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 30 undefined on input line 4
+35.
+
+
+LaTeX Warning: Reference `fig:dvr' on page 30 undefined on input line 435.
+
+
+LaTeX Warning: Reference `fig:five' on page 30 undefined on input line 435.
+
+
+LaTeX Warning: Reference `fig:longtemps' on page 30 undefined on input line 435
+.
+
+
+LaTeX Warning: Reference `fig:bbmap' on page 30 undefined on input line 439.
+
+
+LaTeX Warning: Reference `fig:mst' on page 30 undefined on input line 439.
+
+
+LaTeX Warning: Reference `fig:bbmap' on page 30 undefined on input line 439.
+
+
+LaTeX Warning: Reference `fig:bbmap' on page 30 undefined on input line 439.
+
+
+LaTeX Warning: Reference `fig:bbmap' on page 30 undefined on input line 439.
+
+[30]
+
+LaTeX Warning: Reference `tab:simbbmod' on page 31 undefined on input line 441.
+
+
+
+LaTeX Warning: Reference `tab:simptmin' on page 31 undefined on input line 441.
+
+
+
+LaTeX Warning: Reference `fig:mst' on page 31 undefined on input line 441.
+
+
+LaTeX Warning: Reference `fig:boxfs' on page 31 undefined on input line 441.
+
+
+LaTeX Warning: Reference `tab:bbspp' on page 31 undefined on input line 441.
+
+
+LaTeX Warning: Reference `tab:simbbmod' on page 31 undefined on input line 441.
+
+
+
+LaTeX Warning: Reference `fig:boxfs' on page 31 undefined on input line 441.
+
+
+LaTeX Warning: Reference `fig:boxfs' on page 31 undefined on input line 441.
+
+
+LaTeX Warning: Reference `fig:boxfs' on page 31 undefined on input line 443.
+
+
+LaTeX Warning: Reference `tab:simpfs' on page 31 undefined on input line 443.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 31 undefined on input line 4
+46.
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 31 undefined on input line 4
+46.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 31 undefined on input line 4
+46.
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 31 undefined on input line 4
+46.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 31 undefined on input line 4
+46.
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 31 undefined on input line 4
+46.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 31 undefined on input line 4
+46.
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 31 undefined on input line 4
+46.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 31 undefined on input line 4
+46.
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 31 undefined on input line 4
+46.
+
+[31]
+
+LaTeX Warning: Reference `fig:spp' on page 32 undefined on input line 448.
+
+
+LaTeX Warning: Reference `fig:spp' on page 32 undefined on input line 448.
+
+
+LaTeX Warning: Reference `fig:spp' on page 32 undefined on input line 448.
+
+
+LaTeX Warning: Reference `fig:spp' on page 32 undefined on input line 448.
+
+
+LaTeX Warning: Reference `fig:spp' on page 32 undefined on input line 448.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 32 undefined on input line 4
+50.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 32 undefined on input line 4
+50.
+
+
+LaTeX Warning: Reference `fig:suppapc' on page 32 undefined on input line 450.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 32 undefined on input line 4
+50.
+
+
+LaTeX Warning: Reference `fig:suppapc' on page 32 undefined on input line 450.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 32 undefined on input line 4
+50.
+
+
+LaTeX Warning: Reference `fig:suppapc' on page 32 undefined on input line 450.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 32 undefined on input line 4
+50.
+
+
+LaTeX Warning: Reference `fig:suppapc' on page 32 undefined on input line 450.
+
+[32]
+
+LaTeX Warning: Reference `fig:maineffects' on page 33 undefined on input line 4
+52.
+
+
+LaTeX Warning: Reference `fig:spp' on page 33 undefined on input line 452.
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 33 undefined on input line 4
+52.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 33 undefined on input line 4
+52.
+
+
+LaTeX Warning: Reference `fig:spp' on page 33 undefined on input line 452.
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 33 undefined on input line 4
+52.
+
+
+LaTeX Warning: Reference `fig:maineffects' on page 33 undefined on input line 4
+52.
+
+
+LaTeX Warning: Reference `fig:spp' on page 33 undefined on input line 452.
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 33 undefined on input line 4
+52.
+
+
+LaTeX Warning: Reference `fig:dvr' on page 33 undefined on input line 455.
+
+
+LaTeX Warning: Reference `tab:suppmoddvr' on page 33 undefined on input line 45
+5.
+
+
+LaTeX Warning: Reference `fig:dvr' on page 33 undefined on input line 455.
+
+
+LaTeX Warning: Reference `tab:suppmoddvr' on page 33 undefined on input line 45
+5.
+
+
+LaTeX Warning: Reference `fig:sppdvr' on page 33 undefined on input line 455.
+
+[33]
+
+LaTeX Warning: Reference `fig:five' on page 34 undefined on input line 457.
+
+
+LaTeX Warning: Reference `tab:suppmodfive' on page 34 undefined on input line 4
+57.
+
+
+LaTeX Warning: Reference `fig:sppfive' on page 34 undefined on input line 457.
+
+
+LaTeX Warning: Reference `fig:longtemps' on page 34 undefined on input line 459
+.
+
+
+LaTeX Warning: Reference `tab:suppmodlongtemps' on page 34 undefined on input l
+ine 459.
+
+
+LaTeX Warning: Reference `fig:spptemps' on page 34 undefined on input line 459.
+
+
+
+Package natbib Warning: Citation `Vitasse2018' on page 34 undefined on input li
+ne 462.
+
+
+Package natbib Warning: Citation `Wypych2016' on page 34 undefined on input lin
+e 462.
+
+[34]
+
+LaTeX Warning: Reference `fig:suppapc' on page 35 undefined on input line 464.
+
+
+Package natbib Warning: Citation `Wypych2016a' on page 35 undefined on input li
+ne 467.
+
+
+Package natbib Warning: Citation `Ma2018' on page 35 undefined on input line 46
+7.
+
+
+Package natbib Warning: Citation `Vitasse2018' on page 35 undefined on input li
+ne 467.
+
+
+Package natbib Warning: Citation `Chuine2008' on page 35 undefined on input lin
+e 469.
+
+[35]
+
+Package natbib Warning: Citation `Vitasse2018' on page 36 undefined on input li
+ne 471.
+
+
+Package natbib Warning: Citation `Screen2017' on page 36 undefined on input lin
+e 472.
+
+
+LaTeX Warning: Reference `fig:spp' on page 36 undefined on input line 475.
+
+
+LaTeX Warning: Reference `fig:spp' on page 36 undefined on input line 475.
+
+
+Package natbib Warning: Citation `Zohner2020' on page 36 undefined on input lin
+e 477.
+
+[36]
+
+LaTeX Warning: Reference `fig:boxfs' on page 37 undefined on input line 479.
+
+
+Package natbib Warning: Citation `Wypych2016a' on page 37 undefined on input li
+ne 479.
+
+
+Package natbib Warning: Citation `Ma2018' on page 37 undefined on input line 47
+9.
+
+
+Package natbib Warning: Citation `Vitasse2018' on page 37 undefined on input li
+ne 479.
+
+
+Package natbib Warning: Citation `Dennis2003' on page 37 undefined on input lin
+e 479.
+
+
+Package natbib Warning: Citation `Luedeling2011' on page 37 undefined on input 
+line 479.
+
+
+Package natbib Warning: Citation `Ma2018' on page 37 undefined on input line 48
+1.
+
+
+Package natbib Warning: Citation `Ma2018' on page 37 undefined on input line 48
+1.
+
+[37]
+
+Package natbib Warning: Citation `Chuine2001' on page 38 undefined on input lin
+e 483.
+
+
+LaTeX Warning: Reference `fig:bbmap' on page 38 undefined on input line 483.
+
+
+Package natbib Warning: Citation `Gauzere2019' on page 38 undefined on input li
+ne 486.
+
+[38]
+
+Package natbib Warning: Citation `Korner2016' on page 39 undefined on input lin
+e 488.
+
+
+Package natbib Warning: Citation `Bennett2018' on page 39 undefined on input li
+ne 488.
+
+
+Package natbib Warning: Citation `Zhuo2018' on page 39 undefined on input line 
+488.
+
+[39]
+! Undefined control sequence.
+l.500 ...nd output are available on github at \url
+                                                  {https://github.com/cchamb...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(./cjc_thesis.bbl [40] [41
+
+] [42] [43] [44] [45] [46] [47] [48] [49] [50])
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 505--514
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--523
+
+ []
+
+[52]
+File: figures/bb_base.png Graphic file (type QTm)
+ <use  "figures/bb_base.png" >
+File: figures/model_output_98_long.png Graphic file (type QTm)
+ <use  "figures/model_output_98_long.png" >
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 53 undefined on input line 5
+36.
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 53 undefined on input line 5
+36.
+
+[53]
+File: figures/mstbb_byspp_lines.png Graphic file (type QTm)
+ <use  "figures/mstbb_byspp_lines.png" >
+Overfull \hbox (14.39662pt too wide) in paragraph at lines 542--543
+ [] 
+ []
+
+[54]
+File: figures/Boxplot_BBTminFS_noDots_modestslong.png Graphic file (type QTm)
+ <use  "figures/Boxplot_BBTminFS_noDots_modestslong.png" >
+
+LaTeX Warning: Reference `tab:simbbmod' on page 55 undefined on input line 550.
+
+
+
+LaTeX Warning: Reference `tab:simptmin' on page 55 undefined on input line 550.
+
+
+
+LaTeX Warning: Reference `tab:simpfs' on page 55 undefined on input line 550.
+
+
+LaTeX Warning: Reference `tab:simbbmod' on page 55 undefined on input line 550.
+
+
+
+LaTeX Warning: Reference `tab:simptmin' on page 55 undefined on input line 550.
+
+
+
+LaTeX Warning: Reference `tab:simpfs' on page 55 undefined on input line 550.
+
+
+LaTeX Warning: Reference `tab:simbbmod' on page 55 undefined on input line 550.
+
+
+
+LaTeX Warning: Reference `tab:simptmin' on page 55 undefined on input line 550.
+
+
+
+LaTeX Warning: Reference `tab:simpfs' on page 55 undefined on input line 550.
+
+
+LaTeX Warning: Reference `tab:simbbmod' on page 55 undefined on input line 550.
+
+
+
+LaTeX Warning: Reference `tab:simptmin' on page 55 undefined on input line 550.
+
+
+
+LaTeX Warning: Reference `tab:simpfs' on page 55 undefined on input line 550.
+
+[55]
+File: figures/Species_long.png Graphic file (type QTm)
+ <use  "figures/Species_long.png" >
+Overfull \hbox (14.39662pt too wide) in paragraph at lines 557--558
+ [] 
+ []
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 56 undefined on input line 5
+58.
+
+
+LaTeX Warning: Reference `tab:suppmodlong' on page 56 undefined on input line 5
+58.
+
+[56] [57]
 Chapter 1.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 25.92514pt on input line 341.
+(Font)              scaled to size 25.92514pt on input line 563.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 21.61124pt on input line 341.
+(Font)              scaled to size 21.61124pt on input line 563.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 341.
+(Font)              scaled to size 15.0049pt on input line 563.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 25.92514pt on input line 341.
+(Font)              scaled to size 25.92514pt on input line 563.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 21.61124pt on input line 341.
+(Font)              scaled to size 21.61124pt on input line 563.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 341.
+(Font)              scaled to size 15.0049pt on input line 563.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 341.
+(Font)              scaled to size 9.37807pt on input line 563.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 341.
+(Font)              scaled to size 7.29405pt on input line 563.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 341.
+(Font)              scaled to size 5.21004pt on input line 563.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 341.
+(Font)              scaled to size 9.37807pt on input line 563.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 341.
+(Font)              scaled to size 7.29405pt on input line 563.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 341.
-[22
+(Font)              scaled to size 5.21004pt on input line 563.
+[58
 
 ]
 Chapter 2.
-[23
+(./cjc_thesis.bbl [59
 
-]
-Chapter 3.
-(./cjc_thesis.bbl [24
+] [60
 
-] [25
+] [61] [62] [63] [64] [65])
 
-] [26] [27] [28] [29] [30]) [31] (./cjc_thesis.aux) ) 
+Package natbib Warning: There were undefined citations.
+
+[66] (./cjc_thesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 18716 strings out of 493591
- 359921 string characters out of 6143546
+ 18799 strings out of 493591
+ 361100 string characters out of 6143546
  420372 words of memory out of 5000000
- 21825 multiletter control sequences out of 15000+600000
- 68639 words of font info for 135 fonts, out of 8000000 for 9000
+ 21899 multiletter control sequences out of 15000+600000
+ 70435 words of font info for 136 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 39i,8n,42p,10383b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,9n,42p,10383b,587s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cjc_thesis.pdf (41 pages).
+Output written on cjc_thesis.pdf (76 pages).

@@ -2,7 +2,8 @@
 \contentsline {section}{Abstract}{iii}
 \contentsline {section}{Acknowledgments}{ix}
 \contentsline {chapter}{Introduction}{1}
-\contentsline {chapter}{\numberline {1}Hook\FN@sf@gobble@opt {Co-authored with my advisor}}{22}
-\contentsline {chapter}{\numberline {2}Line\FN@sf@gobble@opt {Co-authored with my other advisor}}{23}
-\contentsline {chapter}{\numberline {3}Sinker}{24}
-\contentsline {chapter}{References}{25}
+\contentsline {section}{\numberline {0.1}\relax \fontsize {17.28}{22}\selectfont {Climate change reshapes the drivers of false spring risk across European trees}}{21}
+\contentsline {chapter}{Bibliography}{41}
+\contentsline {chapter}{\numberline {1}Line\FN@sf@gobble@opt {Co-authored with my other advisor}}{58}
+\contentsline {chapter}{\numberline {2}Sinker}{59}
+\contentsline {chapter}{References}{60}
