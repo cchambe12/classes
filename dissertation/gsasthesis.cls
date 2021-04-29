@@ -104,9 +104,9 @@
     \begin{minipage}[t]{0.7\textwidth}
       \begin{flushleft}
         \ifx\@secondadvisor\undefined
-        Dissertation Advisor: \@principaladvisor
+        Advisor: \@principaladvisor
         \else
-        Dissertation Advisors: \@principaladvisor, \@secondadvisor
+        Advisors: \@principaladvisor, \@secondadvisor
         \fi
       \end{flushleft}
     \end{minipage}

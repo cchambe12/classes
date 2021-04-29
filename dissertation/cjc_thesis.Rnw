@@ -67,7 +67,7 @@
 \principaladvisor{ Dr. Noel M. Holbrook}
 
 % Optionally, you can add a second advisor, but you can't have three
-%\secondadvisor{Professor George Secondary}
+\secondadvisor{Dr. Elizabeth M. Wolkovich}
 
 
 
@@ -124,7 +124,7 @@ Often we use mixed models to answer ecological questions, though we do not alway
 % think most committees expect you to have one.
 % Don't number the intro chapter, but add to to the table of contents
 \addcontentsline{toc}{chapter}{Introduction}
-\chapter*{Introduction: Rethinking False Spring Risk}\label{ch:intro}
+\section*{{\LARGE{Introduction: Rethinking False Spring Risk}}}\label{ch:intro}
 %\input{intro}
 
 \noindent Authors:\\
@@ -141,7 +141,9 @@ $^*$Corresponding author: 248.953.0189; cchamberlain@g.harvard.edu\\
 
 \noindent \emph{Keywords:} false spring, phenology, freezing tolerance, climate change, forest communities \\
 %\tableofcontents
-\emph{Paper type:} Opinion
+\emph{Paper type:} Opinion \\
+\emph{Journal:} \textit{Global Change Biology} \\
+\emph{Accepted:} 06 April 2019
 %\emph{Counts}: Total word count for the main body of the text:  4892; Abstract: 274; 5 figures (all in color). \\
 
 \renewcommand{\thetable}{\arabic{table}}
@@ -287,24 +289,15 @@ We suggest most studies at the individual to community levels need far more comp
 \section*{Acknowledgments}
 We thank D. Buonaiuto,  W. Daly, A. Ettinger, I. Morales-Castilla and three reviewers for comments and insights that improved the manuscript. 
 
-\nocite{Schwartz1993}
-\nocite{Barker2005}
-\nocite{Sanchez2013}
-\nocite{Longstroth2012}
-\nocite{Barlow2015}
-\nocite{Longstroth2013}
-\nocite{Charrier2011}
-\bibliography{refs/SpringFreeze.bib}
-
 
 \chapter{Hook\footnote{Co-authored with my advisor}}\label{ch:1}
-\input{chapter1}
+%\input{chapter1}
 
 \chapter{Line\footnote{Co-authored with my other advisor}}\label{ch:2}
-\input{chapter2}
+%\input{chapter2}
 
 \chapter{Sinker}\label{ch:3}
-\input{chapter3}
+%\input{chapter3}
 
 %%%%%%%%%%%%%%%% BACK MATTER %%%%%%%%%%%%%%%%
 
@@ -319,10 +312,10 @@ We thank D. Buonaiuto,  W. Daly, A. Ettinger, I. Morales-Castilla and three revi
 
   % Any bibliohgraphy style that leaves space between entries is fine
   \bibliographystyle{ecca}
-  \bibliography{references}
+  \bibliography{refs/thesis.bib}
 \end{singlespacing}
 
 % Appendices from all chapters should go at the end
-\input{appendix}
+%\input{appendix}
 
 \end{document}

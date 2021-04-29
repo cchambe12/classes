@@ -1,0 +1,8 @@
+\select@language {english}
+\contentsline {section}{Abstract}{iii}
+\contentsline {section}{Acknowledgments}{ix}
+\contentsline {chapter}{Introduction}{1}
+\contentsline {chapter}{\numberline {1}Hook\FN@sf@gobble@opt {Co-authored with my advisor}}{22}
+\contentsline {chapter}{\numberline {2}Line\FN@sf@gobble@opt {Co-authored with my other advisor}}{23}
+\contentsline {chapter}{\numberline {3}Sinker}{24}
+\contentsline {chapter}{References}{25}

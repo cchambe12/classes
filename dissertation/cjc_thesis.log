@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  23 APR 2021 09:37
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 APR 2021 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1134,16 +1134,16 @@ Missing character: There is no ’ in font aer10!
 
  [6
 
-] (./cjc_thesis.lof)
+] (./cjc_thesis.lof
+[7
+
+])
 \tf@lof=\write6
 \openout6 = `cjc_thesis.lof'.
 
+ [8] [9
 
-[7
-
-] [8
-
-] [9
+] [10
 
 
 ]
@@ -1153,653 +1153,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 178--189
 
 [1
 
-
-]
-
-Package natbib Warning: Citation `Gu2008' on page 2 undefined on input line 213
-.
-
-
-Package natbib Warning: Citation `Hufkens2012' on page 2 undefined on input lin
-e 213.
-
-
-Package natbib Warning: Citation `Ault2013' on page 2 undefined on input line 2
-13.
-
-
-Package natbib Warning: Citation `Knudson2012' on page 2 undefined on input lin
-e 213.
-
-
-Package natbib Warning: Citation `Inouye2008' on page 2 undefined on input line
- 215.
-
-
-Package natbib Warning: Citation `Martin2010' on page 2 undefined on input line
- 215.
-
-
-Package natbib Warning: Citation `Augspurger2009' on page 2 undefined on input 
-line 215.
-
-
-Package natbib Warning: Citation `Augspurger2013' on page 2 undefined on input 
-line 215.
-
-
-Package natbib Warning: Citation `Gu2008' on page 2 undefined on input line 215
-.
-
-
-Package natbib Warning: Citation `Menzel2015' on page 2 undefined on input line
- 215.
-
-
-Package natbib Warning: Citation `Allstadt2015' on page 2 undefined on input li
-ne 215.
-
-
-Package natbib Warning: Citation `Ault2013' on page 2 undefined on input line 2
-15.
-
-
-Package natbib Warning: Citation `Muffler2016' on page 2 undefined on input lin
-e 215.
-
-
-Package natbib Warning: Citation `Vitra2017' on page 2 undefined on input line 
-215.
-
-
-Package natbib Warning: Citation `Xin2016' on page 2 undefined on input line 21
-5.
-
-[2]
-
-Package natbib Warning: Citation `Lenz2013' on page 3 undefined on input line 2
-19.
-
-
-Package natbib Warning: Citation `Augspurger2013' on page 3 undefined on input 
-line 219.
-
-
-Package natbib Warning: Citation `Martin2010' on page 3 undefined on input line
- 219.
-
-
-Package natbib Warning: Citation `Muffler2016' on page 3 undefined on input lin
-e 219.
-
-
-Package natbib Warning: Citation `Muffler2016' on page 3 undefined on input lin
-e 219.
-
-[3]
-
-Package natbib Warning: Citation `Augspurger2009' on page 4 undefined on input 
-line 226.
-
-
-Package natbib Warning: Citation `Caradonna2016' on page 4 undefined on input l
-ine 226.
-
-
-Package natbib Warning: Citation `Inouye2000' on page 4 undefined on input line
- 226.
-
-
-Package natbib Warning: Citation `Lenz2013' on page 4 undefined on input line 2
-26.
-
-
-Package natbib Warning: Citation `Strimbeck2015' on page 4 undefined on input l
-ine 226.
-
-
-Package natbib Warning: Citation `Charrier2011' on page 4 undefined on input li
-ne 226.
-
-
-Package natbib Warning: Citation `Sakai1987' on page 4 undefined on input line 
-226.
-
-
-Package natbib Warning: Citation `Strimbeck2015' on page 4 undefined on input l
-ine 226.
-
-
-Package natbib Warning: Citation `Vitasse2014' on page 4 undefined on input lin
-e 228.
-
-
-Package natbib Warning: Citation `Howe2003' on page 4 undefined on input line 2
-30.
-
-
-Package natbib Warning: Citation `Charrier2011' on page 4 undefined on input li
-ne 230.
-
-
-Package natbib Warning: Citation `Strimbeck2015' on page 4 undefined on input l
-ine 230.
-
-
-Package natbib Warning: Citation `Welling1997' on page 4 undefined on input lin
-e 230.
-
-
-Package natbib Warning: Citation `Charrier2011' on page 4 undefined on input li
-ne 230.
-
-
-Package natbib Warning: Citation `Heide2005' on page 4 undefined on input line 
-230.
-
-
-Package natbib Warning: Citation `Charrier2011' on page 4 undefined on input li
-ne 230.
-
-
-Package natbib Warning: Citation `Korner2012' on page 4 undefined on input line
- 230.
-
-
-Package natbib Warning: Citation `Vitasse2014' on page 4 undefined on input lin
-e 230.
-
-
-Package natbib Warning: Citation `Korner2012' on page 4 undefined on input line
- 230.
-
-[4]
-
-Package natbib Warning: Citation `Sakai1987' on page 5 undefined on input line 
-232.
-
-
-Package natbib Warning: Citation `Lenz2013' on page 5 undefined on input line 2
-32.
-
-
-Package natbib Warning: Citation `Lenz2016' on page 5 undefined on input line 2
-32.
-
-
-Package natbib Warning: Citation `Estiarte2015' on page 5 undefined on input li
-ne 232.
-
-
-Package natbib Warning: Citation `Liu2018' on page 5 undefined on input line 23
-2.
-
-
-Package natbib Warning: Citation `Ludlum1968' on page 5 undefined on input line
- 234.
-
-
-Package natbib Warning: Citation `Mock2007' on page 5 undefined on input line 2
-34.
-
-
-Package natbib Warning: Citation `Augspurger2009' on page 5 undefined on input 
-line 234.
-
-
-Package natbib Warning: Citation `Augspurger2013' on page 5 undefined on input 
-line 234.
-
-
-Package natbib Warning: Citation `Gu2008' on page 5 undefined on input line 234
-.
-
-
-Package natbib Warning: Citation `Menzel2015' on page 5 undefined on input line
- 234.
-
-
-Package natbib Warning: Citation `Hufkens2012' on page 5 undefined on input lin
-e 234.
-
-
-Package natbib Warning: Citation `Klosterman2018' on page 5 undefined on input 
-line 234.
-
-
-Package natbib Warning: Citation `Richardson2013' on page 5 undefined on input 
-line 234.
-
-
-Package natbib Warning: Citation `Vitasse2014' on page 5 undefined on input lin
-e 234.
-
-
-Package natbib Warning: Citation `Xie2015' on page 5 undefined on input line 23
-4.
-
+] [2] [3] [4] [5]
 File: figures/temperaturethreshold_color.pdf Graphic file (type QTm)
-<use  "figures/temperaturethreshold_color.pdf" > [5]
-
-Package natbib Warning: Citation `Gu2008' on page 6 undefined on input line 244
-.
-
-
-Package natbib Warning: Citation `Augspurger2013' on page 6 undefined on input 
-line 244.
-
-
-Package natbib Warning: Citation `Schwartz1993' on page 6 undefined on input li
-ne 244.
-
-
-Package natbib Warning: Citation `Marino2011' on page 6 undefined on input line
- 244.
-
-[6]
-
-Package natbib Warning: Citation `Peterson2014' on page 7 undefined on input li
-ne 248.
-
-
-Package natbib Warning: Citation `Okeefe2014' on page 7 undefined on input line
- 251.
-
-
-Package natbib Warning: Citation `Richardson2015' on page 7 undefined on input 
-line 251.
-
-
-Package natbib Warning: Citation `USA-NPN2016' on page 7 undefined on input lin
-e 251.
-
-
-Package natbib Warning: Citation `Okeefe2014' on page 7 undefined on input line
- 251.
-
+ <use  "figures/temperaturethreshold_color.pdf" > [6]
 [7]
-
-Package natbib Warning: Citation `Richardson2009' on page 8 undefined on input 
-line 255.
-
-
-Package natbib Warning: Citation `Xin2016' on page 8 undefined on input line 25
-5.
-
-
-Package natbib Warning: Citation `Ault2015' on page 8 undefined on input line 2
-55.
-
 File: figures/fsi_compare_color.pdf Graphic file (type QTm)
-<use  "figures/fsi_compare_color.pdf" > [8]
-
-Package natbib Warning: Citation `Allstadt2015' on page 9 undefined on input li
-ne 265.
-
-
-Package natbib Warning: Citation `Marino2011' on page 9 undefined on input line
- 265.
-
-
-Package natbib Warning: Citation `Mehdipoor2017' on page 9 undefined on input l
-ine 265.
-
-
-Package natbib Warning: Citation `Peterson2014' on page 9 undefined on input li
-ne 265.
-
-
-Package natbib Warning: Citation `Martin2010' on page 9 undefined on input line
- 265.
-
-[9]
-
-Package natbib Warning: Citation `Edwards2017' on page 10 undefined on input li
-ne 271.
-
-
-Package natbib Warning: Citation `Agrawal2004' on page 10 undefined on input li
-ne 271.
-
-
-Package natbib Warning: Citation `Prozherina2003' on page 10 undefined on input
- line 271.
-
-
-Package natbib Warning: Citation `Beck2007' on page 10 undefined on input line 
-271.
-
-
-Package natbib Warning: Citation `Hofmann2015' on page 10 undefined on input li
-ne 271.
-
-
-Package natbib Warning: Citation `Kathke2011' on page 10 undefined on input lin
-e 271.
-
-
-Package natbib Warning: Citation `Morin2007' on page 10 undefined on input line
- 271.
-
-
-Package natbib Warning: Citation `Muffler2016' on page 10 undefined on input li
-ne 271.
-
-
-Package natbib Warning: Citation `Nielsen2009' on page 10 undefined on input li
-ne 271.
-
-
-Package natbib Warning: Citation `Poirier2010' on page 10 undefined on input li
-ne 271.
-
-
-Package natbib Warning: Citation `Lenz2013' on page 10 undefined on input line 
-273.
-
-[10]
-
-Package natbib Warning: Citation `Chuine2010' on page 11 undefined on input lin
-e 275.
-
-
-Package natbib Warning: Citation `Kollas2014' on page 11 undefined on input lin
-e 275.
-
-
-Package natbib Warning: Citation `Charrier2011' on page 11 undefined on input l
-ine 275.
-
-
-Package natbib Warning: Citation `Basler2012' on page 11 undefined on input lin
-e 275.
-
-
-Package natbib Warning: Citation `Basler2014' on page 11 undefined on input lin
-e 275.
-
-
-Package natbib Warning: Citation `Montwe2018' on page 11 undefined on input lin
-e 277.
-
-[11]
+ <use  "figures/fsi_compare_color.pdf" > [8] [9] [10] [11]
 File: figures/dvrgraphic_color.pdf Graphic file (type QTm)
- <use  "figures/dvrgraphic_color.pdf" > [12]
 
-Package natbib Warning: Citation `Chuine2010' on page 13 undefined on input lin
-e 291.
-
-
-Package natbib Warning: Citation `Basler2014' on page 13 undefined on input lin
-e 291.
-
-
-Package natbib Warning: Citation `Flynn2018' on page 13 undefined on input line
- 291.
-
-
-Package natbib Warning: Citation `IPCC2014' on page 13 undefined on input line 
-293.
-
-
-Package natbib Warning: Citation `Flynn2018' on page 13 undefined on input line
- 293.
-
-
-Package natbib Warning: Citation `Cleland2006' on page 13 undefined on input li
-ne 293.
-
-
-Package natbib Warning: Citation `Fu2015' on page 13 undefined on input line 29
-3.
-
-
-Package natbib Warning: Citation `Xin2016' on page 13 undefined on input line 2
-93.
-
-[13]
-
-Package natbib Warning: Citation `Gauzere2017' on page 14 undefined on input li
-ne 297.
-
-
-Package natbib Warning: Citation `Sogaard2008' on page 14 undefined on input li
-ne 297.
-
-
-Package natbib Warning: Citation `Way2015' on page 14 undefined on input line 2
-97.
-
-
-Package natbib Warning: Citation `Zohner2016' on page 14 undefined on input lin
-e 297.
-
-
-Package natbib Warning: Citation `Aitken2015' on page 14 undefined on input lin
-e 297.
-
-
-Package natbib Warning: Citation `Harrington2015' on page 14 undefined on input
- line 297.
-
-
-Package natbib Warning: Citation `Myking2007' on page 14 undefined on input lin
-e 297.
-
-
-Package natbib Warning: Citation `Myking2007' on page 14 undefined on input lin
-e 297.
-
-
-Package natbib Warning: Citation `Campbell1979' on page 14 undefined on input l
-ine 297.
-
-
-Package natbib Warning: Citation `Howe2003' on page 14 undefined on input line 
-297.
-
-[14]
+<use  "figures/dvrgraphic_color.pdf" > [12] [13] [14]
 File: figures/exp_intrxns_dvr_color.pdf Graphic file (type QTm)
- <use  "figures/exp_intrxns_dvr_color.pdf" >
+
+<use  "figures/exp_intrxns_dvr_color.pdf" >
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 304.
+(Font)              scaled to size 10.42007pt on input line 306.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 304.
+(Font)              scaled to size 7.91925pt on input line 306.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 304.
+(Font)              scaled to size 10.42007pt on input line 306.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 304.
-
-
-Package natbib Warning: Citation `Hanninen2011' on page 15 undefined on input l
-ine 309.
-
-
-Package natbib Warning: Citation `Savolainen2007' on page 15 undefined on input
- line 309.
-
-
-Package natbib Warning: Citation `Vitasse2009' on page 15 undefined on input li
-ne 309.
-
-
-Package natbib Warning: Citation `Jochner2011' on page 15 undefined on input li
-ne 309.
-
-
-Package natbib Warning: Citation `Reyer2013' on page 15 undefined on input line
- 309.
-
-
-Package natbib Warning: Citation `Soudani2012' on page 15 undefined on input li
-ne 309.
-
-
-Package natbib Warning: Citation `Schaber2005' on page 15 undefined on input li
-ne 309.
-
-
-Package natbib Warning: Citation `USA-NPN2016' on page 15 undefined on input li
-ne 309.
-
-
-Package natbib Warning: Citation `White2009' on page 15 undefined on input line
- 309.
-
-
-Package natbib Warning: Citation `NOAA' on page 15 undefined on input line 309.
-
-
-[15]
-
-Package natbib Warning: Citation `Basler2012' on page 16 undefined on input lin
-e 311.
-
-
-Package natbib Warning: Citation `Laube2013' on page 16 undefined on input line
- 311.
-
-
-Package natbib Warning: Citation `Caffarra2011' on page 16 undefined on input l
-ine 311.
-
-
-Package natbib Warning: Citation `Partanen2004' on page 16 undefined on input l
-ine 311.
-
-
-Package natbib Warning: Citation `Viheraaarnio2006' on page 16 undefined on inp
-ut line 311.
-
-[16]
+(Font)              scaled to size 7.91925pt on input line 306.
+ [15] [16]
 File: figures/regionalrisk_sites_color.pdf Graphic file (type QTm)
- <use  "figures/regionalrisk_sites_color.pdf" >
 
-Package natbib Warning: Citation `Richardson2018b' on page 17 undefined on inpu
-t line 323.
-
-
-Package natbib Warning: Citation `Augspurger2009' on page 17 undefined on input
- line 323.
-
-
-Package natbib Warning: Citation `Allstadt2015' on page 17 undefined on input l
-ine 323.
-
-
-Package natbib Warning: Citation `Ault2015' on page 17 undefined on input line 
-323.
-
-
-Package natbib Warning: Citation `Liu2018' on page 17 undefined on input line 3
-23.
-
-
-Package natbib Warning: Citation `Peterson2014' on page 17 undefined on input l
-ine 323.
-
-[17] [18]
-
-Package natbib Warning: Citation `Foley1998' on page 19 undefined on input line
- 332.
-
-
-Package natbib Warning: Citation `Moorcroft2001' on page 19 undefined on input 
-line 332.
-
-
-Package natbib Warning: Citation `Prentice1992' on page 19 undefined on input l
-ine 332.
-
-
-Package natbib Warning: Citation `Thornton2005' on page 19 undefined on input l
-ine 332.
-
-
-Package natbib Warning: Citation `Kim2015' on page 19 undefined on input line 3
-32.
-
-
-Package natbib Warning: Citation `Moorcroft2001' on page 19 undefined on input 
-line 332.
-
-
-Package natbib Warning: Citation `Thornton2005' on page 19 undefined on input l
-ine 332.
-
-
-Package natbib Warning: Citation `Yu2016' on page 19 undefined on input line 33
-2.
-
-[19]
-
-Package natbib Warning: Citation `Schwartz1993' undefined on input line 338.
-
-
-Package natbib Warning: Citation `Barker2005' undefined on input line 339.
-
-
-Package natbib Warning: Citation `Sanchez2013' undefined on input line 340.
-
-
-Package natbib Warning: Citation `Longstroth2012' undefined on input line 341.
-
-
-Package natbib Warning: Citation `Barlow2015' undefined on input line 342.
-
-
-Package natbib Warning: Citation `Longstroth2013' undefined on input line 343.
-
-
-Package natbib Warning: Citation `Charrier2011' undefined on input line 344.
-
-(./cjc_thesis.bbl) [20]
+<use  "figures/regionalrisk_sites_color.pdf" > [17] [18] [19] [20] [21]
 Chapter 1.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 25.92514pt on input line 348.
+(Font)              scaled to size 25.92514pt on input line 341.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 21.61124pt on input line 348.
+(Font)              scaled to size 21.61124pt on input line 341.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 348.
+(Font)              scaled to size 15.0049pt on input line 341.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 25.92514pt on input line 348.
+(Font)              scaled to size 25.92514pt on input line 341.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 21.61124pt on input line 348.
+(Font)              scaled to size 21.61124pt on input line 341.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 348.
+(Font)              scaled to size 15.0049pt on input line 341.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 348.
+(Font)              scaled to size 9.37807pt on input line 341.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 348.
+(Font)              scaled to size 7.29405pt on input line 341.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 348.
+(Font)              scaled to size 5.21004pt on input line 341.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 348.
+(Font)              scaled to size 9.37807pt on input line 341.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 348.
+(Font)              scaled to size 7.29405pt on input line 341.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 348.
+(Font)              scaled to size 5.21004pt on input line 341.
+[22
 
-! LaTeX Error: File `chapter1.tex' not found.
+]
+Chapter 2.
+[23
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
+]
+Chapter 3.
+(./cjc_thesis.bbl [24
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.349 \input{chapter1}
-                      ^^M
-*** (cannot \read from terminal in nonstop modes)
+] [25
 
- 
+] [26] [27] [28] [29] [30]) [31] (./cjc_thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 18519 strings out of 493591
- 355792 string characters out of 6143546
- 412557 words of memory out of 5000000
- 21630 multiletter control sequences out of 15000+600000
- 66979 words of font info for 134 fonts, out of 8000000 for 9000
+ 18716 strings out of 493591
+ 359921 string characters out of 6143546
+ 420372 words of memory out of 5000000
+ 21825 multiletter control sequences out of 15000+600000
+ 68639 words of font info for 135 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  39i,8n,42p,10383b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on cjc_thesis.pdf (29 pages).
+
+Output written on cjc_thesis.pdf (41 pages).
