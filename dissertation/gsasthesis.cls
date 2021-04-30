@@ -106,12 +106,13 @@
         \ifx\@secondadvisor\undefined
         Advisor: \@principaladvisor
         \else
-        Advisors: \@principaladvisor, \@secondadvisor
+        \textit{Dissertation Advisors:}\\ \@principaladvisor\\ \@secondadvisor
         \fi
       \end{flushleft}
     \end{minipage}
     \begin{minipage}[t]{0.3\textwidth}
       \begin{flushright}
+        \textit{Author:}\\
         \@author
       \end{flushright}
     \end{minipage}

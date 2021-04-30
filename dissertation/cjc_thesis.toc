@@ -1,9 +1,12 @@
 \select@language {english}
 \contentsline {section}{Abstract}{iii}
-\contentsline {section}{Acknowledgments}{ix}
+\contentsline {section}{Acknowledgments}{vi}
 \contentsline {chapter}{Introduction}{1}
-\contentsline {section}{\numberline {0.1}\relax \fontsize {17.28}{22}\selectfont {Climate change reshapes the drivers of false spring risk across European trees}}{21}
-\contentsline {chapter}{Bibliography}{41}
-\contentsline {chapter}{\numberline {1}Line\FN@sf@gobble@opt {Co-authored with my other advisor}}{58}
-\contentsline {chapter}{\numberline {2}Sinker}{59}
-\contentsline {chapter}{References}{60}
+\contentsline {chapter}{Chapter 1}{14}
+\contentsline {chapter}{Chapter 2}{27}
+\contentsline {chapter}{Chapter 3}{56}
+\contentsline {chapter}{References}{57}
+\contentsline {chapter}{Appendix A: Introduction supplementary material}{58}
+\contentsline {chapter}{Appendix B: Chapter 1 supplementary material}{63}
+\contentsline {chapter}{Appendix C: Chapter 2 supplementary material}{80}
+\contentsline {chapter}{Appendix D: Chapter 3 supplementary material}{102}

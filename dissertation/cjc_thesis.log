@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 APR 2021 18:09
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  30 APR 2021 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -152,12 +152,49 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count100
 \LT@p@ftn=\toks17
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count101
+\calc@Bcount=\count102
+\calc@Adimen=\dimen118
+\calc@Bdimen=\dimen119
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count103
+\calc@Cskip=\skip52
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen120
+\AM@pageheight=\dimen121
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2016/04/19 v0.5f Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box31
+\AM@global@opts=\toks18
+\AM@toc@title=\toks19
+\c@AM@survey=\count104
+\AM@templatesizebox=\box32
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip50
-\bibsep=\skip51
+\bibhang=\skip53
+\bibsep=\skip54
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count101
+\c@NAT@ctr=\count105
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/mathpazo.sty
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
@@ -168,13 +205,33 @@ Package: courier 2005/04/12 PSNFSS-v9.2a (WaS)
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks18
-\inpenc@posthook=\toks19
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
 
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
@@ -189,8 +246,8 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
-\babel@savecnt=\count102
-\U@D=\dimen118
+\babel@savecnt=\count106
+\U@D=\dimen122
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/babel/xebabel.def))
 \l@canadian = a dialect from \language\l@american 
@@ -203,28 +260,28 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count103
-\c@Blindtext=\count104
-\c@blind@countparstart=\count105
-\blind@countxx=\count106
-\blindtext@numBlindtext=\count107
-\blind@countyy=\count108
-\c@blindlist=\count109
-\c@blindlistlevel=\count110
-\c@blindlist@level=\count111
-\blind@listitem=\count112
-\c@blind@listcount=\count113
-\c@blind@levelcount=\count114
-\blind@mathformula=\count115
-\blind@Mathformula=\count116
-\c@blind@randomcount=\count117
-\c@blind@randommax=\count118
-\c@blind@pangramcount=\count119
-\c@blind@pangrammax=\count120
+\c@blindtext=\count107
+\c@Blindtext=\count108
+\c@blind@countparstart=\count109
+\blind@countxx=\count110
+\blindtext@numBlindtext=\count111
+\blind@countyy=\count112
+\c@blindlist=\count113
+\c@blindlistlevel=\count114
+\c@blindlist@level=\count115
+\blind@listitem=\count116
+\c@blind@listcount=\count117
+\c@blind@levelcount=\count118
+\blind@mathformula=\count119
+\blind@Mathformula=\count120
+\c@blind@randomcount=\count121
+\c@blind@randommax=\count122
+\c@blind@pangramcount=\count123
+\c@blind@pangrammax=\count124
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/10 v2.15b AMS math features
-\@mathmargin=\skip52
+\@mathmargin=\skip55
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -232,62 +289,62 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks20
-\ex@=\dimen119
+\@emptytoks=\toks22
+\ex@=\dimen123
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen120
+\pmbraise@=\dimen124
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count121
+\inf@bad=\count125
 LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count122
-\leftroot@=\count123
+\uproot@=\count126
+\leftroot@=\count127
 LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count124
-\DOTSCASE@=\count125
+\classnum@=\count128
+\DOTSCASE@=\count129
 LaTeX Info: Redefining \ldots on input line 394.
 LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
-\Mathstrutbox@=\box31
-\strutbox@=\box32
-\big@size=\dimen121
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen125
 LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
-\macc@depth=\count126
-\c@MaxMatrixCols=\count127
+\macc@depth=\count130
+\c@MaxMatrixCols=\count131
 \dotsspace@=\muskip10
-\c@parentequation=\count128
-\dspbrk@lvl=\count129
-\tag@help=\toks21
-\row@=\count130
-\column@=\count131
-\maxfields@=\count132
-\andhelp@=\toks22
-\eqnshift@=\dimen122
-\alignsep@=\dimen123
-\tagshift@=\dimen124
-\tagwidth@=\dimen125
-\totwidth@=\dimen126
-\lineht@=\dimen127
-\@envbody=\toks23
-\multlinegap=\skip53
-\multlinetaggap=\skip54
-\mathdisplay@stack=\toks24
+\c@parentequation=\count132
+\dspbrk@lvl=\count133
+\tag@help=\toks23
+\row@=\count134
+\column@=\count135
+\maxfields@=\count136
+\andhelp@=\toks24
+\eqnshift@=\dimen126
+\alignsep@=\dimen127
+\tagshift@=\dimen128
+\tagwidth@=\dimen129
+\totwidth@=\dimen130
+\lineht@=\dimen131
+\@envbody=\toks25
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
-\MT@toks=\toks25
-\MT@count=\count133
+\MT@toks=\toks27
+\MT@count=\count137
 LaTeX Info: Redefining \textls on input line 774.
-\MT@outer@kern=\dimen128
+\MT@outer@kern=\dimen132
 LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
-\MT@listname@count=\count134
+\MT@listname@count=\count138
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/microtype-xetex.def
 File: microtype-xetex.def 2016/05/14 v2.6a Definitions specific to xetex (RS)
@@ -300,9 +357,9 @@ File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks26
-\footnotemargin=\dimen129
-\c@pp@next@reset=\count135
+\FN@temptoken=\toks28
+\footnotemargin=\dimen133
+\c@pp@next@reset=\count139
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -320,11 +377,11 @@ Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-\FV@CodeLineNo=\count136
+\FV@CodeLineNo=\count140
 \FV@InFile=\read1
-\FV@TabBox=\box33
-\c@FancyVerbLine=\count137
-\FV@StepNumber=\count138
+\FV@TabBox=\box35
+\c@FancyVerbLine=\count141
+\FV@StepNumber=\count142
 \FV@OutFile=\write3
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
@@ -433,30 +490,30 @@ File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 ))))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count139
-\float@exts=\toks27
-\float@box=\box34
-\@float@everytoks=\toks28
-\@floatcapt=\box35
+\c@float@type=\count143
+\float@exts=\toks29
+\float@box=\box36
+\@float@everytoks=\toks30
+\@floatcapt=\box37
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen130
-\extrarowheight=\dimen131
-\NC@list=\toks29
-\extratabsurround=\skip55
-\backup@length=\skip56
+\col@sep=\dimen134
+\extrarowheight=\dimen135
+\NC@list=\toks31
+\extratabsurround=\skip58
+\backup@length=\skip59
 )
-\TX@col@width=\dimen132
-\TX@old@table=\dimen133
-\TX@old@col=\dimen134
-\TX@target=\dimen135
-\TX@delta=\dimen136
-\TX@cols=\count140
-\TX@ftn=\toks30
+\TX@col@width=\dimen136
+\TX@old@table=\dimen137
+\TX@old@col=\dimen138
+\TX@target=\dimen139
+\TX@delta=\dimen140
+\TX@cols=\count144
+\TX@ftn=\toks32
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx.sty
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -472,37 +529,37 @@ L3 Module: l3tl 2016/03/26 v6465 L3 Token lists
 L3 Module: l3str 2016/03/24 v6441 L3 Strings
 L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
 L3 Module: l3int 2016/03/24 v6441 L3 Integers
-\c_max_int=\count141
-\l_tmpa_int=\count142
-\l_tmpb_int=\count143
-\g_tmpa_int=\count144
-\g_tmpb_int=\count145
+\c_max_int=\count145
+\l_tmpa_int=\count146
+\l_tmpb_int=\count147
+\g_tmpa_int=\count148
+\g_tmpb_int=\count149
 L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
 L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
-\g__prg_map_int=\count146
+\g__prg_map_int=\count150
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
 L3 Module: l3token 2016/04/03 v6470 L3 Experimental token manipulation
 L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
 L3 Module: l3msg 2016/03/26 v6464 L3 Messages
 L3 Module: l3file 2016/03/25 v6458 L3 File and I/O operations
-\l_iow_line_count_int=\count147
-\l__iow_target_count_int=\count148
-\l__iow_current_line_int=\count149
-\l__iow_current_word_int=\count150
-\l__iow_current_indentation_int=\count151
+\l_iow_line_count_int=\count151
+\l__iow_target_count_int=\count152
+\l__iow_current_line_int=\count153
+\l__iow_current_word_int=\count154
+\l__iow_current_indentation_int=\count155
 L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
-\c_zero_dim=\dimen137
-\c_max_dim=\dimen138
-\l_tmpa_dim=\dimen139
-\l_tmpb_dim=\dimen140
-\g_tmpa_dim=\dimen141
-\g_tmpb_dim=\dimen142
-\c_zero_skip=\skip57
-\c_max_skip=\skip58
-\l_tmpa_skip=\skip59
-\l_tmpb_skip=\skip60
-\g_tmpa_skip=\skip61
-\g_tmpb_skip=\skip62
+\c_zero_dim=\dimen141
+\c_max_dim=\dimen142
+\l_tmpa_dim=\dimen143
+\l_tmpb_dim=\dimen144
+\g_tmpa_dim=\dimen145
+\g_tmpb_dim=\dimen146
+\c_zero_skip=\skip60
+\c_max_skip=\skip61
+\l_tmpa_skip=\skip62
+\l_tmpb_skip=\skip63
+\g_tmpa_skip=\skip64
+\g_tmpb_skip=\skip65
 \c_zero_muskip=\muskip11
 \c_max_muskip=\muskip12
 \l_tmpa_muskip=\muskip13
@@ -510,122 +567,122 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
 L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
-\g__keyval_level_int=\count152
-\l_keys_choice_int=\count153
+\g__keyval_level_int=\count156
+\l_keys_choice_int=\count157
 L3 Module: l3fp 2016/03/26 v6465 L3 Floating points
-\c__fp_leading_shift_int=\count154
-\c__fp_middle_shift_int=\count155
-\c__fp_trailing_shift_int=\count156
-\c__fp_big_leading_shift_int=\count157
-\c__fp_big_middle_shift_int=\count158
-\c__fp_big_trailing_shift_int=\count159
-\c__fp_Bigg_leading_shift_int=\count160
-\c__fp_Bigg_middle_shift_int=\count161
-\c__fp_Bigg_trailing_shift_int=\count162
+\c__fp_leading_shift_int=\count158
+\c__fp_middle_shift_int=\count159
+\c__fp_trailing_shift_int=\count160
+\c__fp_big_leading_shift_int=\count161
+\c__fp_big_middle_shift_int=\count162
+\c__fp_big_trailing_shift_int=\count163
+\c__fp_Bigg_leading_shift_int=\count164
+\c__fp_Bigg_middle_shift_int=\count165
+\c__fp_Bigg_trailing_shift_int=\count166
 L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
-\c_empty_box=\box36
-\l_tmpa_box=\box37
-\l_tmpb_box=\box38
-\g_tmpa_box=\box39
-\g_tmpb_box=\box40
+\c_empty_box=\box38
+\l_tmpa_box=\box39
+\l_tmpb_box=\box40
+\g_tmpa_box=\box41
+\g_tmpb_box=\box42
 L3 Module: l3coffins 2016/05/17 v6508 L3 Coffin code layer
-\l__coffin_internal_box=\box41
-\l__coffin_internal_dim=\dimen143
-\l__coffin_offset_x_dim=\dimen144
-\l__coffin_offset_y_dim=\dimen145
-\l__coffin_x_dim=\dimen146
-\l__coffin_y_dim=\dimen147
-\l__coffin_x_prime_dim=\dimen148
-\l__coffin_y_prime_dim=\dimen149
-\c_empty_coffin=\box42
-\l__coffin_aligned_coffin=\box43
-\l__coffin_aligned_internal_coffin=\box44
-\l_tmpa_coffin=\box45
-\l_tmpb_coffin=\box46
-\l__coffin_display_coffin=\box47
-\l__coffin_display_coord_coffin=\box48
-\l__coffin_display_pole_coffin=\box49
-\l__coffin_display_offset_dim=\dimen150
-\l__coffin_display_x_dim=\dimen151
-\l__coffin_display_y_dim=\dimen152
+\l__coffin_internal_box=\box43
+\l__coffin_internal_dim=\dimen147
+\l__coffin_offset_x_dim=\dimen148
+\l__coffin_offset_y_dim=\dimen149
+\l__coffin_x_dim=\dimen150
+\l__coffin_y_dim=\dimen151
+\l__coffin_x_prime_dim=\dimen152
+\l__coffin_y_prime_dim=\dimen153
+\c_empty_coffin=\box44
+\l__coffin_aligned_coffin=\box45
+\l__coffin_aligned_internal_coffin=\box46
+\l_tmpa_coffin=\box47
+\l_tmpb_coffin=\box48
+\l__coffin_display_coffin=\box49
+\l__coffin_display_coord_coffin=\box50
+\l__coffin_display_pole_coffin=\box51
+\l__coffin_display_offset_dim=\dimen154
+\l__coffin_display_x_dim=\dimen155
+\l__coffin_display_y_dim=\dimen156
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
 L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
 L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen153
-\l__box_bottom_dim=\dimen154
-\l__box_left_dim=\dimen155
-\l__box_right_dim=\dimen156
-\l__box_top_new_dim=\dimen157
-\l__box_bottom_new_dim=\dimen158
-\l__box_left_new_dim=\dimen159
-\l__box_right_new_dim=\dimen160
-\l__box_internal_box=\box50
-\l__coffin_bounding_shift_dim=\dimen161
-\l__coffin_left_corner_dim=\dimen162
-\l__coffin_right_corner_dim=\dimen163
-\l__coffin_bottom_corner_dim=\dimen164
-\l__coffin_top_corner_dim=\dimen165
-\l__coffin_scaled_total_height_dim=\dimen166
-\l__coffin_scaled_width_dim=\dimen167
+\l__box_top_dim=\dimen157
+\l__box_bottom_dim=\dimen158
+\l__box_left_dim=\dimen159
+\l__box_right_dim=\dimen160
+\l__box_top_new_dim=\dimen161
+\l__box_bottom_new_dim=\dimen162
+\l__box_left_new_dim=\dimen163
+\l__box_right_new_dim=\dimen164
+\l__box_internal_box=\box52
+\l__coffin_bounding_shift_dim=\dimen165
+\l__coffin_left_corner_dim=\dimen166
+\l__coffin_right_corner_dim=\dimen167
+\l__coffin_bottom_corner_dim=\dimen168
+\l__coffin_top_corner_dim=\dimen169
+\l__coffin_scaled_total_height_dim=\dimen170
+\l__coffin_scaled_width_dim=\dimen171
 L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2016/03/26 v6465 L3 Experimental driver: xdvipdfmx
-\l__driver_tmp_box=\box51
+\l__driver_tmp_box=\box53
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count163
-\l__xparse_m_args_int=\count164
-\l__xparse_mandatory_args_int=\count165
-\l__xparse_processor_int=\count166
-\l__xparse_v_nesting_int=\count167
+\l__xparse_current_arg_int=\count167
+\l__xparse_m_args_int=\count168
+\l__xparse_mandatory_args_int=\count169
+\l__xparse_processor_int=\count170
+\l__xparse_v_nesting_int=\count171
 )
 Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2016/05/18 v6512 LaTeX2e option processing using LaTeX3 keys
 )
-\l__siunitx_tmp_box=\box52
-\l__siunitx_tmp_dim=\dimen168
-\l__siunitx_tmp_int=\count168
-\l__siunitx_number_mantissa_length_int=\count169
-\l__siunitx_number_uncert_length_int=\count170
-\l__siunitx_round_int=\count171
-\l__siunitx_process_decimal_int=\count172
-\l__siunitx_process_uncertainty_int=\count173
-\l__siunitx_process_fixed_int=\count174
-\l__siunitx_process_integer_min_int=\count175
-\l__siunitx_process_precision_int=\count176
-\l__siunitx_group_min_int=\count177
-\l__siunitx_angle_marker_box=\box53
-\l__siunitx_angle_unit_box=\box54
-\l__siunitx_angle_marker_dim=\dimen169
-\l__siunitx_angle_unit_dim=\dimen170
-\l__siunitx_unit_int=\count178
-\l__siunitx_unit_denominator_int=\count179
-\l__siunitx_unit_numerator_int=\count180
-\l__siunitx_unit_prefix_int=\count181
-\l__siunitx_unit_prefix_base_int=\count182
-\l__siunitx_unit_prefix_gram_int=\count183
-\l__siunitx_number_product_int=\count184
-\c__siunitx_one_fill_skip=\skip63
-\l__siunitx_table_unit_align_skip=\skip64
-\l__siunitx_table_exponent_dim=\dimen171
-\l__siunitx_table_integer_dim=\dimen172
-\l__siunitx_table_mantissa_dim=\dimen173
-\l__siunitx_table_marker_dim=\dimen174
-\l__siunitx_table_result_dim=\dimen175
-\l__siunitx_table_uncert_dim=\dimen176
-\l__siunitx_table_fill_pre_dim=\dimen177
-\l__siunitx_table_fill_post_dim=\dimen178
-\l__siunitx_table_fill_mid_dim=\dimen179
-\l__siunitx_table_pre_box=\box55
-\l__siunitx_table_post_box=\box56
-\l__siunitx_table_mantissa_box=\box57
-\l__siunitx_table_result_box=\box58
-\l__siunitx_table_number_align_skip=\skip65
-\l__siunitx_table_text_align_skip=\skip66
+\l__siunitx_tmp_box=\box54
+\l__siunitx_tmp_dim=\dimen172
+\l__siunitx_tmp_int=\count172
+\l__siunitx_number_mantissa_length_int=\count173
+\l__siunitx_number_uncert_length_int=\count174
+\l__siunitx_round_int=\count175
+\l__siunitx_process_decimal_int=\count176
+\l__siunitx_process_uncertainty_int=\count177
+\l__siunitx_process_fixed_int=\count178
+\l__siunitx_process_integer_min_int=\count179
+\l__siunitx_process_precision_int=\count180
+\l__siunitx_group_min_int=\count181
+\l__siunitx_angle_marker_box=\box55
+\l__siunitx_angle_unit_box=\box56
+\l__siunitx_angle_marker_dim=\dimen173
+\l__siunitx_angle_unit_dim=\dimen174
+\l__siunitx_unit_int=\count182
+\l__siunitx_unit_denominator_int=\count183
+\l__siunitx_unit_numerator_int=\count184
+\l__siunitx_unit_prefix_int=\count185
+\l__siunitx_unit_prefix_base_int=\count186
+\l__siunitx_unit_prefix_gram_int=\count187
+\l__siunitx_number_product_int=\count188
+\c__siunitx_one_fill_skip=\skip66
+\l__siunitx_table_unit_align_skip=\skip67
+\l__siunitx_table_exponent_dim=\dimen175
+\l__siunitx_table_integer_dim=\dimen176
+\l__siunitx_table_mantissa_dim=\dimen177
+\l__siunitx_table_marker_dim=\dimen178
+\l__siunitx_table_result_dim=\dimen179
+\l__siunitx_table_uncert_dim=\dimen180
+\l__siunitx_table_fill_pre_dim=\dimen181
+\l__siunitx_table_fill_post_dim=\dimen182
+\l__siunitx_table_fill_mid_dim=\dimen183
+\l__siunitx_table_pre_box=\box57
+\l__siunitx_table_post_box=\box58
+\l__siunitx_table_mantissa_box=\box59
+\l__siunitx_table_result_box=\box60
+\l__siunitx_table_number_align_skip=\skip68
+\l__siunitx_table_text_align_skip=\skip69
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -757,10 +814,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
 
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
-Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
-))
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
@@ -784,7 +838,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count185
+\etb@tempcnta=\count189
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
 Package: zref-abspage 2016/05/16 v2.25 Module abspage for zref (HO)
@@ -811,90 +865,90 @@ Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-\c@abspage=\count186
+\c@abspage=\count190
 Package zref Info: New property: abspage on input line 62.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-\mdf@templength=\skip67
-\c@mdf@globalstyle@cnt=\count187
-\mdf@skipabove@length=\skip68
-\mdf@skipbelow@length=\skip69
-\mdf@leftmargin@length=\skip70
-\mdf@rightmargin@length=\skip71
-\mdf@innerleftmargin@length=\skip72
-\mdf@innerrightmargin@length=\skip73
-\mdf@innertopmargin@length=\skip74
-\mdf@innerbottommargin@length=\skip75
-\mdf@splittopskip@length=\skip76
-\mdf@splitbottomskip@length=\skip77
-\mdf@outermargin@length=\skip78
-\mdf@innermargin@length=\skip79
-\mdf@linewidth@length=\skip80
-\mdf@innerlinewidth@length=\skip81
-\mdf@middlelinewidth@length=\skip82
-\mdf@outerlinewidth@length=\skip83
-\mdf@roundcorner@length=\skip84
-\mdf@footenotedistance@length=\skip85
-\mdf@userdefinedwidth@length=\skip86
-\mdf@needspace@length=\skip87
-\mdf@frametitleaboveskip@length=\skip88
-\mdf@frametitlebelowskip@length=\skip89
-\mdf@frametitlerulewidth@length=\skip90
-\mdf@frametitleleftmargin@length=\skip91
-\mdf@frametitlerightmargin@length=\skip92
-\mdf@shadowsize@length=\skip93
-\mdf@extratopheight@length=\skip94
-\mdf@subtitleabovelinewidth@length=\skip95
-\mdf@subtitlebelowlinewidth@length=\skip96
-\mdf@subtitleaboveskip@length=\skip97
-\mdf@subtitlebelowskip@length=\skip98
-\mdf@subtitleinneraboveskip@length=\skip99
-\mdf@subtitleinnerbelowskip@length=\skip100
-\mdf@subsubtitleabovelinewidth@length=\skip101
-\mdf@subsubtitlebelowlinewidth@length=\skip102
-\mdf@subsubtitleaboveskip@length=\skip103
-\mdf@subsubtitlebelowskip@length=\skip104
-\mdf@subsubtitleinneraboveskip@length=\skip105
-\mdf@subsubtitleinnerbelowskip@length=\skip106
+\mdf@templength=\skip70
+\c@mdf@globalstyle@cnt=\count191
+\mdf@skipabove@length=\skip71
+\mdf@skipbelow@length=\skip72
+\mdf@leftmargin@length=\skip73
+\mdf@rightmargin@length=\skip74
+\mdf@innerleftmargin@length=\skip75
+\mdf@innerrightmargin@length=\skip76
+\mdf@innertopmargin@length=\skip77
+\mdf@innerbottommargin@length=\skip78
+\mdf@splittopskip@length=\skip79
+\mdf@splitbottomskip@length=\skip80
+\mdf@outermargin@length=\skip81
+\mdf@innermargin@length=\skip82
+\mdf@linewidth@length=\skip83
+\mdf@innerlinewidth@length=\skip84
+\mdf@middlelinewidth@length=\skip85
+\mdf@outerlinewidth@length=\skip86
+\mdf@roundcorner@length=\skip87
+\mdf@footenotedistance@length=\skip88
+\mdf@userdefinedwidth@length=\skip89
+\mdf@needspace@length=\skip90
+\mdf@frametitleaboveskip@length=\skip91
+\mdf@frametitlebelowskip@length=\skip92
+\mdf@frametitlerulewidth@length=\skip93
+\mdf@frametitleleftmargin@length=\skip94
+\mdf@frametitlerightmargin@length=\skip95
+\mdf@shadowsize@length=\skip96
+\mdf@extratopheight@length=\skip97
+\mdf@subtitleabovelinewidth@length=\skip98
+\mdf@subtitlebelowlinewidth@length=\skip99
+\mdf@subtitleaboveskip@length=\skip100
+\mdf@subtitlebelowskip@length=\skip101
+\mdf@subtitleinneraboveskip@length=\skip102
+\mdf@subtitleinnerbelowskip@length=\skip103
+\mdf@subsubtitleabovelinewidth@length=\skip104
+\mdf@subsubtitlebelowlinewidth@length=\skip105
+\mdf@subsubtitleaboveskip@length=\skip106
+\mdf@subsubtitlebelowskip@length=\skip107
+\mdf@subsubtitleinneraboveskip@length=\skip108
+\mdf@subsubtitleinnerbelowskip@length=\skip109
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
-\mdf@frametitlebox=\box59
-\mdf@footnotebox=\box60
-\mdf@splitbox@one=\box61
-\mdf@splitbox@two=\box62
-\mdf@splitbox@save=\box63
-\mdfsplitboxwidth=\skip107
-\mdfsplitboxtotalwidth=\skip108
-\mdfsplitboxheight=\skip109
-\mdfsplitboxdepth=\skip110
-\mdfsplitboxtotalheight=\skip111
-\mdfframetitleboxwidth=\skip112
-\mdfframetitleboxtotalwidth=\skip113
-\mdfframetitleboxheight=\skip114
-\mdfframetitleboxdepth=\skip115
-\mdfframetitleboxtotalheight=\skip116
-\mdffootnoteboxwidth=\skip117
-\mdffootnoteboxtotalwidth=\skip118
-\mdffootnoteboxheight=\skip119
-\mdffootnoteboxdepth=\skip120
-\mdffootnoteboxtotalheight=\skip121
-\mdftotallinewidth=\skip122
-\mdfboundingboxwidth=\skip123
-\mdfboundingboxtotalwidth=\skip124
-\mdfboundingboxheight=\skip125
-\mdfboundingboxdepth=\skip126
-\mdfboundingboxtotalheight=\skip127
-\mdf@freevspace@length=\skip128
-\mdf@horizontalwidthofbox@length=\skip129
-\mdf@verticalmarginwhole@length=\skip130
-\mdf@horizontalspaceofbox=\skip131
-\mdfsubtitleheight=\skip132
-\mdfsubsubtitleheight=\skip133
-\c@mdfcountframes=\count188
+\mdf@frametitlebox=\box61
+\mdf@footnotebox=\box62
+\mdf@splitbox@one=\box63
+\mdf@splitbox@two=\box64
+\mdf@splitbox@save=\box65
+\mdfsplitboxwidth=\skip110
+\mdfsplitboxtotalwidth=\skip111
+\mdfsplitboxheight=\skip112
+\mdfsplitboxdepth=\skip113
+\mdfsplitboxtotalheight=\skip114
+\mdfframetitleboxwidth=\skip115
+\mdfframetitleboxtotalwidth=\skip116
+\mdfframetitleboxheight=\skip117
+\mdfframetitleboxdepth=\skip118
+\mdfframetitleboxtotalheight=\skip119
+\mdffootnoteboxwidth=\skip120
+\mdffootnoteboxtotalwidth=\skip121
+\mdffootnoteboxheight=\skip122
+\mdffootnoteboxdepth=\skip123
+\mdffootnoteboxtotalheight=\skip124
+\mdftotallinewidth=\skip125
+\mdfboundingboxwidth=\skip126
+\mdfboundingboxtotalwidth=\skip127
+\mdfboundingboxheight=\skip128
+\mdfboundingboxdepth=\skip129
+\mdfboundingboxtotalheight=\skip130
+\mdf@freevspace@length=\skip131
+\mdf@horizontalwidthofbox@length=\skip132
+\mdf@verticalmarginwhole@length=\skip133
+\mdf@horizontalspaceofbox=\skip134
+\mdfsubtitleheight=\skip135
+\mdfsubsubtitleheight=\skip136
+\c@mdfcountframes=\count192
 
 ****** mdframed patching \endmdf@trivlist
 
@@ -910,10 +964,10 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 . 
 . Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
 .................................................
-\mdf@envdepth=\count189
-\c@mdf@env@i=\count190
-\c@mdf@env@ii=\count191
-\c@mdf@zref@counter=\count192
+\mdf@envdepth=\count193
+\c@mdf@env@i=\count194
+\c@mdf@env@ii=\count195
+\c@mdf@zref@counter=\count196
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
@@ -932,15 +986,15 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen180
-\captionmargin@=\dimen181
-\captionwidth=\dimen182
-\caption@tempdima=\dimen183
-\caption@indent=\dimen184
-\caption@parindent=\dimen185
-\caption@hangindent=\dimen186
+\captionmargin=\dimen184
+\captionmargin@=\dimen185
+\captionwidth=\dimen186
+\caption@tempdima=\dimen187
+\caption@indent=\dimen188
+\caption@parindent=\dimen189
+\caption@hangindent=\dimen190
 )
-\c@ContinuedFloat=\count193
+\c@ContinuedFloat=\count197
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
 
@@ -953,28 +1007,41 @@ Package caption Info: rotating package is loaded.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-(./cjc_thesis.aux)
+(./cjc_thesis.aux
+
+Package natbib Warning: Citation `Chamberlain2019' multiply defined.
+
+
+Package natbib Warning: Citation `Chamberlain2020' multiply defined.
+
+
+Package natbib Warning: Citation `Chamberlain2019' multiply defined.
+
+
+Package natbib Warning: Citation `Chamberlain2020' multiply defined.
+
+)
 \openout1 = `cjc_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 122.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 133.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 133.
 
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    ... okay on input line 133.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1010,7 +1077,8 @@ LaTeX Font Info:    ... okay on input line 122.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 122.
+\AtBeginShipoutBox=\box66
+LaTeX Info: Redefining \microtypecontext on input line 133.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1027,11 +1095,10 @@ Dictionary: translator-basic-dictionary, Language: English
 (/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 )
-\AtBeginShipoutBox=\box64
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-\c__siunitx_mathsf_int=\count194
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 122
+\c__siunitx_mathsf_int=\count198
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 133
 .
  (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
@@ -1039,25 +1106,25 @@ File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 122
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 133
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 122
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 133
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 122
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 133
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 122
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 133
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -1068,30 +1135,30 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 122.
+(Font)              scaled to size 11.40997pt on input line 133.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 122.
+(Font)              scaled to size 8.33606pt on input line 133.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 122.
+(Font)              scaled to size 6.25204pt on input line 133.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 122.
+(Font)              scaled to size 11.40997pt on input line 133.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 122.
+(Font)              scaled to size 8.33606pt on input line 133.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 122.
+(Font)              scaled to size 6.25204pt on input line 133.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\c__siunitx_mathtt_int=\count195
+\c__siunitx_mathtt_int=\count199
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1099,23 +1166,36 @@ Package microtype Info: Loading generic settings for font family
  [1
 
 ]
-LaTeX Font Info:    Try loading font information for TS1+aer on input line 131.
+LaTeX Font Info:    Try loading font information for TS1+aer on input line 142.
 
 
 (/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/ts1aer.fd
 File: ts1aer.fd 
 )
 LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10.95> not available
-(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 131.
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 142.
 
 [2]
-Overfull \hbox (19.43085pt too wide) in paragraph at lines 132--132
+Overfull \hbox (19.43085pt too wide) in paragraph at lines 143--143
 [][] []
  []
 
-Missing character: There is no — in font aer10!
-Missing character: There is no — in font aer10!
 Missing character: There is no ’ in font aer10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
 [3
 
 
@@ -1128,778 +1208,1122 @@ Missing character: There is no ’ in font aer10!
  [5
 
 
-] (./cjc_thesis.lot)
-\tf@lot=\write5
-\openout5 = `cjc_thesis.lot'.
+]
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
 
- [6
+ []
 
-] (./cjc_thesis.lof
-[7
 
-])
-\tf@lof=\write6
-\openout6 = `cjc_thesis.lof'.
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
- [8] [9
+ []
 
-] [10
 
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+[6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 178--189
 
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 \textbf
+             {Reprinted from:}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.205 ...r~Atauri and Wolkovich}]{Chamberlain2019}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 205
+[][]
  []
 
-[1
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+<use  "docs/Rethinking_falsespring.pdf" >
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
 
-] [2] [3] [4] [5]
-File: figures/temperaturethreshold_color.pdf Graphic file (type QTm)
- <use  "figures/temperaturethreshold_color.pdf" > [6]
-[7]
-File: figures/fsi_compare_color.pdf Graphic file (type QTm)
- <use  "figures/fsi_compare_color.pdf" > [8] [9] [10] [11]
-File: figures/dvrgraphic_color.pdf Graphic file (type QTm)
+<use  "docs/Rethinking_falsespring.pdf" >
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
 
-<use  "figures/dvrgraphic_color.pdf" > [12] [13] [14]
-File: figures/exp_intrxns_dvr_color.pdf Graphic file (type QTm)
+<use  "docs/Rethinking_falsespring.pdf"  page1>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
 
-<use  "figures/exp_intrxns_dvr_color.pdf" >
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 306.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 306.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 306.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 306.
- [15] [16]
-File: figures/regionalrisk_sites_color.pdf Graphic file (type QTm)
+<use  "docs/Rethinking_falsespring.pdf"  page1> [1
 
-<use  "figures/regionalrisk_sites_color.pdf" > [17] [18] [19] [20]
-Overfull \hbox (14.08044pt too wide) in paragraph at lines 341--341
-[]\T1/aer/bx/n/17.28 Climate change re-shapes the drivers of false spring
+]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page1>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page1>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page1> [2]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page2>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page2>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page2> [3]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page3>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page3>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page3> [4]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page4>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page4>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page4> [5]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page5>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page5>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page5> [6]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page6>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page6>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page6> [7]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page7>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page7>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page7> [8]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page8>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page8>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page8> [9]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page9>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page9>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page9> [10]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page10>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page10>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page10> [11]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page11>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page11>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page11> [12]
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page12>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page12>
+File: docs/Rethinking_falsespring.pdf Graphic file (type QTm)
+
+<use  "docs/Rethinking_falsespring.pdf"  page12> [13]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 ...{ForestGreen}{CHAPTER 1}}}}\label{ch:1}\\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.222 \textbf
+             {Reprinted from:}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.225   and Wolkovich}]{Chamberlain2020}
+                                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 225
+[][]
  []
 
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+<use  "docs/newphyt_regrisk.pdf" >
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+ <use  "docs/newphyt_regrisk.pdf" >
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--359
+<use  "docs/newphyt_regrisk.pdf"  page1>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page1> [14]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page1>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page1>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page1> [15]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page2>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page2>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page2> [16]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page3>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page3>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page3> [17]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page4>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page4>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page4> [18]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page5>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page5>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page5> [19]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page6>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page6>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page6> [20]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page7>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page7>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page7> [21]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page8>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page8>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page8> [22]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page9>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page9>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page9> [23]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page10>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page10>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page10> [24]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page11>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page11>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page11> [25]
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page12>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page12>
+File: docs/newphyt_regrisk.pdf Graphic file (type QTm)
+
+<use  "docs/newphyt_regrisk.pdf"  page12> [26]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.240 ...{ForestGreen}{CHAPTER 2}}}}\label{ch:2}\\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.244 A
+       rticle acceptance date: 13 April 2021 \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: docs/chillfrz.pdf Graphic file (type QTm)
+<use  "docs/chillfrz.pdf" >
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf" >
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page1>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page1>
+Underfull \hbox (badness 10000) in paragraph at lines 244--247
 
  []
-
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 360--363
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 378--382
-
- []
-
-[22]
-
-Package natbib Warning: Citation `Wolkovich2012' on page 23 undefined on input 
-line 387.
-
-
-Package natbib Warning: Citation `Chen2005' on page 23 undefined on input line 
-387.
-
-
-Package natbib Warning: Citation `Liu2006' on page 23 undefined on input line 3
-87.
-
-
-Package natbib Warning: Citation `Kukal2018' on page 23 undefined on input line
- 387.
-
-
-Package natbib Warning: Citation `Labe2016' on page 23 undefined on input line 
-387.
-
-
-Package natbib Warning: Citation `Wypych2016a' on page 23 undefined on input li
-ne 387.
-
-
-Package natbib Warning: Citation `Sgubin2018' on page 23 undefined on input lin
-e 387.
-
-
-Package natbib Warning: Citation `Fu2014' on page 23 undefined on input line 38
-7.
-
-
-Package natbib Warning: Citation `Vitasse2018' on page 23 undefined on input li
-ne 387.
-
-
-Package natbib Warning: Citation `Hannenin1991' on page 23 undefined on input l
-ine 387.
-
-
-Package natbib Warning: Citation `Labe2016' on page 23 undefined on input line 
-387.
-
-
-Package natbib Warning: Citation `Scheifinger2003' on page 23 undefined on inpu
-t line 387.
-
-
-Package natbib Warning: Citation `Kramer1994' on page 23 undefined on input lin
-e 387.
-
-[23]
-
-Package natbib Warning: Citation `Wolkovich2012' on page 24 undefined on input 
-line 391.
-
-
-Package natbib Warning: Citation `Zohner2020' on page 24 undefined on input lin
-e 391.
-
-
-Package natbib Warning: Citation `Ma2018' on page 24 undefined on input line 39
-3.
-
-
-Package natbib Warning: Citation `Vitasse2018' on page 24 undefined on input li
-ne 393.
-
-
-Package natbib Warning: Citation `Wypych2016a' on page 24 undefined on input li
-ne 393.
-
-
-Package natbib Warning: Citation `Ma2018' on page 24 undefined on input line 39
-3.
-
-[24]
-
-Package natbib Warning: Citation `Cook2016' on page 25 undefined on input line 
-395.
-
-
-Package natbib Warning: Citation `Gauzere2019' on page 25 undefined on input li
-ne 395.
-
-
-Package natbib Warning: Citation `Giorgi1997' on page 25 undefined on input lin
-e 395.
-
-
-Package natbib Warning: Citation `Rangwala2012' on page 25 undefined on input l
-ine 395.
-
-
-Package natbib Warning: Citation `Pepin2015' on page 25 undefined on input line
- 395.
-
-
-Package natbib Warning: Citation `Vitasse2018' on page 25 undefined on input li
-ne 395.
-
-
-Package natbib Warning: Citation `Wypych2016a' on page 25 undefined on input li
-ne 395.
-
-
-Package natbib Warning: Citation `Ma2018' on page 25 undefined on input line 39
-5.
-
-
-Package natbib Warning: Citation `Chmielewski2001' on page 25 undefined on inpu
-t line 395.
-
-[25]
-
-Package natbib Warning: Citation `Templ2018' on page 26 undefined on input line
- 401.
-
-
-LaTeX Warning: Reference `fig:bbmap' on page 26 undefined on input line 401.
-
-
-Package natbib Warning: Citation `Meier2001' on page 26 undefined on input line
- 401.
-
-
-Overfull \hbox (38.49567pt too wide) in paragraph at lines 401--402
-\T1/aer/m/n/10.95 We ob-tained phe-no-log-i-cal data from the Pan Eu-ro-pean Ph
-e-nol-ogy net-work (PEP725, www.pep725.eu),
- []
-
-
-Package natbib Warning: Citation `Donnelly2017' on page 26 undefined on input l
-ine 403.
-
-
-Package natbib Warning: Citation `NPN2019' on page 26 undefined on input line 4
-03.
-
-[26]
-
-Package natbib Warning: Citation `Buerki2010' on page 27 undefined on input lin
-e 405.
-
-
-Package natbib Warning: Citation `Wang2016' on page 27 undefined on input line 
-405.
-
-
-Package natbib Warning: Citation `Hipp2017' on page 27 undefined on input line 
-405.
-
-
-Package natbib Warning: Citation `Cornes2018' on page 27 undefined on input lin
-e 408.
-
-
-Package natbib Warning: Citation `Zohner2020' on page 27 undefined on input lin
-e 408.
-
-
-Package natbib Warning: Citation `Korner2016' on page 27 undefined on input lin
-e 408.
-
-
-Package natbib Warning: Citation `NAOdata' on page 27 undefined on input line 4
-08.
-
-
-Package natbib Warning: Citation `Stocker2013' on page 27 undefined on input li
-ne 408.
-
-
-Package natbib Warning: Citation `Kharouba2018' on page 27 undefined on input l
-ine 408.
 
 [27]
-
-Package natbib Warning: Citation `Gelman2006' on page 28 undefined on input lin
-e 420.
-
-
-Package natbib Warning: Citation `diniz2012selection' on page 28 undefined on i
-nput line 420.
-
-
-Package natbib Warning: Citation `Baumen2017' on page 28 undefined on input lin
-e 420.
-
-
-Package natbib Warning: Citation `griffith2006spatial' on page 28 undefined on 
-input line 420.
-
-
-Package natbib Warning: Citation `morales2012imprint' on page 28 undefined on i
-nput line 420.
-
-[28]
-
-Package natbib Warning: Citation `brms' on page 29 undefined on input line 422.
-
-
-
-Package natbib Warning: Citation `R' on page 29 undefined on input line 422.
-
-
-Overfull \hbox (31.05774pt too wide) in paragraph at lines 431--431
-[] 
- []
-
-[29]
-
-Package natbib Warning: Citation `Gelman2006' on page 30 undefined on input lin
-e 435.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 30 undefined on input line 4
-35.
-
-
-LaTeX Warning: Reference `fig:dvr' on page 30 undefined on input line 435.
-
-
-LaTeX Warning: Reference `fig:five' on page 30 undefined on input line 435.
-
-
-LaTeX Warning: Reference `fig:longtemps' on page 30 undefined on input line 435
-.
-
-
-LaTeX Warning: Reference `fig:bbmap' on page 30 undefined on input line 439.
-
-
-LaTeX Warning: Reference `fig:mst' on page 30 undefined on input line 439.
-
-
-LaTeX Warning: Reference `fig:bbmap' on page 30 undefined on input line 439.
-
-
-LaTeX Warning: Reference `fig:bbmap' on page 30 undefined on input line 439.
-
-
-LaTeX Warning: Reference `fig:bbmap' on page 30 undefined on input line 439.
-
-[30]
-
-LaTeX Warning: Reference `tab:simbbmod' on page 31 undefined on input line 441.
-
-
-
-LaTeX Warning: Reference `tab:simptmin' on page 31 undefined on input line 441.
-
-
-
-LaTeX Warning: Reference `fig:mst' on page 31 undefined on input line 441.
-
-
-LaTeX Warning: Reference `fig:boxfs' on page 31 undefined on input line 441.
-
-
-LaTeX Warning: Reference `tab:bbspp' on page 31 undefined on input line 441.
-
-
-LaTeX Warning: Reference `tab:simbbmod' on page 31 undefined on input line 441.
-
-
-
-LaTeX Warning: Reference `fig:boxfs' on page 31 undefined on input line 441.
-
-
-LaTeX Warning: Reference `fig:boxfs' on page 31 undefined on input line 441.
-
-
-LaTeX Warning: Reference `fig:boxfs' on page 31 undefined on input line 443.
-
-
-LaTeX Warning: Reference `tab:simpfs' on page 31 undefined on input line 443.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 31 undefined on input line 4
-46.
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 31 undefined on input line 4
-46.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 31 undefined on input line 4
-46.
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 31 undefined on input line 4
-46.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 31 undefined on input line 4
-46.
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 31 undefined on input line 4
-46.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 31 undefined on input line 4
-46.
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 31 undefined on input line 4
-46.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 31 undefined on input line 4
-46.
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 31 undefined on input line 4
-46.
-
-[31]
-
-LaTeX Warning: Reference `fig:spp' on page 32 undefined on input line 448.
-
-
-LaTeX Warning: Reference `fig:spp' on page 32 undefined on input line 448.
-
-
-LaTeX Warning: Reference `fig:spp' on page 32 undefined on input line 448.
-
-
-LaTeX Warning: Reference `fig:spp' on page 32 undefined on input line 448.
-
-
-LaTeX Warning: Reference `fig:spp' on page 32 undefined on input line 448.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 32 undefined on input line 4
-50.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 32 undefined on input line 4
-50.
-
-
-LaTeX Warning: Reference `fig:suppapc' on page 32 undefined on input line 450.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 32 undefined on input line 4
-50.
-
-
-LaTeX Warning: Reference `fig:suppapc' on page 32 undefined on input line 450.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 32 undefined on input line 4
-50.
-
-
-LaTeX Warning: Reference `fig:suppapc' on page 32 undefined on input line 450.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 32 undefined on input line 4
-50.
-
-
-LaTeX Warning: Reference `fig:suppapc' on page 32 undefined on input line 450.
-
-[32]
-
-LaTeX Warning: Reference `fig:maineffects' on page 33 undefined on input line 4
-52.
-
-
-LaTeX Warning: Reference `fig:spp' on page 33 undefined on input line 452.
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 33 undefined on input line 4
-52.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 33 undefined on input line 4
-52.
-
-
-LaTeX Warning: Reference `fig:spp' on page 33 undefined on input line 452.
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 33 undefined on input line 4
-52.
-
-
-LaTeX Warning: Reference `fig:maineffects' on page 33 undefined on input line 4
-52.
-
-
-LaTeX Warning: Reference `fig:spp' on page 33 undefined on input line 452.
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 33 undefined on input line 4
-52.
-
-
-LaTeX Warning: Reference `fig:dvr' on page 33 undefined on input line 455.
-
-
-LaTeX Warning: Reference `tab:suppmoddvr' on page 33 undefined on input line 45
-5.
-
-
-LaTeX Warning: Reference `fig:dvr' on page 33 undefined on input line 455.
-
-
-LaTeX Warning: Reference `tab:suppmoddvr' on page 33 undefined on input line 45
-5.
-
-
-LaTeX Warning: Reference `fig:sppdvr' on page 33 undefined on input line 455.
-
-[33]
-
-LaTeX Warning: Reference `fig:five' on page 34 undefined on input line 457.
-
-
-LaTeX Warning: Reference `tab:suppmodfive' on page 34 undefined on input line 4
-57.
-
-
-LaTeX Warning: Reference `fig:sppfive' on page 34 undefined on input line 457.
-
-
-LaTeX Warning: Reference `fig:longtemps' on page 34 undefined on input line 459
-.
-
-
-LaTeX Warning: Reference `tab:suppmodlongtemps' on page 34 undefined on input l
-ine 459.
-
-
-LaTeX Warning: Reference `fig:spptemps' on page 34 undefined on input line 459.
-
-
-
-Package natbib Warning: Citation `Vitasse2018' on page 34 undefined on input li
-ne 462.
-
-
-Package natbib Warning: Citation `Wypych2016' on page 34 undefined on input lin
-e 462.
-
-[34]
-
-LaTeX Warning: Reference `fig:suppapc' on page 35 undefined on input line 464.
-
-
-Package natbib Warning: Citation `Wypych2016a' on page 35 undefined on input li
-ne 467.
-
-
-Package natbib Warning: Citation `Ma2018' on page 35 undefined on input line 46
-7.
-
-
-Package natbib Warning: Citation `Vitasse2018' on page 35 undefined on input li
-ne 467.
-
-
-Package natbib Warning: Citation `Chuine2008' on page 35 undefined on input lin
-e 469.
-
-[35]
-
-Package natbib Warning: Citation `Vitasse2018' on page 36 undefined on input li
-ne 471.
-
-
-Package natbib Warning: Citation `Screen2017' on page 36 undefined on input lin
-e 472.
-
-
-LaTeX Warning: Reference `fig:spp' on page 36 undefined on input line 475.
-
-
-LaTeX Warning: Reference `fig:spp' on page 36 undefined on input line 475.
-
-
-Package natbib Warning: Citation `Zohner2020' on page 36 undefined on input lin
-e 477.
-
-[36]
-
-LaTeX Warning: Reference `fig:boxfs' on page 37 undefined on input line 479.
-
-
-Package natbib Warning: Citation `Wypych2016a' on page 37 undefined on input li
-ne 479.
-
-
-Package natbib Warning: Citation `Ma2018' on page 37 undefined on input line 47
-9.
-
-
-Package natbib Warning: Citation `Vitasse2018' on page 37 undefined on input li
-ne 479.
-
-
-Package natbib Warning: Citation `Dennis2003' on page 37 undefined on input lin
-e 479.
-
-
-Package natbib Warning: Citation `Luedeling2011' on page 37 undefined on input 
-line 479.
-
-
-Package natbib Warning: Citation `Ma2018' on page 37 undefined on input line 48
-1.
-
-
-Package natbib Warning: Citation `Ma2018' on page 37 undefined on input line 48
-1.
-
-[37]
-
-Package natbib Warning: Citation `Chuine2001' on page 38 undefined on input lin
-e 483.
-
-
-LaTeX Warning: Reference `fig:bbmap' on page 38 undefined on input line 483.
-
-
-Package natbib Warning: Citation `Gauzere2019' on page 38 undefined on input li
-ne 486.
-
-[38]
-
-Package natbib Warning: Citation `Korner2016' on page 39 undefined on input lin
-e 488.
-
-
-Package natbib Warning: Citation `Bennett2018' on page 39 undefined on input li
-ne 488.
-
-
-Package natbib Warning: Citation `Zhuo2018' on page 39 undefined on input line 
-488.
-
-[39]
-! Undefined control sequence.
-l.500 ...nd output are available on github at \url
-                                                  {https://github.com/cchamb...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-(./cjc_thesis.bbl [40] [41
-
-] [42] [43] [44] [45] [46] [47] [48] [49] [50])
-[51]
-Underfull \hbox (badness 10000) in paragraph at lines 505--514
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 516--523
-
- []
-
-[52]
-File: figures/bb_base.png Graphic file (type QTm)
- <use  "figures/bb_base.png" >
-File: figures/model_output_98_long.png Graphic file (type QTm)
- <use  "figures/model_output_98_long.png" >
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 53 undefined on input line 5
-36.
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 53 undefined on input line 5
-36.
-
-[53]
-File: figures/mstbb_byspp_lines.png Graphic file (type QTm)
- <use  "figures/mstbb_byspp_lines.png" >
-Overfull \hbox (14.39662pt too wide) in paragraph at lines 542--543
- [] 
- []
-
-[54]
-File: figures/Boxplot_BBTminFS_noDots_modestslong.png Graphic file (type QTm)
- <use  "figures/Boxplot_BBTminFS_noDots_modestslong.png" >
-
-LaTeX Warning: Reference `tab:simbbmod' on page 55 undefined on input line 550.
-
-
-
-LaTeX Warning: Reference `tab:simptmin' on page 55 undefined on input line 550.
-
-
-
-LaTeX Warning: Reference `tab:simpfs' on page 55 undefined on input line 550.
-
-
-LaTeX Warning: Reference `tab:simbbmod' on page 55 undefined on input line 550.
-
-
-
-LaTeX Warning: Reference `tab:simptmin' on page 55 undefined on input line 550.
-
-
-
-LaTeX Warning: Reference `tab:simpfs' on page 55 undefined on input line 550.
-
-
-LaTeX Warning: Reference `tab:simbbmod' on page 55 undefined on input line 550.
-
-
-
-LaTeX Warning: Reference `tab:simptmin' on page 55 undefined on input line 550.
-
-
-
-LaTeX Warning: Reference `tab:simpfs' on page 55 undefined on input line 550.
-
-
-LaTeX Warning: Reference `tab:simbbmod' on page 55 undefined on input line 550.
-
-
-
-LaTeX Warning: Reference `tab:simptmin' on page 55 undefined on input line 550.
-
-
-
-LaTeX Warning: Reference `tab:simpfs' on page 55 undefined on input line 550.
-
-[55]
-File: figures/Species_long.png Graphic file (type QTm)
- <use  "figures/Species_long.png" >
-Overfull \hbox (14.39662pt too wide) in paragraph at lines 557--558
- [] 
- []
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 56 undefined on input line 5
-58.
-
-
-LaTeX Warning: Reference `tab:suppmodlong' on page 56 undefined on input line 5
-58.
-
-[56] [57]
-Chapter 1.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 25.92514pt on input line 563.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 21.61124pt on input line 563.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 563.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 25.92514pt on input line 563.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 21.61124pt on input line 563.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 563.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 563.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 563.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 563.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 563.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 563.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 563.
-[58
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page1>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page1>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page1> [28]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page2>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page2>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page2> [29]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page3>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page3>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page3> [30]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page4>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page4>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page4> [31]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page5>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page5>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page5> [32]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page6>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page6>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page6> [33]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page7>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page7>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page7> [34]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page8>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page8>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page8> [35]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page9>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page9>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page9> [36]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page10>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page10>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page10> [37]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page11>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page11>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page11> [38]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page12>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page12>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page12> [39]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page13>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page13>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page13> [40]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page14>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page14>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page14> [41]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page15>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page15>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page15> [42]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page16>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page16>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page16> [43]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page17>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page17>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page17> [44]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page18>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page18>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page18> [45]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page19>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page19>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page19> [46]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page20>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page20>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page20> [47]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page21>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page21>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page21> [48]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page22>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page22>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page22> [49]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page23>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page23>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page23> [50]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page24>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page24>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page24> [51]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page25>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page25>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page25> [52]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page26>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page26>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page26> [53]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page27>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page27>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page27> [54]
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page28>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz.pdf"  page28>
+File: docs/chillfrz.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz.pdf"  page28> [55]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 ...{ForestGreen}{CHAPTER 3}}}}\label{ch:3}\\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(./cjc_thesis.bbl [56]) [57
 
 ]
-Chapter 2.
-(./cjc_thesis.bbl [59
 
-] [60
+! LaTeX Error: There's no line here to end.
 
-] [61] [62] [63] [64] [65])
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.300 \textbf
+             {Reprinted from:}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-Package natbib Warning: There were undefined citations.
 
-[66] (./cjc_thesis.aux)
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
-LaTeX Warning: There were undefined references.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 ...r~Atauri and Wolkovich}]{Chamberlain2019}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Underfull \hbox (badness 10000) detected at line 302
+[][]
+ []
 
- ) 
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+<use  "docs/rethinking_supp.pdf" >
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+ <use  "docs/rethinking_supp.pdf" >
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page1>
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page1> [58]
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page1>
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page1>
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page1> [59]
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page2>
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page2>
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page2> [60]
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page3>
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page3>
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page3> [61]
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page4>
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page4>
+File: docs/rethinking_supp.pdf Graphic file (type QTm)
+
+<use  "docs/rethinking_supp.pdf"  page4> [62]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.318 \textbf
+             {Reprinted from:}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320   and Wolkovich}]{Chamberlain2020}
+                                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 320
+[][]
+ []
+
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+<use  "docs/regrisk_supp.pdf" >
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf" >
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page1>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page1>
+[63]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page1>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page1>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page1>
+[64]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page2>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page2>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page2>
+[65]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page3>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page3>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page3>
+[66]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page4>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page4>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page4>
+[67]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page5>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page5>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page5>
+[68]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page6>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page6>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page6>
+[69]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page7>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page7>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page7>
+[70]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page8>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page8>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page8>
+[71]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page9>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page9>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page9>
+[72]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page10>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page10>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page10>
+[73]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page11>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page11>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page11>
+[74]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page12>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page12>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page12>
+[75]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page13>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page13>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page13>
+[76]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page14>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page14>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page14>
+[77]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page15>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page15>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page15>
+[78]
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page16>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+
+<use  "docs/regrisk_supp.pdf"  page16>
+File: docs/regrisk_supp.pdf Graphic file (type QTm)
+ <use  "docs/regrisk_supp.pdf"  page16>
+[79]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.337 A
+       rticle acceptance date: 13 April 2021 \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+<use  "docs/chillfrz_supp.pdf" >
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf" >
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page1>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page1>
+Underfull \hbox (badness 10000) in paragraph at lines 337--339
+
+ []
+
+[80]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page1>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page1>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page1>
+[81]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page2>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page2>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page2>
+[82]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page3>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page3>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page3>
+[83]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page4>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page4>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page4>
+[84]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page5>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page5>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page5>
+[85]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page6>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page6>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page6>
+[86]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page7>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page7>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page7>
+[87]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page8>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page8>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page8>
+[88]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page9>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page9>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page9>
+[89]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+ <use  "docs/chillfrz_supp.pdf"  page10>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page10>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page10> [90]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page11>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page11>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page11> [91]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page12>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page12>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page12> [92]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page13>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page13>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page13> [93]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page14>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page14>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page14> [94]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page15>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page15>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page15> [95]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page16>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page16>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page16> [96]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page17>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page17>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page17> [97]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page18>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page18>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page18> [98]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page19>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page19>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page19> [99]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page20>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page20>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page20> [100]
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page21>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page21>
+File: docs/chillfrz_supp.pdf Graphic file (type QTm)
+
+<use  "docs/chillfrz_supp.pdf"  page21> [101]
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf" >
+File: docs/micro_supp.pdf Graphic file (type QTm)
+
+<use  "docs/micro_supp.pdf" >
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page1>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+
+<use  "docs/micro_supp.pdf"  page1> [102]
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page1>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+
+<use  "docs/micro_supp.pdf"  page1>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page1>
+[103]
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page2>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page2>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+
+<use  "docs/micro_supp.pdf"  page2> [104]
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page3>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+
+<use  "docs/micro_supp.pdf"  page3>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page3>
+[105]
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page4>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page4>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+
+<use  "docs/micro_supp.pdf"  page4> [106]
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page5>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+
+<use  "docs/micro_supp.pdf"  page5>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page5>
+[107]
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page6>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page6>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+
+<use  "docs/micro_supp.pdf"  page6> [108]
+
+Package natbib Warning: There were multiply defined citations.
+
+(./cjc_thesis.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) ) 
 Here is how much of TeX's memory you used:
- 18799 strings out of 493591
- 361100 string characters out of 6143546
- 420372 words of memory out of 5000000
- 21899 multiletter control sequences out of 15000+600000
- 70435 words of font info for 136 fonts, out of 8000000 for 9000
+ 19454 strings out of 493591
+ 368527 string characters out of 6143546
+ 438015 words of memory out of 5000000
+ 22542 multiletter control sequences out of 15000+600000
+ 32193 words of font info for 56 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 39i,9n,42p,10383b,587s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,18n,42p,10383b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cjc_thesis.pdf (76 pages).
+Output written on cjc_thesis.pdf (114 pages).
