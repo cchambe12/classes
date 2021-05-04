@@ -100,7 +100,7 @@
 
 \noindent In Chapter 2, we investigated the interplay of false springs and warmer winters (generally expected to reduce chilling) across eight temperate deciduous tree species examining a suite of phenological, growth and leaf tissue traits. We found that false springs increased shoot apical meristem damage and slowed budburst to leafout timing---extending the period of maximum freezing risk. Chilling, however, shortened this period of maximum risk, even under false spring conditions, thus compensating for some of the more adverse phenological effects of false springs. The results suggest climate change could reshape forest communities through impacts on growth and phenology from the coupled effects of false springs and warmer winters under future climate change. \\
 
-\noindent In Chapter 3, we use both simulations and real data to test accumulated degree day model accuracy in a warming world and conclude with a series of simulated forecasts to estimate changes in these model estimates. These methods can be applied to many ecological questions investigating climate data across global habitats but we specifically investigate spring plant phenology and how using different methods to measure climate can impact predictions. Understanding and predicting spring plant phenology is essential for determining growing season length and predicting and individual’s risk of false spring under climate change.
+\noindent In Chapter 3, we use observations from one urban arboretum and one rural forested site to assess growing degree days (GDDs) until budburst using two methods for measuring climate data (i.e., weather station data and hobo logger data). We additionally incorporate simulations to better interpret our results and conclude with a series of simulated forecasts to estimate changes in these GDD model estimates. Our results suggest the urban arboretum site requires fewer GDDs until budburst and may have stronger microclimate effects than the rural forested site but, overall, we find that GDD models may become less accurate with warming. Understanding and predicting spring plant phenology is essential for determining growing season length and predicting and an individual's risk of false spring under climate change.
 
 %\noindent Overall, this dissertation provides insight into spring plant phenology and false spring risk under climate change. %%% this is very similar to Morgan's final sentance, revamp in my own words
 
@@ -121,13 +121,13 @@
 %\listoftables
 %\listoffigures
 \begin{acknowledgments}
-To my committee members, mentors, and collaborators. Thank you for teaching me on how to be a better scientist every day and for instilling curiosity through all of our projects together. I am so grateful for all of your guidance and support throughout. \\
+To my committee members, mentors, and collaborators: thank you for teaching me on how to be a better scientist every day and for instilling curiosity through all of our projects together. I am so grateful for all of your guidance and support throughout. I especially want to thank Lizzie Wolkovich for pushing me to learn and grow as a researcher, statistician, community member and friend. I feel so lucky to have had you as an adviser. \\
 
-\noindent To the Arboretum community, the Tree Spotters, labmates---both at UBC and Harvard---and, of course, my fellow plant storytime peers. Thank you for your continued support, encouragement and fun. You all inspired me daily and motivated me to keep learning from the trees. \\
+\noindent To the Arboretum community, Tree Spotters, labmates---both at UBC and Harvard---and, of course, my fellow plant storytime peers: thank you for your continued support, encouragement and fun. You all inspired me daily and motivated me to keep learning from the trees. \\
 
-\noindent To my friends, family and Kylie. Thank you for always being available for whenever I needed to vent or to celebrate the small victories. I am eternally grateful for your unconditional love and support and motivation to keep fighting. And thank you for reminding me of all that is important outside of science and graduate school and for keeping me grounded and my life full of fun, laughter and love. \\
+\noindent To my friends, family and Kylie: thank you for always being available for whenever I needed to vent or to celebrate the small victories. I am eternally grateful for your unconditional love and support and motivation to keep fighting. And thank you for reminding me of all that is important outside of science and graduate school and for keeping me grounded and for filling my life with fun, laughter and love. \\
 
-\noindent And a special thank you to my parents for helping me navigate some of the hardest moments and for encouraging me to succeed. Thank you for always believing in me. 
+\noindent And a special thank you to my parents, brother and sister-in-law for helping me navigate some of the hardest moments and for encouraging me to succeed. Thank you for always believing in me. 
 
 \end{acknowledgments}
 %\begin{dedication}
