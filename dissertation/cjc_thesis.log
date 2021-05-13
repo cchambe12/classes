@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  4 MAY 2021 16:06
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  13 MAY 2021 13:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1180,12 +1180,6 @@ Overfull \hbox (19.43085pt too wide) in paragraph at lines 143--143
 [][] []
  []
 
-Missing character: There is no ’ in font aer10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
@@ -1571,7 +1565,7 @@ File: docs/chillfrz.pdf Graphic file (type QTm)
 <use  "docs/chillfrz.pdf"  page1>
 File: docs/chillfrz.pdf Graphic file (type QTm)
  <use  "docs/chillfrz.pdf"  page1>
-Underfull \hbox (badness 10000) in paragraph at lines 244--247
+Underfull \hbox (badness 10000) in paragraph at lines 244--249
 
  []
 
@@ -1792,13 +1786,192 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.257 ...{ForestGreen}{CHAPTER 3}}}}\label{ch:3}\\
+l.259 ...{ForestGreen}{CHAPTER 3}}}}\label{ch:3}\\
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-(./cjc_thesis.bbl [56]) [57
+File: docs/microclimates.pdf Graphic file (type QTm)
+<use  "docs/microclimates.pdf" >
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf" >
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page1>
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page1>
+[56]
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page1>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page1>
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page1>
+[57]
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page2>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page2>
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page2>
+[58]
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page3>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page3>
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page3>
+[59]
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page4>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page4>
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page4>
+[60]
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page5>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page5>
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page5>
+[61]
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page6>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page6>
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page6>
+[62]
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page7>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page7>
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page7>
+[63]
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page8>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page8>
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page8>
+[64]
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page9>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page9>
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page9>
+[65]
+File: docs/microclimates.pdf Graphic file (type QTm)
+ <use  "docs/microclimates.pdf"  page10>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page10>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page10> [66]
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page11>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page11>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page11> [67]
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page12>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page12>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page12> [68]
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page13>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page13>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page13> [69]
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page14>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page14>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page14> [70]
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page15>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page15>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page15> [71]
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page16>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page16>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page16> [72]
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page17>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page17>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page17> [73]
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page18>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page18>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page18> [74]
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page19>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page19>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page19> [75]
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page20>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page20>
+File: docs/microclimates.pdf Graphic file (type QTm)
+
+<use  "docs/microclimates.pdf"  page20> [76] (./cjc_thesis.bbl) [77
 
 ]
 
@@ -1808,7 +1981,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.300 \textbf
+l.302 \textbf
              {Reprinted from:}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1821,13 +1994,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.302 ...r~Atauri and Wolkovich}]{Chamberlain2019}
+l.304 ...r~Atauri and Wolkovich}]{Chamberlain2019}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 302
+Underfull \hbox (badness 10000) detected at line 304
 [][]
  []
 
@@ -1840,7 +2013,7 @@ File: docs/rethinking_supp.pdf Graphic file (type QTm)
 <use  "docs/rethinking_supp.pdf"  page1>
 File: docs/rethinking_supp.pdf Graphic file (type QTm)
 
-<use  "docs/rethinking_supp.pdf"  page1> [58]
+<use  "docs/rethinking_supp.pdf"  page1> [78]
 File: docs/rethinking_supp.pdf Graphic file (type QTm)
 
 <use  "docs/rethinking_supp.pdf"  page1>
@@ -1849,7 +2022,7 @@ File: docs/rethinking_supp.pdf Graphic file (type QTm)
 <use  "docs/rethinking_supp.pdf"  page1>
 File: docs/rethinking_supp.pdf Graphic file (type QTm)
 
-<use  "docs/rethinking_supp.pdf"  page1> [59]
+<use  "docs/rethinking_supp.pdf"  page1> [79]
 File: docs/rethinking_supp.pdf Graphic file (type QTm)
 
 <use  "docs/rethinking_supp.pdf"  page2>
@@ -1858,7 +2031,7 @@ File: docs/rethinking_supp.pdf Graphic file (type QTm)
 <use  "docs/rethinking_supp.pdf"  page2>
 File: docs/rethinking_supp.pdf Graphic file (type QTm)
 
-<use  "docs/rethinking_supp.pdf"  page2> [60]
+<use  "docs/rethinking_supp.pdf"  page2> [80]
 File: docs/rethinking_supp.pdf Graphic file (type QTm)
 
 <use  "docs/rethinking_supp.pdf"  page3>
@@ -1867,7 +2040,7 @@ File: docs/rethinking_supp.pdf Graphic file (type QTm)
 <use  "docs/rethinking_supp.pdf"  page3>
 File: docs/rethinking_supp.pdf Graphic file (type QTm)
 
-<use  "docs/rethinking_supp.pdf"  page3> [61]
+<use  "docs/rethinking_supp.pdf"  page3> [81]
 File: docs/rethinking_supp.pdf Graphic file (type QTm)
 
 <use  "docs/rethinking_supp.pdf"  page4>
@@ -1876,7 +2049,7 @@ File: docs/rethinking_supp.pdf Graphic file (type QTm)
 <use  "docs/rethinking_supp.pdf"  page4>
 File: docs/rethinking_supp.pdf Graphic file (type QTm)
 
-<use  "docs/rethinking_supp.pdf"  page4> [62]
+<use  "docs/rethinking_supp.pdf"  page4> [82]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1884,7 +2057,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.318 \textbf
+l.320 \textbf
              {Reprinted from:}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1897,13 +2070,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.320   and Wolkovich}]{Chamberlain2020}
+l.322   and Wolkovich}]{Chamberlain2020}
                                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 320
+Underfull \hbox (badness 10000) detected at line 322
 [][]
  []
 
@@ -1916,7 +2089,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page1>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page1>
-[63]
+[83]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page1>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -1924,7 +2097,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page1>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page1>
-[64]
+[84]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page2>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -1932,7 +2105,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page2>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page2>
-[65]
+[85]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page3>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -1940,7 +2113,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page3>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page3>
-[66]
+[86]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page4>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -1948,7 +2121,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page4>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page4>
-[67]
+[87]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page5>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -1956,7 +2129,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page5>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page5>
-[68]
+[88]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page6>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -1964,7 +2137,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page6>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page6>
-[69]
+[89]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page7>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -1972,7 +2145,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page7>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page7>
-[70]
+[90]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page8>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -1980,7 +2153,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page8>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page8>
-[71]
+[91]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page9>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -1988,7 +2161,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page9>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page9>
-[72]
+[92]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page10>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -1996,7 +2169,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page10>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page10>
-[73]
+[93]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page11>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -2004,7 +2177,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page11>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page11>
-[74]
+[94]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page12>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -2012,7 +2185,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page12>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page12>
-[75]
+[95]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page13>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -2020,7 +2193,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page13>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page13>
-[76]
+[96]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page14>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -2028,7 +2201,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page14>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page14>
-[77]
+[97]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page15>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -2036,7 +2209,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page15>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page15>
-[78]
+[98]
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page16>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
@@ -2044,7 +2217,7 @@ File: docs/regrisk_supp.pdf Graphic file (type QTm)
 <use  "docs/regrisk_supp.pdf"  page16>
 File: docs/regrisk_supp.pdf Graphic file (type QTm)
  <use  "docs/regrisk_supp.pdf"  page16>
-[79]
+[99]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2052,7 +2225,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.337 A
+l.339 A
        rticle acceptance date: 13 April 2021 \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2067,11 +2240,11 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page1>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page1>
-Underfull \hbox (badness 10000) in paragraph at lines 337--339
+Underfull \hbox (badness 10000) in paragraph at lines 339--341
 
  []
 
-[80]
+[100]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page1>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
@@ -2079,7 +2252,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page1>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page1>
-[81]
+[101]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page2>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
@@ -2087,7 +2260,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page2>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page2>
-[82]
+[102]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page3>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
@@ -2095,7 +2268,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page3>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page3>
-[83]
+[103]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page4>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
@@ -2103,7 +2276,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page4>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page4>
-[84]
+[104]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page5>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
@@ -2111,7 +2284,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page5>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page5>
-[85]
+[105]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page6>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
@@ -2119,7 +2292,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page6>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page6>
-[86]
+[106]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page7>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
@@ -2127,7 +2300,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page7>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page7>
-[87]
+[107]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page8>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
@@ -2135,7 +2308,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page8>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page8>
-[88]
+[108]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page9>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
@@ -2143,7 +2316,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page9>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page9>
-[89]
+[109]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
  <use  "docs/chillfrz_supp.pdf"  page10>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
@@ -2151,7 +2324,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page10>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page10> [90]
+<use  "docs/chillfrz_supp.pdf"  page10> [110]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page11>
@@ -2160,7 +2333,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page11>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page11> [91]
+<use  "docs/chillfrz_supp.pdf"  page11> [111]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page12>
@@ -2169,7 +2342,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page12>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page12> [92]
+<use  "docs/chillfrz_supp.pdf"  page12> [112]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page13>
@@ -2178,7 +2351,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page13>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page13> [93]
+<use  "docs/chillfrz_supp.pdf"  page13> [113]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page14>
@@ -2187,7 +2360,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page14>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page14> [94]
+<use  "docs/chillfrz_supp.pdf"  page14> [114]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page15>
@@ -2196,7 +2369,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page15>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page15> [95]
+<use  "docs/chillfrz_supp.pdf"  page15> [115]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page16>
@@ -2205,7 +2378,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page16>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page16> [96]
+<use  "docs/chillfrz_supp.pdf"  page16> [116]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page17>
@@ -2214,7 +2387,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page17>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page17> [97]
+<use  "docs/chillfrz_supp.pdf"  page17> [117]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page18>
@@ -2223,7 +2396,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page18>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page18> [98]
+<use  "docs/chillfrz_supp.pdf"  page18> [118]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page19>
@@ -2232,7 +2405,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page19>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page19> [99]
+<use  "docs/chillfrz_supp.pdf"  page19> [119]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page20>
@@ -2241,7 +2414,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page20>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page20> [100]
+<use  "docs/chillfrz_supp.pdf"  page20> [120]
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
 <use  "docs/chillfrz_supp.pdf"  page21>
@@ -2250,7 +2423,7 @@ File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 <use  "docs/chillfrz_supp.pdf"  page21>
 File: docs/chillfrz_supp.pdf Graphic file (type QTm)
 
-<use  "docs/chillfrz_supp.pdf"  page21> [101]
+<use  "docs/chillfrz_supp.pdf"  page21> [121]
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf" >
 File: docs/micro_supp.pdf Graphic file (type QTm)
@@ -2260,7 +2433,7 @@ File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page1>
 File: docs/micro_supp.pdf Graphic file (type QTm)
 
-<use  "docs/micro_supp.pdf"  page1> [102]
+<use  "docs/micro_supp.pdf"  page1> [122]
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page1>
 File: docs/micro_supp.pdf Graphic file (type QTm)
@@ -2268,14 +2441,14 @@ File: docs/micro_supp.pdf Graphic file (type QTm)
 <use  "docs/micro_supp.pdf"  page1>
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page1>
-[103]
+[123]
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page2>
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page2>
 File: docs/micro_supp.pdf Graphic file (type QTm)
 
-<use  "docs/micro_supp.pdf"  page2> [104]
+<use  "docs/micro_supp.pdf"  page2> [124]
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page3>
 File: docs/micro_supp.pdf Graphic file (type QTm)
@@ -2283,14 +2456,14 @@ File: docs/micro_supp.pdf Graphic file (type QTm)
 <use  "docs/micro_supp.pdf"  page3>
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page3>
-[105]
+[125]
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page4>
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page4>
 File: docs/micro_supp.pdf Graphic file (type QTm)
 
-<use  "docs/micro_supp.pdf"  page4> [106]
+<use  "docs/micro_supp.pdf"  page4> [126]
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page5>
 File: docs/micro_supp.pdf Graphic file (type QTm)
@@ -2298,14 +2471,22 @@ File: docs/micro_supp.pdf Graphic file (type QTm)
 <use  "docs/micro_supp.pdf"  page5>
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page5>
-[107]
+[127]
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page6>
 File: docs/micro_supp.pdf Graphic file (type QTm)
  <use  "docs/micro_supp.pdf"  page6>
 File: docs/micro_supp.pdf Graphic file (type QTm)
 
-<use  "docs/micro_supp.pdf"  page6> [108]
+<use  "docs/micro_supp.pdf"  page6> [128]
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page7>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+
+<use  "docs/micro_supp.pdf"  page7>
+File: docs/micro_supp.pdf Graphic file (type QTm)
+ <use  "docs/micro_supp.pdf"  page7>
+[129]
 
 Package natbib Warning: There were multiply defined citations.
 
@@ -2316,12 +2497,12 @@ Package natbib Warning: Citation(s) may have changed.
 
 ) ) 
 Here is how much of TeX's memory you used:
- 19454 strings out of 493591
- 368527 string characters out of 6143546
- 438015 words of memory out of 5000000
- 22542 multiletter control sequences out of 15000+600000
+ 19457 strings out of 493591
+ 368583 string characters out of 6143546
+ 438016 words of memory out of 5000000
+ 22543 multiletter control sequences out of 15000+600000
  32193 words of font info for 56 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  39i,18n,42p,10383b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cjc_thesis.pdf (114 pages).
+Output written on cjc_thesis.pdf (135 pages).

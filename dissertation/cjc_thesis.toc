@@ -5,8 +5,8 @@
 \contentsline {chapter}{Chapter 1}{14}
 \contentsline {chapter}{Chapter 2}{27}
 \contentsline {chapter}{Chapter 3}{56}
-\contentsline {chapter}{References}{57}
-\contentsline {chapter}{Appendix A: Introduction supplementary material}{58}
-\contentsline {chapter}{Appendix B: Chapter 1 supplementary material}{63}
-\contentsline {chapter}{Appendix C: Chapter 2 supplementary material}{80}
-\contentsline {chapter}{Appendix D: Chapter 3 supplementary material}{102}
+\contentsline {chapter}{References}{77}
+\contentsline {chapter}{Appendix A: Introduction supplementary material}{78}
+\contentsline {chapter}{Appendix B: Chapter 1 supplementary material}{83}
+\contentsline {chapter}{Appendix C: Chapter 2 supplementary material}{100}
+\contentsline {chapter}{Appendix D: Chapter 3 supplementary material}{122}
